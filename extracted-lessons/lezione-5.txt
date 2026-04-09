@@ -1,0 +1,647 @@
+# Google Ads - Lezione 5.pdf
+# Pages: 58
+
+## Page 1
+
+CORSO GOOGLE ADS
+Lezione 5
+
+## Page 2
+
+Argomenti trattati nella scorsa lezione
+Cosa abbiamo vista nella scorsa lezione:
+● Creazione di una campagna su rete di Ricerca;
+● Gli annunci e le estensioni;
+● Norme redazionali e contenuti vietati;
+● Ottimizzazione di una campagna su rete di Ricerca: il Quality Score, il sistema
+d’Asta e l’AdRank;
+2
+Corso Google Ads - Modulo 5
+
+## Page 3
+
+Riguardo agli aspetti trattati nella scorsa lezione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 4
+
+Benvenuti nella quinta parte del corso di Google Ads
+Cosa vedremo in questa lezione:
+● Strategie per le campagne su rete di Ricerca;
+● Le Landing Page;
+● Creazione di una campagna Display;
+● Il Remarketing e il collegamento di Google Ads con Analytics;
+● Strategie per le campagne Display;
+4
+Corso Google Ads - Modulo 5
+
+## Page 5
+
+Prima di procedere però…
+Diamo un’occhiata alle campagne su rete di Ricerca che avete creato a casa.
+5
+Corso Google Ads - Modulo 5
+
+## Page 6
+
+Strategie per le campagne su rete di
+Ricerca
+Corso Google Ads - Modulo 5
+
+## Page 7
+
+Strategie: campagne/gruppi di annunci BRAND
+Una delle strategie più diffuse in Google Ads è quella di biddare su parole chiave legate al
+nostro brand, in un gruppo di annunci o una campagna dedicata.
+I pro della strategia sono:
+- Se già siamo ben posizionati a livello organico, pensate cosa
+significa apparire due volte in prima pagina;
+- Possiamo controllare il copy dell’annuncio, e la pagina su cui far
+atterrare l’utente dopo il clic;
+- Ti difendi da azioni aggressive da parte dei competitors che
+potrebbero voler biddare su keyword inerenti al tuo brand;
+- Sono generalmente molto economiche;
+- Spesso e volentieri sono parole chiave che delineano un forte
+interesse verso un’attività e i relativi prodotti o servizi. L’utente è
+comunque in una fase del funnel più profonda rispetto alla mera
+ricerca informativa;
+7
+Corso Google Ads - Modulo 5
+
+## Page 8
+
+Strategie: campagne/gruppi di annunci BRAND
+I contro della strategia sono:
+- Potrebbero essere keyword poco inerenti alla promozione che
+stiamo facendo;
+- Potremmo non avere un marchio così affermato da generare
+ricerche su Google;
+- Bisogna sempre ricordare che la pagina di atterraggio sia
+prettamente configurata per ospitare utenti provenienti da una
+campagna ppc;
+Qui sotto, un esempio dei risultati di una campagna branded:
+8
+Corso Google Ads - Modulo 5
+
+## Page 9
+
+Strategie: campagne/gruppi di annunci BRAND COMPETITOR
+Anche biddare su parole chiave inerenti al brand dei nostri competitors è una strategia molto
+diffusa. Il vantaggio è sicuramente quello di andare ad intercettare traﬃco verso il sito del nostro
+concorrente e provare a portarlo nel nostro.
+Tuttavia è bene ricordare alcuni punti importanti quando si prende in esame questa tattica.
+In primis, l’utente che effettua una ricerca utilizzando il nome di un brand, molto probabilmente sta
+andando a cercare proprio il sito di questo brand. Portare l’utente in un sito diverso da quello a cui
+era interessato porta molte volte a fughe immediate con conseguente aumento del tasso di
+rimbalzo.
+9
+Corso Google Ads - Modulo 5
+
+## Page 10
+
+Strategie: campagne/gruppi di annunci BRAND COMPETITOR
+Inoltre, se il nostro competitor capisce che stiamo investendo su parole chiave inerenti il suo
+brand, probabilmente correrà ai ripari con campagne Brand.
+Le campagne sui brand dei competitors raramente hanno grandi punteggi di qualità, e pertanto i
+costi sono abbastanza marcati.
+Infine, per esperienza, mi è capitato vedere clienti ricevere lettere dai legali del competitor
+intimando di terminare questo tipo di attività.
+Secondo le policy di Google, se non si utilizza il nome competitor nel testo degli annunci, non si sta
+infrangendo nessuna regola, ma una lettera da un legale è pur sempre una lettera da un legale e
+bisogna essere al corrente di questo possibile scenario.
+Investire sui nomi dei competitors rimane quindi una buona strategia soprattutto quando essi sono
+“scoperti” sotto l’aspetto delle campagne su Google Ads.
+10
+Corso Google Ads - Modulo 5
+
+## Page 11
+
+Strategie: le campagne DSA (Dynamic Search Ads)
+Gli annunci di ricerca dinamica utilizzano il contenuto del sito web per indirizzare gli annunci e
+possono aiutare a riempire alcune lacune delle campagne basate su parole chiave.
+I titoli degli annunci di ricerca e le pagine di destinazione vengono generati utilizzando il
+contenuto del tuo sito web.
+Rappresentano una strategia ideale per gli inserzionisti con un sito web ben sviluppato o un grande
+inventario, ma non solo.
+Potrebbero invece non fare al caso di piccoli clienti (per ora) ma si tratta di una campagna su cui
+Google sta spingendo molto, è quindi bene conoscerla e saperla padroneggiare.
+Ci fornisce inoltre un punto di vista differente sulle tipologie di Targeting.
+11
+Corso Google Ads - Modulo 5
+
+## Page 12
+
+Riguardo alla strategie per le campagne su rete di Ricerca…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 13
+
+Le Landing Page
+Corso Google Ads - Modulo 5
+
+## Page 14
+
+Partiamo subito con una domanda…
+Cos’è secondo voi una Landing Page?
+14
+Corso Google Ads - Modulo 5
+
+## Page 15
+
+La Landing Page: che cos’è?
+Una Landing Page (o pagina di atterraggio in italiano)
+non è altro che la pagina in cui atterreranno gli utenti
+dopo aver cliccato i nostri annunci.
+A differenza di una pagina web classica, che molte volte
+è improntata per piacere prima ai motori di ricerca e poi
+agli utenti, lo scopo di una landing è quello di catturare
+l’attenzione di un utente e non lasciarlo scappare.
+Gli ingredienti minimi per una landing sono testi,
+immagini e form di contatto, tutto il resto è “in più” ma
+può essere molto utile alla causa.
+Molte volte si pensa che le landing siano chissà cosa, in
+realtà sono semplici pagine web con lo scopo di favorire
+la conversione dell’utente.
+15
+Corso Google Ads - Modulo 5
+
+## Page 16
+
+La Landing Page: alcuni esempi
+Prima di creare una Landing Page è sempre bene studiare quelle dei competitors o di
+business simili a quello che dobbiamo promuovere.
+Esempi di Landing Page:
+16
+Corso Google Ads - Modulo 5
+
+## Page 17
+
+La Landing Page: come ottimizzarla
+Quando dobbiamo ottimizzare una Landing Page le cose che andremo a migliorare sono:
+● La velocità della pagina, misurabile attraverso uno dei tanti tool online;
+● La fruibilità sia mobile che desktop;
+● La pertinenza tra ricerca, annuncio e Landing;
+● CTA precisa, chiara e visibile;
+● Nessuna via di uscita
+Creare Landing funzionanti è parte integrante del lavoro di un professionista Google Ads.
+Per sopperire alla poca esperienza con il codice HTML e CSS, ci vengono in aiuto diversi tool.
+Eccone un rapido elenco:
+17
+Corso Google Ads - Modulo 5
+
+## Page 18
+
+La Landing Page: imparare a valutarla
+Una delle più importanti cose da fare per valutare le campagne dei nostri competitors è
+l’analisi della pagina di atterraggio. Essa infatti può dirci molto riguardo gli obiettivi della
+campagna e può fornire altre utili indicazioni.
+Analizzandola infatti possiamo provare a dedurre se chi sta eseguendo l’azione di marketing
+abbia organizzato bene le cose, se sta lavorando seguendo un particolare criterio per
+ottimizzare il punteggio di qualità o se è semplicemente un neofita.
+18
+Corso Google Ads - Modulo 5
+
+## Page 19
+
+Riguardo alle Landing Page…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 20
+
+Esercitazione #7
+Diamo insieme uno sguardo a diverse Landing Page su ricerche a piacere.
+Una alla volta provate ad analizzare i seguenti punti:
+1. Aspetto grafico della pagina;
+2. Fruibilità;
+3. 4. Pertinenza keyword > annuncio > pagina.;
+CTA chiara e facilmente eseguibile;
+20
+Corso Google Ads - Modulo 5
+
+## Page 21
+
+Creazione di una campagna Display
+Corso Google Ads - Modulo 5
+
+## Page 22
+
+Campagne Display: Recap
+Mentre nella rete di Ricerca puoi raggiungere le persone che sono già alla ricerca di beni o
+servizi specifici, la rete Display ti consente di catturare l'attenzione di utenti in una fase
+anteriore del ciclo di acquisto.
+Puoi proporre i tuoi annunci agli utenti prima che inizino a
+cercare i prodotti o i servizi offerti, un fattore che può essere determinante per la tua
+strategia pubblicitaria complessiva.
+Puoi anche ricordare agli utenti i contenuti di loro interesse, come nel caso del remarketing
+di utenti che hanno già visitato il tuo sito o la tua app.
+22
+Corso Google Ads - Modulo 5
+
+## Page 23
+
+Campagne Display: Recap
+23
+Corso Google Ads - Modulo 5
+
+## Page 24
+
+Campagne Display: qualche esempio
+24
+Corso Google Ads - Modulo 5
+
+## Page 25
+
+Creazione di una campagna Display
+Iniziamo cliccando il pulsante “+ Nuova campagna” all’interno del nostro account.
+25
+Corso Google Ads - Modulo 5
+
+## Page 26
+
+Creazione di una campagna Display
+A questo punto ci viene chiesto quale sia lo scopo della nostra campagna. Ciò che inseriamo
+in questa sezione non avrà nessun tipo di ripercussione sulle performance della campagna
+ma si limiterà a rimuovere determinate opzioni di personalizzazione nei passaggi successivi.
+Il mio consiglio è quindi di procedere sempre con “Crea una campagna senza obiettivo” in
+modo da mantenere tutte le opzioni di personalizzazione possibile.
+26
+Corso Google Ads - Modulo 5
+
+## Page 27
+
+Creazione di una campagna Display
+Selezioniamo ora la tipologia di campagna che vogliamo creare. Nel nostro caso
+selezioneremo quindi “Display”.
+27
+Corso Google Ads - Modulo 5
+
+## Page 28
+
+Creazione di una campagna su rete di Ricerca
+Ci verrà poi chiesto per quali obiettivi di conversione vogliamo ottimizzare il rendimento
+della nostra campagna. Per il momento ignoriamo e passiamo oltre, lo vedremo al modulo 6.
+28
+Corso Google Ads - Modulo 5
+
+## Page 29
+
+Creazione di una campagna Display
+Concludiamo l’ultimo passaggio inserendo l’url del nostro sito web (facoltativo) e
+specificando il nome da assegnare alla campagna.
+29
+Corso Google Ads - Modulo 5
+
+## Page 30
+
+Creazione di una campagna Display
+A questo punto possiamo il targeting geografico, la lingua e molte altre impostazioni di
+pubblicazione.
+30
+Corso Google Ads - Modulo 5
+
+## Page 31
+
+Creazione di una campagna Display
+Inseriamo il budget e la strategia di offerta con cui vogliamo partire.
+31
+Corso Google Ads - Modulo 5
+
+## Page 32
+
+Creazione di una campagna Display
+Arriviamo così alla fase più importante per la creazione di una campagna Display:
+il Targeting.
+32
+Corso Google Ads - Modulo 5
+
+## Page 33
+
+Creazione di una campagna Display
+Come potete vedere nello screen precedente, Google ci mette a disposizione
+diversi tipologie di Targeting:
+● Segmenti di pubblico: suggerisci a chi mostrare gli annunci scegliendo tra
+diverse audience;
+● Dati demografici: raggiungi gli utenti in base ai loro dati demografici;
+● Parole chiave: suggerisci termini relativi a prodotti o servizi che offri per
+selezionare come target siti web pertinenti;
+● Argomenti: suggerisci pagine web, app e video dedicati a uno specifico tema;
+● Posizionamenti: suggerisci siti web, video o app in cui vorresti pubblicare i
+tuoi annunci;
+33
+Corso Google Ads - Modulo 5
+
+## Page 34
+
+Creazione di una campagna Display
+Quando scegliamo i nostri criteri di Targeting, la piattaforma ci da la possibilità di
+utilizzarli in 2 modi alternativi:
+Osservazione
+Targeting
+Non restringe la copertura del
+gruppo di annunci, si limita a
+monitorare le performance di quel
+singolo criterio di targeting.
+Restringe la copertura del gruppo
+di annunci ai segmenti di
+pubblico selezionati, con l'opzione
+di aggiustare le offerte.
+34
+Corso Google Ads - Modulo 5
+
+## Page 35
+
+Creazione di una campagna Display
+Terminiamo questa sezione con la
+creazione dei nostri annunci
+Display adattabili, inserendo:
+● URL finale;
+● Nome attività;
+● Immagini: requisiti;
+● Loghi: requisiti;
+● Video;
+● Titoli: max 5 da 30 caratteri
+ciascuno;
+● Titolo Lungo: max 90
+caratteri;
+● Descrizioni: max 5 da 90
+caratteri ciascuna;
+35
+Corso Google Ads - Modulo 5
+
+## Page 36
+
+Creazione di una campagna Display
+Il consiglio è di utilizzare sempre delle creative dedicate anche se purtroppo non
+sempre questo è possibile, principalmente per questioni di Budget.
+Google ci viene in aiuto dandoci la possibilità di scansionare il nostro sito alla
+ricerca di immagini utilizzabili o di sfruttare immagini stock.
+Siti di immagini stock:
+unsplash.com
+pexels.com
+36
+Corso Google Ads - Modulo 5
+
+## Page 37
+
+Creazione di una campagna Display
+Rivediamo tutti i vari passaggi e clicchiamo su
+“Pubblica campagna”.
+37
+Corso Google Ads - Modulo 5
+
+## Page 38
+
+Riguardo alla creazione di una campagna Display…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 39
+
+Esercitazione #8
+Mettiamo in pratica quanto appreso nelle ultime slide e creiamo una campagna
+Display per il cliente www.otovo.it.
+I punti importanti che verranno corretti sono:
+1. Corretta impostazione della campagna in termini di località e strategie di
+offerta;
+2. Corretta scelta del targeting;
+3. Saranno apprezzato il copy e le creatives degli annunci;
+39
+Corso Google Ads - Modulo 5
+
+## Page 40
+
+Il Remarketing e il collegamento di Google
+Ads con Analytics
+Corso Google Ads - Modulo 5
+
+## Page 41
+
+Le campagne di Remarketing: cosa sono
+Le campagne di Remarketing consistono nel mostrare i nostri annunci a utenti che hanno
+già visitato e interagito con il nostro sito web, sfruttando delle audience/segmenti di
+pubblico creati a partire dal tag di Google Ads o Analytics.
+Sarà possibile creare segmenti di pubblico molto specifici (es. visitatori di una specifica
+sezione del sito, di sesso femminile, che hanno acquistato un determinato prodotto ecc).
+41
+Corso Google Ads - Modulo 5
+
+## Page 42
+
+Le campagne di Remarketing: esempi
+Quando pensiamo alle campagne di Remarketing, ci può risultare facile ricordare
+di esserne stati “vittima”.
+Molti grandi player, come ad esempio eCommerce di grandi dimensioni, adottano
+infatti questa strategia.
+Qui sotto alcuni esempi di pubblici che potremmo creare per le nostre campagne
+di Remarketing:
+● Utenti che hanno visitato la nostra Landing Page per più di 30 secondi ma non
+hanno convertito;
+● Utenti che hanno acquistato almeno una volta negli ultimi tre mesi;
+● Utenti che hanno visitato almeno 5 pagine del nostro sito web;
+● Utenti che hanno aggiunto prodotti al carrello ma non hanno acquistato;
+42
+Corso Google Ads - Modulo 5
+
+## Page 43
+
+Le campagne di Remarketing: creare il pubblico
+Il pubblico per le nostre campagne potrà essere creato attraverso due sistemi
+alternativi:
+● Attraverso l’installazione sul sito
+del codice di tracciamento di
+Analytics;
+● Possibilità di creare audience
+‘complesse’ ma più raﬃnate, utili in
+molti casi;
+● Leggermente più diﬃcile da
+padroneggiare;
+● Attraverso l’installazione del
+nuovo Global Site Tag;
+● Possibilità di creare audience
+molto semplici: visitatori,
+traﬃco convertito, visitatori di
+pagine specifiche ecc.;
+43
+Corso Google Ads - Modulo 5
+
+## Page 44
+
+Le campagne di Remarketing: requisiti fondamentali
+Un segmento di Remarketing per poter essere utilizzato all’interno di una campagna deve
+soddisfare dei requisiti fondamentali.
+Su rete Display, ad esempio, il pubblico deve essere popolato da almeno 100 visitatori o
+utenti negli ultimi 30 giorni.
+Oltre a questo, ovviamente, sarà importante disporre di:
+● Account Analytics e Google Ads collegati e perfettamente funzionanti;
+● Segmento di pubblico creato e pronto all’uso;
+● Una campagna Display con la quale veicolare i nostri annunci;
+44
+Corso Google Ads - Modulo 5
+
+## Page 45
+
+Le campagne di Remarketing: collegare Google Ads ad Analytics
+Per collegare Google Ads ad
+Analytics occorre navigare nella
+scheda AMMINISTRATORE
+all’interno del nostro account
+Analytics, come si vede
+nello screen a sinistra.
+Arrivati in questa sezione,
+occorrerà semplicemente premere
+su “Collegamento a Google Ads”
+nella scheda proprietà. Da qui
+selezioniamo il nostro account
+Google Ads.
+45
+Corso Google Ads - Modulo 5
+
+## Page 46
+
+Le campagne di Remarketing: collegare Google Ads ad Analytics
+I motivi per la quale è consigliato
+collegare Google Ads ad Analytics
+sono diversi, la stessa piattaforma li
+elencherà a seguito dell’avvenuto
+collegamento.
+Avere un riferimento in azienda o
+presso il cliente riguardo il titolare
+degli accessi e l’incaricato della
+gestione dell’account Analytics ci
+sarà sempre di grande aiuto.
+46
+Corso Google Ads - Modulo 5
+
+## Page 47
+
+Le campagne di Remarketing: creare il pubblico con Analytics
+Per creare un segmento di
+pubblico con Google Analytics
+occorre navigare nella scheda
+AMMINISTRATORE all’interno
+dell’account Analytics.
+Arrivati in questa sezione,
+occorrerà semplicemente cliccare
+su “Definizione dei segmenti di
+pubblico” e nuovamente su
+“segmenti di pubblico”.
+47
+Corso Google Ads - Modulo 5
+
+## Page 48
+
+Le campagne di Remarketing: creare il pubblico con Analytics
+Da qui in avanti, premendo su + NUOVO SEGMENTO DI PUBBLICO avremo la
+possibilità di creare diverse tipologie di segmenti sulla base di comportamenti,
+eventi all’interno del sito o pagine visitate.
+I segmenti di Remarketing, una volta creati, compariranno automaticamente nella sezione “In
+che modo hanno interagito con la tua attività” all’interno dell’account Google Ads collegato.
+48
+Corso Google Ads - Modulo 5
+
+## Page 49
+
+Riguardo alle campagne di Remarketing…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 50
+
+Strategie per le campagne Display
+Corso Google Ads - Modulo 5
+
+## Page 51
+
+Strategie per le campagne Display
+Le campagne Display rappresentano una tipologia di campagna che si discosta per
+funzionamento e formato di annuncio dalle classiche campagne su rete di Ricerca.
+Nel creare una campagna di questo tipo è bene fissare alcuni punti:
+● Le campagne Display possono essere di remarketing, come visto poco fa, o di
+prospecting, quando voglio andare a colpire utenti freddi che mi aspetto possano
+convertire sulla base di una loro caratteristica;
+● A livello di ottimizzazione, principalmente sarà necessario scremare i
+posizionamenti, testare le audience e le creatività;
+● La rete Display ci permette anche di pagare a Impression, tramite l’offerta per CPM
+Visibile, quando il nostro obiettivo è l'esposizione del brand;
+51
+Corso Google Ads - Modulo 5
+
+## Page 52
+
+Strategie per le campagne Display: esclusioni
+Il sistema Display ospita moltissimi
+posizionamenti possibili, dai siti alle App
+presenti nell’ecosistema Google.
+Una parte fondamentale del processo di
+ottimizzazione sarà escludere i
+posizionamenti meno performanti al fine di
+migliorare il rendimento della campagna.
+52
+Corso Google Ads - Modulo 5
+
+## Page 53
+
+Strategie per le campagne Display: budget
+Possiamo ipotizzare inizialmente un costo per clic pari a ¹⁄3 di quanto abbiamo
+individuato nelle rete di ricerca come benchmark iniziale.
+Genericamente le gestione del budget viene gestita diversamente dalla Search
+dove abbiamo la possibilità di quantificare il volume di ricerca e gestire il nostro
+budget di conseguenza.
+In fase di Awareness si tende a ragionare con una distribuzione del Budget solo
+dopo aver garantito una copertura suﬃciente delle fase di Consideration.
+53
+Corso Google Ads - Modulo 5
+
+## Page 54
+
+Strategie per le campagne Display: espansione del targeting
+Come abbiamo ormai imparato Google tenderà sempre a spingere per una
+maggior erogazione dei nostri annunci.
+La rete Display non fa eccezione, personalmente consiglio di rimuovere
+l’espansione del targeting per mantenere il controllo sulle nostre campagne,
+soprattutto quando vogliamo lavorare su audience di Remarketing.
+54
+Corso Google Ads - Modulo 5
+
+## Page 55
+
+Riguardo alle strategie per le campagne Display…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 56
+
+Esercitazione #9
+Mettiamo in pratica quanto appreso nelle ultime slide e creiamo una campagna
+Display Remarketing per il nostro cliente www.dentistamed.it.
+I punti importanti che verranno corretti sono:
+1. Corretta impostazione della campagna in termini di località e strategie di
+offerta;
+2. Corretta scelta del targeting;
+3. Saranno apprezzato il copy e le creatives degli annunci;
+56
+Corso Google Ads - Modulo 5
+
+## Page 57
+
+Esercitazione per casa
+Creare una campagna Display per il vostro progetto o su un argomento a piacere.
+Per qualsiasi dubbio o domanda scrivetemi alla mail
+matteo.mancin@venetoformazione.it
+57
+Corso Google Ads - Modulo 5
+
+## Page 58
+
+Fine lezione 5 :)
+Corso Google Ads - Modulo 5
+

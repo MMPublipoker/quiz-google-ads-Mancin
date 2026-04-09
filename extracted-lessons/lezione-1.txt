@@ -1,0 +1,1043 @@
+# Google Ads - Lezione 1.pdf
+# Pages: 83
+
+## Page 1
+
+CORSO GOOGLE ADS
+Lezione 1
+
+## Page 2
+
+Benvenuti al corso di Google Ads!
+Mi chiamo Matteo Mancin e sarò il vostro docente in questo percorso verso la
+conoscenza del sistema pubblicitario sul più famoso motore di ricerca al mondo.
+2
+Corso Google Ads - Modulo 1
+
+## Page 3
+
+Riferimenti e contatti
+Per comunicazioni, dubbi, perplessità o incertezze potete contattarmi alla mail:
+matteo.mancin@venetoformazione.it
+Risponderò alle vostre domande appena possibile e utilizzerò questo canale per
+passarvi qualsiasi comunicazione e approfondimento.
+3
+Corso Google Ads - Modulo 1
+
+## Page 4
+
+Struttura del corso
+Il corso sarà strutturato in 7 moduli da 4 ore ciascuno:
+1. Introduzione, Tipologie di Campagne e aspetti strategici;
+2. I Termini, la Struttura di un Account e le Strategie di Offerta;
+3. Le Parole Chiave e il Punteggio di Qualità;
+4. Campagne su rete di Ricerca;
+5. Campagne su rete Display;
+6. Le Conversioni;
+7. Recap ed Esercitazione finale;
+Alterneremo alla parte teorica una buona componente pratica, con tanto di esercizi.
+L'obiettivo finale è accompagnarvi a sostenere l’esame per l’ottenimento della Certificazione
+Google Ads.
+Proprio a tal punto nella parte teorica andremo ad analizzare le diverse tipologie di
+campagne, la terminologia e gli argomenti oggetto d’esame.
+4
+Corso Google Ads - Modulo 1
+
+## Page 5
+
+Prima di procedere però, raccontami qualcosa di te!
+5
+Corso Google Ads - Modulo 1
+
+## Page 6
+
+Dopo le presentazioni siamo pronti a partire…
+Facciamolo con
+una domanda:
+cos’è per voi
+Google Ads?
+
+## Page 7
+
+Conosciamo Google Ads: cos’è
+e come funziona
+Corso Google Ads - Modulo 1
+
+## Page 8
+
+Definizione di Google Ads
+“Google Ads è il programma pubblicitario online di Google. Grazie a Google
+Ads, puoi creare annunci online per raggiungere gli utenti nel momento
+esatto in cui manifestano interesse per i prodotti e i servizi che offri.“
+Google Ads è un prodotto che puoi utilizzare per promuovere la tua attività commerciale, supportare
+la vendita di prodotti o servizi, creare awareness e incrementare il traﬃco sul tuo sito web.
+Gli account Google Ads sono gestiti online, pertanto puoi creare e modificare in qualsiasi momento
+la tua campagna pubblicitaria, compresi testo dell'annuncio, impostazioni e budget.
+Non è richiesta una spesa minima e sei tu a impostare e controllare il tuo budget. Sei tu a scegliere
+dove pubblicare i tuoi annunci, a impostare il budget adeguato a valutare l'impatto degli annunci.
+dalla guida uﬃciale di Google.
+8
+Corso Google Ads - Modulo 1
+
+## Page 9
+
+Il rebranding di Google
+Dal 24 Luglio 2018 la piattaforma ha cambiato nome passando da Google AdWords a
+Google Ads, pertanto molto del materiale che potreste trovare online potrebbe far
+riferimento al vecchio nome.
+Più avanti nel corso capiremo le logiche alla base di questa scelta.
+9
+Corso Google Ads - Modulo 1
+
+## Page 10
+
+Conosciamo Google Ads: funzionamento base
+Il principio cardine alla base della piattaforma è la coesistenza di tre entità:
+Google
+Controllerà l’asta
+e deciderà il
+posizionamento
+degli annunci.
+Inserzionisti
+Creano e
+conducono le
+campagne
+su Google Ads.
+Gli utenti
+Che cliccheranno i
+vostri annunci, o
+quelli dei vostri
+competitor.
+10
+Corso Google Ads - Modulo 1
+
+## Page 11
+
+Conosciamo Google Ads: pay per clic
+Ma in pratica, investendo in una campagna Google, per cosa si sta effettivamente pagando?
+Si sta pagando per i clic.
+Come si evince dal nome, per clic si intendono gli effettivi clic sugli annunci da parte di un
+utente. Non importa se esso arriverà o meno alla pagina collegata all’annuncio, il clic sarà
+conteggiato comunque.
+Questo aspetto è importante perché sta alla base di molte metriche che vedremo in seguito.
+11
+Corso Google Ads - Modulo 1
+
+## Page 12
+
+Conosciamo Google Ads: i suoi punti di forza
+Ci sono tante soluzioni per sponsorizzare online ed oﬄine e Google Ads è solo una delle
+tante.
+Cerchiamo di capire insieme quali sono i punti di forza che questo sistema ci offre:
+● Possibilità di scegliere dove posizionare i nostri annunci e a chi mostrarli;
+● Continuo controllo della spesa;
+● Possibilità di monitorare costantemente i dati;
+● Possibilità di apportare modifiche in tempo reale e con riscontro immediato;
+12
+Corso Google Ads - Modulo 1
+
+## Page 13
+
+Conosciamo Google Ads: la scelta del Target
+La possibilità di scegliere chi deve vedere i nostri annunci è una delle caratteristiche
+principali di Google Ads e della pubblicità online in generale. E’ un valore importantissimo,
+poiché permette una ottimizzazione del budget pubblicitario non indifferente.
+I criteri con la quale Google Ads ci permette di selezionare il nostro pubblico sono i seguenti:
+Utilizzo delle Parole Chiave:
+principio cardine della selettività
+che imposteremo in campagne
+sulla rete di Ricerca.
+Meritano un capitolo a sé per
+l’ampiezza di nozioni e tecniche
+dedicate.
+Posizione dell’annuncio:
+caratteristica alla base delle
+campagne sulla rete Display. La
+scelta di far apparire un nostro
+annuncio su un sito piuttosto che in
+un’altro e per un periodo preciso
+13
+Corso Google Ads - Modulo 1
+
+## Page 14
+
+Conosciamo Google Ads: la scelta del Target
+Età, target geografico, target
+linguistico: è facile capire
+l’importanza di questa
+caratteristica, basti pensare a
+quanto alcuni prodotti abbiano un
+target con un’età precisa, oppure
+situato in una particolare zona o
+che parla una determinata lingua.
+Giorni, ore e frequenza di
+pubblicazione: il controllo a
+livello temporale di una
+campagna ci permette di
+promuovere in contemporanea
+a promozioni oﬄine (es. i saldi).
+Dispositivi: possibilità di controllare
+la pubblicazione a livello di device
+che ospiterà i nostri annunci (es.
+Tablet, Smartphone, Desktop,
+Schermi TV).
+Segmenti di pubblico: targeting
+sempre più importante nel sistema
+Google, permette ora di colpire
+cluster di utenti con comportamenti
+similari, interessi o interazioni con il
+vostro sito.
+14
+Corso Google Ads - Modulo 1
+
+## Page 15
+
+Conosciamo Google Ads: il controllo dei costi
+Una delle principali paure che hanno i publisher più neofiti è quella di incorrere in rapidi sprechi di
+budget.
+Quando lavoreremo alle campagne per conto dei nostri clienti saremo responsabili dei loro
+investimenti.
+Sarà nostro compito riuscire a far capire anche ai più diﬃdenti che Google Ads è una piattaforma
+aﬃdabile dove, se si fanno le cose con raziocinio, i soldi non verranno sperperati.
+I parametri che ci interessa monitorare sono soprattutto i seguenti:
+- Quanto abbiamo speso: dall’inizio, oggi, ieri, ma anche per un periodo di nostro interesse, in
+che campagna, gruppo di annunci, annuncio o parola chiave;
+- Quando abbiamo speso: in quali giorni, in che mesi, settimane;
+- Dove abbiamo speso: in che stato, regione, provincia, paese;
+- Perché abbiamo speso: soprattutto in termini di aver “speso poco” o aver “speso tanto”.
+15
+Corso Google Ads - Modulo 1
+
+## Page 16
+
+Conosciamo Google Ads: il monitoraggio dei dati
+Il monitoraggio dei dati è l’elemento più disruptive nel mercato pubblicitario.
+La pubblicità prima del digitale era composta da molto guessing, si individuava un claim e un
+payoff convincente e si “sparava” il messaggio sui cartelloni e sulle televisioni.
+Ma non era realmente dato sapere cosa accadesse dopo che il consumatore veniva esposto al
+messaggio.
+Con l’avvento del digitale, grazie completezza di dati che la piattaforma ci fornisce, è possibile
+tracciare il comportamento degli utenti dopo l’esposizione al messaggio, monitorando i costi per
+ogni singola azione.
+Questo insieme di dati ci perme di eseguire tre attività chiave:
+1. 2. 3. Creare dei prospetti di campagna.
+Ottimizzare campagne già in atto.
+Stilare dei report su lavori eseguiti.
+16
+Corso Google Ads - Modulo 1
+
+## Page 17
+
+Conosciamo Google Ads: il monitoraggio dei dati
+17
+Corso Google Ads - Modulo 1
+
+## Page 18
+
+Conosciamo Google Ads: gestione delle campagne
+Nella slide precedente abbiamo parlato di ottimizzazione: una delle similitudini che uso più spesso
+per spiegare Google Ads è quella di immaginarlo come una pianta che va regolarmente innaﬃata,
+trattata e potata per poterla fare entrare in produzione.
+In tutto ciò si può spiegare la parte che viene dopo la creazione di una campagna.
+Un’altra particolarità che mi piace sottolineare è che non ci sarà mai una risposta assoluta ai
+problemi o una strategie sempre funzionante: ogni casistica sarà sempre a se stante e andrà
+contestualizzata.
+Il setting che avete creato per il ferramenta della vostra zona molto probabilmente non funzionerà
+quando dovrete gestire l’account di una multinazionale che vende consulenze per l’estrazione di
+minerali negli asteroidi.
+18
+Corso Google Ads - Modulo 1
+
+## Page 19
+
+Riguardo al funzionamento di base…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 20
+
+Le tipologie di campagne
+Corso Google Ads - Modulo 1
+
+## Page 21
+
+Le tipologie di campagne: panoramica
+Le tipologie di campagne che Google Ads ci mette a disposizione sono molteplici, ognuna
+con caratteristiche e possibilità di utilizzo diverse.
+La lista completa, ad oggi (variano frequentemente), è la seguente:
+● Campagne sulla rete di Ricerca;
+● Campagne Display;
+● Campagne Shopping;
+● Campagne Video;
+● Campagne per App;
+● Campagne Intelligenti;
+● Campagne Discovery;
+● Campagne Performance Max.
+21
+Corso Google Ads - Modulo 1
+
+## Page 22
+
+Le tipologie di campagne: panoramica
+22
+Corso Google Ads - Modulo 1
+
+## Page 23
+
+Le tipologie di campagne: la rete di Ricerca
+Tipologia di campagna diffusissima e che ha un’abbondante richiesta.
+Si basa su annunci esclusivamente testuali e sfrutta il principale posizionamento nei primi
+risultati della serp di Google e su siti esterni, chiamati Partner di Ricerca (es. eBay).
+Questo tipo di campagna funziona andando a captare un chiaro intento di ricerca: fa
+comparire i nostri annunci in seguito a una ricerca su Google, da parte di un utente, in linea
+con le parole chiave da noi inserite.
+E’ una campagna che ha tantissimi casi applicativi e può avere impieghi sia locali che su
+vasta scala geografica.
+Essa risulta meno performante solo nei casi in cui il prodotto sia diﬃcilmente descrivibile a
+parole.
+23
+Corso Google Ads - Modulo 1
+
+## Page 24
+
+Le tipologie di campagne: la rete di Ricerca
+Come vediamo da questa schermata, ottenuta
+attraverso una semplice ricerca su Google per
+la parola chiave “ripetizioni di inglese”, gli
+annunci risultano essere evidenziati, oltre che
+dalla dicitura Annuncio, da maggiori
+informazioni rispetto ai risultati organici.
+In una pagina sono disponibili generalmente 7
+slot occupabili da annunci: 4 in alto e 3 nella
+parte inferiore della pagina.
+24
+Corso Google Ads - Modulo 1
+
+## Page 25
+
+Le tipologie di campagne: la rete Display
+La rete Display differisce dalla Rete di Ricerca per la posizione degli annunci ed il formato degli
+stessi.
+Essa, a differenza della rete di Ricerca, non mostra gli annunci nella serp di Google ma è composta
+dall’insieme di quei Banner che spesso vediamo quando navighiamo in un sito web.
+Riguardo il formato degli annunci possono essere di vario genere, dal testuale al grafico.
+Dal 2016 Google ha introdotto una grande novità in questa rete: gli Annunci Display Adattabili che
+sono diventati in breve tempo il formato di riferimento di questa tipologia di campagna.
+Con gli Annunci Adattabili puoi caricare i tuoi asset (immagini, titoli, loghi, video e descrizioni) e
+Google genererà automaticamente combinazioni di annunci adattandoli allo spazio a disposizione
+che avranno.
+E’ una tipologia di campagna che si sfrutta in fasi di brand awareness, remarketing e quando
+dobbiamo promuovere un bene che non è facile descrivere a parole.
+25
+Corso Google Ads - Modulo 1
+
+## Page 26
+
+Le tipologie di campagne: la rete Display
+Gli spazi dove questi annunci verranno pubblicati sono gestiti da un circuito che lavora
+diametralmente opposto alla rete Display: AdSense.
+Con AdSense i proprietari di blog, siti web, testate giornalistiche online e chi più ne ha, più ne
+metta, “aﬃttano” a Google dello spazio per poterci posizionare i banner degli inserzionisti. In
+cambio Google da all'aﬃttuario il 68% di quanto addebita ai publisher. Una bella cifra, se si fanno
+due conti, che ci fa capire come questi banner siano presenti pressoché ovunque. AdSense è uno
+dei sistemi più utilizzati per monetizzare online.
+Senza entrare troppo nello specifico, visto che non è un tema d’interesse per questo corso, per fine
+didattico citiamo i requisiti per aderire al programma:
+● essere proprietari di un sito;
+● rispettare le norme (non incoraggiare al clic, parlare di argomenti “adeguati” agli occhi di
+Google, ecc.);
+● il sito deve avere almeno sei mesi d’età;
+● essere maggiorenni;
+26
+Corso Google Ads - Modulo 1
+
+## Page 27
+
+Le tipologie di campagne: la rete Display
+Ecco un esempio di due banner in
+questo blog di videogiochi, in una
+specifica nicchia.
+Probabilmente, Unieuro ha
+targettizzato i suoi annunci cercando
+di andare a captare gli interessi che
+può avere il lettore di un blog come
+questo.
+Il simbolo che vediamo qui sotto è
+quello di https://youradchoices.com/,
+circuito pubblicitario alternativo a
+Google AdSense.
+27
+Corso Google Ads - Modulo 1
+
+## Page 28
+
+Le tipologie di campagne: la rete Display
+Questi invece sono una serie di esempi di Annunci Adattabili. Come potete notare, il contenuto
+rimane lo stesso, ma a seconda dello spazio essi assumeranno forme differenti.
+28
+Corso Google Ads - Modulo 1
+
+## Page 29
+
+Le tipologie di campagne: campagne Shopping
+Le campagne Shopping sono caratterizzate da particolari annunci autogenerati che mettono in
+confronto diversi prodotti. In parole povere, Google Shopping risulta essere un semplice
+comparatore di prodotti.
+Gli annunci sono generati sulla base di un feed di prodotti avente una formattazione standard che
+dev’essere caricato all’interno della piattaforma Google Merchant Center e tenuto aggiornato il più
+spesso possibile.
+Generati questi annunci, Google deciderà di mostrarli o meno ad un utente che effettua una ricerca
+in base alla corrispondenza tra la ricerca stessa e i parametri contenuti nel feed come nome,
+descrizione e codice EAN (codice a barre). Oltre a questo ovviamente verranno considerati anche i
+vari esiti d’asta.
+Creare una campagna Shopping non è diﬃcile, ma richiede una buona capacità strategica e di
+organizzazione delle campagne in quanto è necessario lavorare per raggruppamenti di marca o
+tipologia di prodotto, o tramite strategie molto più complesse.
+29
+Corso Google Ads - Modulo 1
+
+## Page 30
+
+Le tipologie di campagne: campagne Shopping
+Qui a destra abbiamo un esempio di
+annunci Google Shopping.
+Come potete notare, l’abbinamento
+titolo, immagine, venditore e prezzo da
+già abbastanza informazioni per
+catturare un utente con un chiaro
+interesse.
+30
+Corso Google Ads - Modulo 1
+
+## Page 31
+
+Le tipologie di campagne: campagne Shopping
+Qui sotto invece un esempio di feed di prodotti, che deve rispettare determinati requisiti.
+In un feed di prodotti i seguenti campi sono “required” e quindi risultano obbligatori: id, title,
+description, link, image link, availability, price, google_product_category, brand, gtin (Global Trade
+Item Number) o MPN (Manufacturer Part Number), condition.
+31
+Corso Google Ads - Modulo 1
+
+## Page 32
+
+Le tipologie di campagne: campagne Shopping
+Capiamo immediatamente come Google Shopping si presti bene solamente in settori dove c’è una
+vendita diretta di un prodotto.
+Oltre a questo requisito vediamone altri di fondamentali:
+● essere in un paese dove Shopping è attivo;
+● avere un sito web sicuro con un certificato SSL, una chiara “return policy”, T&C espliciti,
+acquisto diretto in toto nel dominio e dettagli di contatto visibili;
+● aggiornare il feed dei prodotti almeno ogni 30 giorni.
+Consiglio aggiornamenti all’ordine del giorno, poiché tralasciando dettagli e creando
+discrepanze tra le campagne e l’effettiva disponibilità dei prodotti Google potrà arrivare a
+sospendere l’account.
+32
+Corso Google Ads - Modulo 1
+
+## Page 33
+
+Le tipologie di campagne: campagne Shopping
+Se sappiamo di poter rispettare questi requisiti, ragioniamo sull’utilizzo di Shopping se:
+● vendo prodotti al dettaglio e ho un catalogo abbastanza fornito (oltre i 50 prodotti);
+● vendo prodotti che sono conosciuti o che comunque vengono cercati attivamente;
+● vendo ad un prezzo in linea con quello della concorrenza (ricordiamo che non è altro che un
+comparatore di prezzi);
+33
+Corso Google Ads - Modulo 1
+
+## Page 34
+
+Le tipologie di campagne: campagne Shopping
+I vantaggi che questa tipologia di campagna fornisce sono i seguenti:
+● aumento di traﬃco diretto e con intenzione di acquisto verso il nostro ecommerce;
+● buoni valori di CTR grazie alla combinazione immagini e prezzo subito visibile;
+● combinando questi annunci ad altri annunci sulla rete di Ricerca andremo a coprire una
+grande porzione di pagina;
+● capacità di tenere “sotto controllo” le campagne senza troppa diﬃcoltà;
+● costo per clic mediamente più basso rispetto alla controparte su rete di ricerca;
+Gli svantaggi risultano essere sostanzialmente due:
+● impossibilità di scegliere le parole chiave per le quali gli annunci saranno posizionati;
+● capacità di creare e mantenere aggiornato il feed prodotti;
+34
+Corso Google Ads - Modulo 1
+
+## Page 35
+
+Le tipologie di campagne: campagne Shopping
+Curiosità: nel 2017 Google ha preso una multa dalla Commissione Europea di 2,42 miliardi di euro
+per concorrenza sleale.
+Sostanzialmente è stato accusato di favorire i risultati del suo comparatore nella rete di ricerca.
+Come conseguenza di ciò, è stato costretto ad inserire la specificazione “by Google” sulle schede
+dei prodotti Shopping.
+35
+Corso Google Ads - Modulo 1
+
+## Page 36
+
+Le tipologie di campagne: campagne Video
+Sono campagne simili a quelle su rete Display che però sfruttano YouTube per i propri
+posizionamenti e formati.
+Sapevate che YouTube è il secondo motore di ricerca utilizzato al mondo?
+Questa tipologia di campagna si presta bene in fase di brand awareness.
+Lavorano sui criteri di targeting delle campagne Display, aggiungendo posizionamenti particolari
+come i canali youtube.
+36
+Corso Google Ads - Modulo 1
+
+## Page 37
+
+Le tipologie di campagne: campagne Video
+Le campagne Video ci mettono a disposizione molteplici formati:
+● In-stream ignorabili: sono posizionati prima, durante o al termine di un video su YouTube e
+possono essere “skippati” dopo 5 secondi;
+● In-stream non ignorabili: hanno una durata pari o inferiore a 15 secondi e vengono riprodotti
+prima, durante o dopo un altro video. Gli spettatori non hanno la possibilità di ignorarlo.
+● In-feed: non partono in automatico ma solo a seguito di un clic da parte dell’utente
+sull’anteprima, costituita da un’immagine in miniatura e massimo tre righe di testo.
+● Bumper: ultima tipologia di annunci aggiunta nel tardo 2016, sono composti da video di 6
+secondi o meno, e non sono ignorabili.
+● Outstream: annunci video specifici per dispositivi mobili, riprodotti su siti web partner e
+all’interno delle applicazioni.
+● Masthead: annunci video che vengono visualizzato nella parte superiore del feed della home
+page di YouTube, sui vari dispositivi. Non sono disponibili per tutti gli inserzionisti.
+37
+Corso Google Ads - Modulo 1
+
+## Page 38
+
+Le tipologie di campagne: campagne Video
+Un esempio di annuncio “bumper” di una campagna Video su YouTube:
+38
+Corso Google Ads - Modulo 1
+
+## Page 39
+
+Le tipologie di campagne: campagne Video
+Un esempio di annuncio “in-feed” di una Campagna Video su YouTube:
+39
+Corso Google Ads - Modulo 1
+
+## Page 40
+
+Le tipologie di campagne: campagne Video
+Storicamente le campagne YouTube sono sempre state sinonimo di scarsa qualità, diﬃcoltà di
+entrata e spettro di azione ridotto.
+Negli ultimi anni Google sembra voler recuperare il divario che si è accumulato con le performance
+dei video su Facebook, e sta spingendo molto gli inserzionisti a testare questo tipo di campagna
+fornendo materiale e addirittura tool per la realizzazione di video.
+Personalmente è un tipo di campagna che uso spesso e, in alcuni casi, mi sta dando qualche
+piccola soddisfazione. Ha costi di visualizzazione molto molto bassi.
+40
+Corso Google Ads - Modulo 1
+
+## Page 41
+
+Le tipologie di campagne: campagne per App
+Campagne utilizzate per sfruttare la promozione di app sui dispositivi mobili.
+Gli annunci sono generati in automatico basandosi sui dati che Google Ads estrapola dall'app store
+di riferimento dell’applicazione.
+Oltre al sistema operativo, i dati che dobbiamo indicare alla piattaforma sono:
+Testo Budget Offerta
+di partenza
+Lingua Località
+41
+Corso Google Ads - Modulo 1
+
+## Page 42
+
+Le tipologie di campagne: campagne per App
+Le campagne per App sono molto automatizzate, tant’è che il targeting non è selezionabile.
+Esso verrà ricavato dai dati che Google apprende da chi utilizza l’app nello store.
+Possono avere come obiettivo:
+● l’installazione dell’app;
+● incentivare un'azione in app (es. iscriversi, rinnovare l’abbonamento).
+L’azione in app è ricavata tracciando le conversioni con Firebase, la controparte di Analytics per le
+app.
+A livello di posizionamento degli annunci, le campagne per app sfruttano la rete di Ricerca, Google
+Play, YouTube, la Rete Display e Google Discover.
+Nelle prossime slide qualche esempio.
+42
+Corso Google Ads - Modulo 1
+
+## Page 43
+
+Le tipologie di campagne: campagne per App
+Rete di Ricerca Google Google Play
+Rete Display YouTube
+43
+Corso Google Ads - Modulo 1
+
+## Page 44
+
+Le tipologie di campagne: campagne Intelligenti
+Le campagne Intelligenti sono il lascito delle vecchie campagne AdWords Express.
+Risultano essere pesantemente automatizzate, e hanno come posizionamenti principalmente la
+rete Display e la rete di Ricerca.
+Peculiarità di questa campagna è quella di essere l’unica tipologia, assieme alla Performance Max,
+a sfruttare Google Maps.
+Il targeting permette la pubblicazione dell’annuncio a seguito di ricerche con frasi correlate
+all’attività oggetto di promozione su Google e Google Maps, nell’area geografica che hai scelto
+come target.
+Lavorano scegliendo un obiettivo in fase di creazione, che può essere:
+● ottenimento chiamate;
+● visite alla vetrina;
+● visite al sito web.
+Si tratta di un tipo di campagna sfruttabile da attività locali, con richieste di budget piuttosto
+limitate, ma performance altalenanti.
+44
+Corso Google Ads - Modulo 1
+
+## Page 45
+
+Le tipologie di campagne: campagne Discovery
+Campagne utilizzate in fase di remarketing e prospecting, molto simili alle display.
+Sono campagne di tipo visuale-interattivo che hanno come principale peculiarità il formato
+dell’annuncio ed il posizionamento dello stesso.
+Nello specifico gli annunci Discovery trovano spazio in:
+● Home page e feed dei “prossimi video” in YouTube;
+● Feed Discover nell’app Google Search;
+● Tab Promozioni e Social in Gmail.
+45
+Corso Google Ads - Modulo 1
+
+## Page 46
+
+Le tipologie di campagne: campagne Discovery
+46
+Corso Google Ads - Modulo 1
+
+## Page 47
+
+Le tipologie di campagne: campagne Performance Max
+Introdotta a fine 2021, consente agli inserzionisti di accedere a tutte le reti Google attraverso una
+singola campagna.
+Tramite l’inserimento di titoli, descrizioni, immagini, video e feed prodotti permette di posizionare i
+propri annunci su tutte le reti: Display, Ricerca, Shopping, YouTube, Discover, Gmail e Maps.
+È una campagna pesantemente automatizzata, una black box, che rischia di portare sprechi di
+budget su reti poco performanti. Ha la priorità su tutte le altre campagne attive nell’account.
+Va utilizzata con cura e con i dovuti accorgimenti.
+47
+Corso Google Ads - Modulo 1
+
+## Page 48
+
+Riguardo alle tipologie di campagne…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 49
+
+Esercitazione #1
+Viste le varie tipologie di campagna proviamo a trovare un’attività per ogni
+tipologia, come in questo esempio:
+● Rete di Ricerca: Idraulico 24/7
+● Rete Display: promozione Depuratore Aria.
+● Campagna Video: lancio nuove Scarpe Nike.
+● Campagna per App: promozione Satispay.
+● Campagna Shopping: promozione Gioielli.
+● Campagna Discovery: remarketing Corsi di Formazione.
+49
+Corso Google Ads - Modulo 1
+
+## Page 50
+
+Aspetti strategici: il funnel e le sue fasi
+Corso Google Ads - Modulo 1
+
+## Page 51
+
+Strategia: il Funnel
+Ragioniamo un momento: oggi si compete non solo con i propri competitor diretti ma in senso più
+ampio con qualunque realtà stia cercando di attirare attenzione.
+ATTENZIONE = MONETA ALL’EPOCA DEL DIGITALE
+Per esempio, chi è il principale competitor di Netflix?
+In una lettera inviata agli azionisti (gennaio 2019) Netflix ha individuato in FORTNITE il proprio
+principale competitor e non HBO o altri network tv.
+51
+Corso Google Ads - Modulo 1
+
+## Page 52
+
+Strategia: il Funnel
+Capire come intercettare l’attenzione è diventato quindi il primo e principale compito di un
+Advertiser.
+Una volta attirata l’attenzione si accompagna il potenziale cliente verso il percorso di vendita che
+possiamo definire anche customer journey o, più comunemente, FUNNEL.
+Questo “imbuto” è uno dei framework più importanti
+di questo lavoro.
+In questa prima lezione più teorica comprenderemo
+quindi questo metodo di visualizzare il percorso
+dell’utente, ci tornerà molto utile per comprendere
+come orientarci in Google Ads ma anche nel
+panorama digitale in generale.
+52
+Corso Google Ads - Modulo 1
+
+## Page 53
+
+Strategia: il Funnel
+Attenzione, non è detto che si tratti di un percorso unicamente digitale, i touch point possono
+essere molteplici ed è un framework molto utile per comprendere a che punto di conoscenza sono
+gli utenti nei confronti del nostro business.
+Tutti i business possono fare riferimento a questo framework, facciamo un esempio banale con un
+panettiere:
+● passando davanti al negozio vengo esposto all’odore del pane > Awareness;
+● mi rendo conto di avere fame, incuriosito mi affaccio alla vetrina per vedere
+cosa offre > Consideration;
+● entro in negozio con l’intento di acquistare > Action;
+Se è vero che funziona per tutti è vero anche che per ognuno è diverso… la fase di consideration di
+un e-commerce di scarpe sarà diversa dalla fase di consideration del nostro panettiere.
+53
+Corso Google Ads - Modulo 1
+
+## Page 54
+
+Strategia: il Funnel
+Quindi come possiamo adattarlo al digitale?
+● Sto navigando un sito di percorsi di montagna e vedo un banner relativo ad un paio di
+scarponi tecnici > Awareness
+● Vado sul sito in questione guardo il prodotto che mi interessa e confronto i prezzi con quelli
+di altri siti > Consideration
+● Digito una query come “scarponi da montagna prezzo” e incontro nuovamente il sito del
+rivenditore che aveva attirato la mia attenzione accorgendomi che il prezzo è tra i più
+convenienti sul mercato > Decision
+● Mi convinco, aggiungo al carrello e compro i miei scarponi > Action
+54
+Corso Google Ads - Modulo 1
+
+## Page 55
+
+Strategia: il Funnel
+Le fasi di un funnel variano quindi a seconda del prodotto che stiamo promuovendo e dobbiamo
+tenerne conto quando progettiamo la nostra campagna.
+Quale tra i due prodotti qui sotto avrà una fase di consideration più lunga? L’acquisto di una cover
+o l’acquisto di un computer?
+55
+Corso Google Ads - Modulo 1
+
+## Page 56
+
+Strategia: domanda latente e domanda consapevole
+Prima di proseguire in diverse analisi di tipo strategico ed applicativo è bene definire un concetto
+importante come quello di domanda latente e domanda consapevole.
+Domanda Latente
+Domanda Consapevole
+Domanda che non è stata posta,
+è in una fase informativa di
+potenziale interesse.
+Domanda di chi ha una
+determinata necessità o cerca un
+determinato prodotto, ha bene in
+mente cosa vuole e si può captare
+facilmente.
+56
+Corso Google Ads - Modulo 1
+
+## Page 57
+
+Strategia: domanda latente e domanda consapevole
+Proviamo insieme a fare qualche esempio di domanda latente e domanda consapevole.
+57
+Corso Google Ads - Modulo 1
+
+## Page 58
+
+Strategia: Facebook e Google
+Fino a qualche anno fa la dicotomia era chiara:
+● Facebook domanda latente
+● Google domanda consapevole
+Facebook
+Google
+Possibilità di targeting per interessi
+Pubblici simili/looalike (scalabilità)
+Tagging cross device
+Possibilità di intercettare la
+domanda consapevole
+Scalabilità più complessa
+Maggior comprensione del journey
+58
+Corso Google Ads - Modulo 1
+
+## Page 59
+
+Strategia: la nuova direzione di Google
+Negli ultimi anni Google si sta muovendo sempre di più da keyword targeting a people targeting.
+Da qui il motivo del rebranding da Google AdWords a Google Ads.
+Facebook
+59
+Corso Google Ads - Modulo 1
+
+## Page 60
+
+Strategia: quando utilizzare Google Ads?
+Facebook
+60
+Corso Google Ads - Modulo 1
+
+## Page 61
+
+Strategia: quando utilizzare Google Ads?
+La rete di Ricerca, ad esempio, è perfetta per intercettare la domanda consapevole.
+Facebook
+61
+Corso Google Ads - Modulo 1
+
+## Page 62
+
+Strategia: quando utilizzare Google Ads?
+Mentre le reti Display o Discovery si prestano meglio per la fase di remarketing o per intercettare
+utenti che potrebbero essere interessati alla nostra offerta ma non sono ancora a conoscenza
+della nostra esistenza.
+Facebook
+62
+Corso Google Ads - Modulo 1
+
+## Page 63
+
+Strategia: meglio rete di Ricerca o rete Display?
+Abbiamo capito come la rete di Ricerca si presti bene a fornire una risposta diretta all’utente,
+mentre le reti Display e Discovery siano molto performanti in situazioni dove occorre aumentare la
+percezione del brand o la conoscenza di un prodotto.
+Alla domanda che fa da titolo alla slide, però, avrete capito che non c’è una risposta assoluta.
+Facebook
+L’unica linea guida fondamentale che consiglio di seguire, è di capire se effettivamente ci sia o
+meno ricerca di un determinato bene o prodotto e quindi la possibilità di andare a captarla con una
+campagna su rete di Ricerca.
+Se, al contrario, abbiamo invece bisogno di stimolare la conoscenza di un prodotto con la
+conseguenza di stimolarne la domanda latente, dobbiamo puntare su altre reti, come ad esempio
+la Display.
+63
+Corso Google Ads - Modulo 1
+
+## Page 64
+
+Mindset: concetti a cui tengo
+Lavorate tenendo sempre a mente il concetto di Funnel, un percorso che differenzi gli utenti e la
+loro posizione rispetto al vostro evento di conversione:
+● una fase in cui non ci conoscono e/o non stanno cercando la soluzione che offriamo;
+● una fase in cui ci conoscono e/o stanno cercando la soluzione che noi offriamo;
+Facebook
+● una fase in cui eseguono la nostra azione di conversione;
+Abbiate un approccio “in learning” con Google ma anche con Facebook, sono piattaforme in
+continua evoluzione, potremmo trovare nuove opzioni e differenze ogni volta che apriamo
+l’account (siamo ospiti in casa loro). Verificate sempre le possibilità offerte prima di promettere
+qualcosa al cliente.
+Focalizzatevi nel comprendere i concetti cardine e nell’avere un mindset strategico.
+64
+Corso Google Ads - Modulo 1
+
+## Page 65
+
+Riguardo agli aspetti strategici…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 66
+
+Gli account Google Ads e il Centro Clienti:
+cosa sono e come si creano
+Corso Google Ads - Modulo 1
+
+## Page 67
+
+L’account Google Ads
+In Google Ads un account è costituito da un nome utente e una password che corrispondono a
+determinati dati di fatturazione.
+Ad ogni account corrisponde un codice univoco identificativo di 10 cifre.
+Gli account possono essere condivisi o fatti gestire dai Centri Clienti, anche detti MCC, che
+vedremo tra poco.
+Facebook
+Per creare un account Google Ads è suﬃciente avere una mail Google.
+Se non ne avete già uno, vi invito a crearlo a casa in modo da poter eseguire gli esercizi di pratica
+delle prossime lezioni.
+67
+Corso Google Ads - Modulo 1
+
+## Page 68
+
+Creare il vostro account Google Ads
+In queste slide andremo a
+vedere come creare il vostro
+account Google Ads.
+Per prima cosa portatevi a
+questo indirizzo:
+Facebook
+https://ads.google.com/intl/it_I
+T/home/
+Cliccate dunque su “INIZIA ORA”
+e compilate i campi richiesti con
+i vostri dati e la vostra Gmail.
+68
+Corso Google Ads - Modulo 1
+
+## Page 69
+
+Creare il vostro account Google Ads
+IMPORTANTE: non selezionate nessun obiettivo ma cliccate su su “Passa alla modalità Esperto”.
+Facebook
+69
+Corso Google Ads - Modulo 1
+
+## Page 70
+
+Creare il vostro account Google Ads
+IMPORTANTE: non selezionate nessuna tipologia di campagna ma cliccate su “Crea un account
+senza campagna”.
+Facebook
+70
+Corso Google Ads - Modulo 1
+
+## Page 71
+
+Creare il vostro account Google Ads
+Ora, nel caso fosse necessario, in questa
+sezione potrete andare a settare informazioni
+come paese, fuso orario, e valuta.
+Nella sezione “paese” è inteso il paese nella
+quale vi trovate, non il paese in cui volete far
+apparire i vostri annunci.
+Facebook
+Una volta inserite tutte le varie informazioni
+cliccate su “INVIA”.
+71
+Corso Google Ads - Modulo 1
+
+## Page 72
+
+L’account Google Ads
+Facebook
+Quando arriverete a questa schermata il processo di creazione del vostro account sarà terminato e
+potrete cliccare su “ESPLORA IL TUO ACCOUNT”.
+72
+Corso Google Ads - Modulo 1
+
+## Page 73
+
+Creare il vostro account Google Ads
+Dopo il caricamento dovreste trovarvi davanti a questa schermata:
+Facebook
+Complimenti, avete creato il vostro primo account Google Ads!
+73
+Corso Google Ads - Modulo 1
+
+## Page 74
+
+Il centro clienti Google Ads
+Chiamato anche MCC (My Client Center) o
+Centro Clienti, è uno strumento che Google
+fornisce gratuitamente ai professionisti Google
+Ads.
+Account
+Sostanzialmente è un super account
+Facebook
+contenitore degli account dei vostri clienti.
+Permette modifiche su più account ed è
+caldamente consigliato, da me e da Google, per
+la gestione dei vostri clienti.
+Account Oltre a questo viene valutato nel processo di
+ottenimento della certificazione Google.
+74
+Manager
+account
+Manager
+account Account
+Manager
+account
+Manager
+account
+Manager
+account
+Account
+Account Account
+Corso Google Ads - Modulo 1
+
+## Page 75
+
+Creare il vostro centro clienti Google Ads
+In queste slide andremo invece a
+vedere come creare il vostro centro
+clienti Google Ads.
+Dovrete utilizzare un indirizzo Gmail
+dedicato, un indirizzo già legato ad un
+Facebook
+account non potrà essere utilizzato.
+Per prima cosa portatevi a questo
+indirizzo:
+https://ads.google.com/intl/it_it/hom
+e/tools/manager-accounts/
+Cliccate dunque su “Crea un account
+amministratore”.
+75
+Corso Google Ads - Modulo 1
+
+## Page 76
+
+Creare il vostro centro clienti Google Ads
+Facebook
+76
+Corso Google Ads - Modulo 1
+
+## Page 77
+
+Creare il vostro centro clienti Google Ads
+Dopo il caricamento dovreste trovarvi davanti a questa schermata:
+Facebook
+Complimenti, avete creato il vostro primo centro clienti Google Ads!
+77
+Corso Google Ads - Modulo 1
+
+## Page 78
+
+Aggiungere account al vostro centro clienti Google Ads
+Spostatevi su “Account”, cliccate sul tasto “+” e selezionate “Collega account esistente”.
+Facebook
+78
+Corso Google Ads - Modulo 1
+
+## Page 79
+
+Aggiungere account al vostro centro clienti Google Ads
+In questo box andremo ad inserire l’ID dell’account del nostro cliente.
+Una volta fatto, premete su “INVIA RICHIESTA”.
+Facebook
+79
+Corso Google Ads - Modulo 1
+
+## Page 80
+
+Aggiungere account al vostro centro clienti Google Ads
+ll cliente riceverà una mail all’indirizzo
+collegato al proprio account Google Ads.
+Per dare il via libera al collegamento non
+dovrà far altro che cliccare su “ACCETTA
+RICHIESTA”.
+Facebook
+80
+Corso Google Ads - Modulo 1
+
+## Page 81
+
+Riguardo agli account Google Ads…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 82
+
+Esercitazione per casa
+1. 2. Ripassare il funzionamento di Google Ads e le diverse Tipologie di Campagne;
+Rivedere gli aspetti strategici e il concetto di Funnel
+Per qualsiasi dubbio o domanda scrivetemi alla mail
+matteo.mancin@venetoformazione.it
+82
+Corso Google Ads - Modulo 1
+
+## Page 83
+
+Fine Lezione 1 :)
+Corso Google Ads - Modulo 1
+

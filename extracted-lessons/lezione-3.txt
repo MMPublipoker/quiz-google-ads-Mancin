@@ -1,0 +1,779 @@
+# Google Ads - Lezione 3.pdf
+# Pages: 54
+
+## Page 1
+
+CORSO GOOGLE ADS
+Lezione 3
+
+## Page 2
+
+Argomenti trattati nella scorsa lezione
+Cosa abbiamo vista nella scorsa lezione:
+● I Termini e le metriche di Google Ads;
+● La Struttura di un account Google Ads;
+● Le Strategie di Offerta;
+2
+Corso Google Ads - Modulo 3
+
+## Page 3
+
+Riguardo agli aspetti trattati nella scorsa lezione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 4
+
+Benvenuti nella terza parte del corso di Google Ads
+Cosa vedremo in questa lezione:
+● Le Parole Chiave e le tipologie di Corrispondenza;
+● La Keywords Research;
+● Definizione del Budget;
+4
+Corso Google Ads - Modulo 3
+
+## Page 5
+
+Le Parole Chiave e le Tipologie di
+Corrispondenza
+Corso Google Ads - Modulo 3
+
+## Page 6
+
+Le Parole Chiave
+Le parole chiave o keywords rappresentano un macro argomento di grande importanza
+all’interno di Google Ads. Avere chiari i concetti di parole chiave, i tipi di corrispondenza e
+imparare a cercarne di nuove ed a valutarle, sono competenze essenziali di un
+professionista Google Ads.
+Impareremo come molto spesso le campagne avviate da neofiti o da autodidatti presentino
+problemi proprio in questa fase, poiché il concetto di corrispondenza non è immediato.
+Come anticipato nelle lezioni precedenti, le parole chiave ricoprono il ruolo di “attivatori” dei
+nostri annunci su rete Search.
+Tuttavia è importante sapere che, se correttamente configurate, potranno anche svolgere il
+ruolo di “disattivatori” dei nostri annunci.
+Infine è bene specificare che una keyword può essere composta da più termini e non
+necessariamente da una singola parola.
+6
+Corso Google Ads - Modulo 3
+
+## Page 7
+
+Le Parole Chiave
+Facciamo un esempio: ci viene chiesto di spingere un sito web che vende torce.
+Stiamo pensando di promuovere la sezione dedicata alla vendita online di torce ad alta
+luminosità. Ci troviamo quindi a dover valutare la parola chiave “pile”.
+Qui si presenta la prima problematica, infatti con “pile” potremmo captare utenti che
+cercano:
+Torce Batterie
+I due prodotti sono molto differenti tra loro, avremo quindi l’esigenza di istruire Google Ads
+riguardo i prodotti che vogliamo promuovere, mediante l’utilizzo delle corrispondenze.
+7
+Corso Google Ads - Modulo 3
+
+## Page 8
+
+Le Parole Chiave: Tipologie di Corrispondenza
+Le corrispondenze delle parole chiave determinano in che misura la parola chiave deve
+corrispondere alla query di Ricerca dell'utente in modo che l'annuncio possa essere preso in
+considerazione per l'asta.
+Ad oggi è possibile scegliere tra 3 tipologie di corrispondenza per le nostre parole chiave:
+● Corrispondenza Generica
+● Corrispondenza “A Frase”
+● Corrispondenza [Esatta]
+8
+Corso Google Ads - Modulo 3
+
+## Page 9
+
+Le Parole chiave: Corrispondenza Generica
+Detta anche “broad”, è l’opzione di corrispondenza utilizzata di default da Google.
+Come si evince dal nome è la corrispondenza più generica, e porta a mostrare i nostri
+annunci per ricerche che includono errori di ortografia, sinonimi, ricerche correlate e altre
+varianti pertinenti.
+La si trova spesso in account “casalinghi” o comunque non curati da professionisti, e può
+portare a spese insensate su parole chiave poco pertinenti alla nostra attività.
+Per sfruttare questa corrispondenza basterà inserire la parola chiave tale e quale.
+Esempi:
+● case in aﬃtto
+● automobili usate
+● smartphone
+● gestionali
+● portatili asus 13 pollici
+9
+Corso Google Ads - Modulo 3
+
+## Page 10
+
+Le Parole chiave: Corrispondenza Generica
+Esempio: vendiamo penne ed articoli di cancelleria.
+Keyword inserite:
+● penna biro
+● calcolatrice
+● cartella
+Ricerche che attiveranno i nostri annunci:
+● pennarello blu
+● casio fx cg 50
+● zaino eastpak
+Come si può notare, le keyword inserite vanno ad attivare i nostri annunci per ricerche poco
+pertinenti con il prodotto che ci interessa promuovere.
+10
+Corso Google Ads - Modulo 3
+
+## Page 11
+
+Le Parole chiave: Corrispondenza Generica
+Questo tipo di corrispondenza risulta utile quando:
+● non si conoscono bene le parole chiave utilizzate dagli utenti che vogliamo intercettare;
+● il prodotto o servizio che dobbiamo promuovere non è molto ricercato;
+● si vuole studiare le associazioni che Google fa tra le nostre parole e quelle che ritiene
+simili;
+● si vogliono “scalare” le performance di una parola chiave;
+Personalmente sono dell’idea che far partire una campagna con keyword in corrispondenza
+generica possa portare facilmente a sprechi di budget.
+Tuttavia, negli ultimi anni Google sta aﬃnando il funzionamento di questa corrispondenza in
+abbinamento a strategia di offerte automatiche.
+11
+Corso Google Ads - Modulo 3
+
+## Page 12
+
+Le Parole chiave: Corrispondenza Generica
+VANTAGGI:
+● Grande varietà di suggerimenti per possibili nuove parole chiave;
+SVANTAGGI:
+● Budget che verosimilmente si consumerà velocemente;
+● Scarso controllo sulle performance delle singole parole chiave;
+● CTR basso;
+● Rischio di traﬃco fuori target;
+● Tempo di gestione elevato e necessità di manutenzione frequente;
+12
+Corso Google Ads - Modulo 3
+
+## Page 13
+
+Le Parole chiave: Corrispondenza “A Frase”
+La corrispondenza a frase, chiamata anche “phrase”, permette la pubblicazione dei nostri
+annunci per ricerche corrispondenti alla nostra keyword o varianti simili, con aggiunta di
+parole prima, dopo o durante.
+È un tipo di corrispondenza caratterizzata soprattutto dal buon controllo che si riesce ad
+avere sulle parole chiave e sui relativi termini di ricerca.
+Si imposta inserendo la parola chiave tra virgolette.
+Esempi:
+● “case in aﬃtto”
+● “automobili usate”
+● “smartphone”
+● “gestionali”
+● “portatili asus 13 pollici”
+13
+Corso Google Ads - Modulo 3
+
+## Page 14
+
+Le Parole chiave: Corrispondenza “A Frase”
+Esempio: vendiamo accessori per smartphone.
+Keyword inserite:
+● “cover iphone”
+● “caricabatteria dash charge”
+● “pellicola in vetro”
+● “carica wireless”
+Ricerche che attiveranno i nostri annunci:
+● cover iphone con i brillantini
+● comprare caricabatteria dash charge amazon
+● migliore pellicola in vetro resistente
+● carica iphone wireless
+Trovo questa corrispondenza di facile utilizzo ed implementazione, alla portata anche degli
+utenti meno navigati e che nonostante riduca il bacino di utenza finale, abbia come plus il
+controllo sui termini di ricerca permettendoci di evitare sprechi di budget.
+14
+Corso Google Ads - Modulo 3
+
+## Page 15
+
+Le Parole chiave: Corrispondenza “A Frase”
+VANTAGGI:
+● Controllo sulle parole chiave;
+● CTR aumentato rispetto alle corrispondenze generiche;
+● Parola chiave e intento di ricerca spesso in linea;
+SVANTAGGI:
+● Bacino d’utenza ridotto rispetto a corrispondenze più generiche;
+● Necessita della conoscenza dei termini di ricerca degli utenti;
+15
+Corso Google Ads - Modulo 3
+
+## Page 16
+
+Le Parole chiave: Corrispondenza [Esatta]
+Detta anche “exact”, rappresenta la corrispondenza più precisa possibile.
+Permette l’attivazione dei nostri annunci esclusivamente per ricerche eseguite con il termine esatto
+(anche in ordine sequenziale differente), una sua variante molto simile (es. mispellings), termini con
+la presenza di congiunzioni, parafrasi e sinonimi stretti, parole implicite e stesso intento di Ricerca.
+Viene sfruttata molto quando si conosce esattamente l’intento di ricerca dell’utente ed è
+caratterizzata da bassi bacini di utenza ma ottimi valori di CTR.
+Questa corrispondenza si imposta inserendo la parole chiave tra parentesi quadre.
+Esempi:
+● [case in aﬃtto]
+● [automobili usate]
+● [smartphone]
+● [gestionali]
+● [portatili asus 13 pollici]
+16
+Corso Google Ads - Modulo 3
+
+## Page 17
+
+Le Parole chiave: Corrispondenza [Esatta]
+Negli ultimi anni la corrispondenza esatta è diventata sempre meno esatta.
+L’intelligenza artificiale di Google Ads gli permette di prevedere l’eventuale correlazione che
+potrebbe esserci tra una parola chiave e la ricerca di un utente.
+Grazie a questo può pubblicare gli annunci anche in presenza di errori ortografici, forme
+singolari e plurali, forme accentate, parole chiave con lo stesso significato ma in ordine
+differente.
+Approfondiamo meglio le casistiche che portano all’attivazione della corrispondenza esatta
+in quanto essa ha subito dei cambiamenti andando a coprire anche:
+● Le parole chiave implicite, ad esempio [scheda sim 4g] attiverà gli annunci per la
+ricerca “scheda sim”;
+● Sinonimi e parafrasi, ad esempio [costume da bagno] attiverà gli annunci per la ricerca
+“costume da nuoto”;
+● Stesso intento di Ricerca, ad esempio [acqua gassata online] attiverà gli annunci
+“acqua frizzante online”;
+17
+Corso Google Ads - Modulo 3
+
+## Page 18
+
+Le Parole chiave: Corrispondenza [Esatta]
+Esempio: vendiamo scarpe nike “magista”.
+Keyword inserite:
+● [nike magista]
+● [scarpe calcio
+magista]
+Ricerche che attiveranno
+i nostri annunci:
+● nike magista
+● scarpa calcio magista
+● scarpa da calcio magista
+Ricerche che non attiveranno
+i nostri annunci:
+● magista calcetto
+● magista inverno
+● magista fango
+Questo tipo di corrispondenza è sicuramente ultra selettiva, permettendoci quindi di
+lavorare “a colpo sicuro” con determinati termini per noi utili.
+18
+Corso Google Ads - Modulo 3
+
+## Page 19
+
+Le Parole chiave: Corrispondenza [Esatta]
+VANTAGGI:
+● Massimo controllo sulle parole chiave;
+● CTR maggiore rispetto a tutte le altre corrispondenze;
+● Parola chiave e intento di Ricerca identico;
+● Possibilità di creare annunci dedicati a parole chiave importanti;
+● Utenti intercettati molto in target;
+SVANTAGGI:
+● Bacino d’utenza inferiore alle altre corrispondenze;
+● Occorre conoscere esattamente ciò che gli utenti cercano;
+19
+Corso Google Ads - Modulo 3
+
+## Page 20
+
+Le Parole chiave: recap
+RIASSUMENDO
+● Corrispondenza generica: automobili usate
+Gli annunci verranno attivati per ricerche come:
+automobile usata, auto usate, punto usata, ricambi auto usati, smaltire olio auto usato;
+● Corrispondenza a frase: “automobili usate”
+Gli annunci verranno attivati per ricerche come:
+automobili usate, atuomobile suata, smaltire olio usato automobile, ricambi automobili usati;
+● Corrispondenza esatta: [automobili usate]
+Gli annunci verranno attivati per ricerche come:
+automobili usate, automobile usata, atuomobili usate, automobili suate;
+20
+Corso Google Ads - Modulo 3
+
+## Page 21
+
+Le Parole chiave: Corrispondenza Inversa
+Corrispondenza fondamentale per il corretto funzionamento di qualsiasi campagna, ci
+permette di escludere determinate parole chiave per fare in modo che i nostri annunci non
+vengano attivati. E’ talmente importante da meritare una sezione a sé dove andare ad
+inserire i vari termini.
+Funziona in modo opposto alle altre corrispondenze e ci aiuta a escludere quei termini che
+assolutamente non vogliamo siano collegati ai nostri annunci.
+Quando inseriremo parole chiave a corrispondenza inversa potremmo comunque sfruttare le
+tipologie di corrispondenza (esatta, generica e frase) precedentemente studiate, in modo da
+poter essere più o meno restrittivi.
+La scelta di un tipo di corrispondenza piuttosto che di un altro, verrà fatta sulla base della
+severità del filtro che vogliamo imporre.
+21
+Corso Google Ads - Modulo 3
+
+## Page 22
+
+Le Parole chiave: Corrispondenza Inversa
+Esempio: vendiamo siti web come freelance e utilizziamo keywords come “creazione siti web” e
+“web designer”.
+Keyword NEGATIVE inserite:
+Ricerche che attiveranno
+i nostri annunci:
+Ricerche che non attiveranno
+i nostri annunci:
+● “free”
+● “tutorial”
+● “online”
+● “diventare”
+● creazione siti web treviso
+● freelance web designer
+● professionista web
+designer
+● diventare web designer
+● tutorial creazione siti
+web
+● creazione siti web online
+Questo tipo di corrispondenza è sicuramente ultra selettiva, permettendoci quindi di
+lavorare “a colpo sicuro” con determinati termini per noi utili.
+22
+Corso Google Ads - Modulo 3
+
+## Page 23
+
+Le Parole chiave: Corrispondenza Inversa
+Tornando all’esempio iniziale, per evitare che la mia campagna dedicata alla vendita online
+di torce ad alta luminosità pubblichi annunci per ricerche relative alle batterie, basterà
+inserire la keyword “batterie” in corrispondenza inversa.
+Torce Batterie
+23
+Corso Google Ads - Modulo 3
+
+## Page 24
+
+Le Parole chiave: i Termini di Ricerca
+Si tratta dei termini digitati dagli utenti e che “attivano” i nostri annunci.
+All’interno dell’account è presente una sezione dedicata, utile per individuare:
+● sprechi di budget su termini di ricerca fuori target, da isolare tramite la corrispondenza
+inversa;
+● opportunità rappresentate da termini di ricerca che potrebbe essere inseriti come keywords
+della campagna;
+24
+Corso Google Ads - Modulo 3
+
+## Page 25
+
+Esercitazione #3
+Comprese le varie tipologie di corrispondenza provate a ipotizzare diversi gruppi
+di parole chiave per un Meccanico che opera a Treviso.
+Stilate alcuni esempi di parole chiave con rispettive corrispondenze.
+Se siete a corto di idee, sfruttate una piccola ricerca su Google per conoscere
+qualche sinonimo o termine interessante. In futuro vedremo quali strumenti
+possono essere utili per aumentare le nostre liste di parole chiave.
+25
+Corso Google Ads - Modulo 3
+
+## Page 26
+
+Riguardo alle parole chiave e alle tipologie di corrispondenza…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 27
+
+La Keywords Research
+Corso Google Ads - Modulo 3
+
+## Page 28
+
+Il Google Keyword Planner
+Uno dei servizi più richiesti a un
+professionista Google Ads è
+quello di valutare se eseguire o
+meno una campagna.
+Molte volte vi capiterà di avere
+clienti con idee poco chiare in
+merito al funzionamento di
+Google Ads, ai suoi costi e ai
+suoi rischi.
+Google Ads ci mette a disposizione uno strumento molto utile: il Keyword Planner tool o
+strumento di pianificazione delle parole chiave.
+Nelle prossime slide vedremo dove trovarlo all’interno dell’account e come utilizzarlo.
+28
+Corso Google Ads - Modulo 3
+
+## Page 29
+
+Il Google Keyword Planner: dove trovarlo?
+Per prima cosa, all’interno dell’account, clicchiamo sulle impostazioni dell’account
+rappresentate da questo simbolo:
+Troveremo il Keyword Planner in questa posizione:
+29
+Corso Google Ads - Modulo 3
+
+## Page 30
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+Arrivati in questa schermata abbiamo due possibilità:
+1. 2. la prima opzione serve se abbiamo bisogno di ottenere nuovi suggerimenti per la
+nostra lista di parole chiave. In futuro andremo ad affrontare questa procedura
+utilizzando anche altri strumenti;
+la seconda opzione ci permette invece di visionare volumi di ricerca e previsioni di
+costo basati sui dati storici raccolti dalla piattaforma;
+30
+Corso Google Ads - Modulo 3
+
+## Page 31
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+Procediamo cliccando “Individua nuove parole chiave” e ci troveremo davanti a 2 possibilità:
+1. 2. Inizia con le parole chiave ci permette di inserire alcune parole chiave e di ottenere un elenco di
+keywords correlate;
+Inizia con un sito web ci permette invece di lasciare che google scansioni il sito web di riferimento
+(o anche solamente una pagina specifica) ricavando in questo modo le parole chiave che ritiene più
+aﬃni;
+31
+Corso Google Ads - Modulo 3
+
+## Page 32
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+Proviamo ad utilizzare lo strumento Inizia con le parole chiave per valutare le keywords “casa in vendita
+milano”, “casa in vendita roma” e “casa in vendita bologna”.
+32
+Corso Google Ads - Modulo 3
+
+## Page 33
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+La piattaforma, partendo dalle keywords che abbiamo inserito, ci restituirà i dati relativi al periodo di
+tempo da noi impostato in relazione anche a località, lingua e rete di ricerca utilizzata (con o senza
+partner).
+Ci fornisce informazioni importantissime come:
+● il grafico della media di ricerche, che utilizzeremo per evidenziare eventuali stagionalità;
+● la forbice dell’offerta, utile per evidenziare una media minima ed una media massima del CPC per la
+parte superiore della prima pagina.
+33
+Corso Google Ads - Modulo 3
+
+## Page 34
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+Proviamo invece ad utilizzare lo strumento per individuare nuove parole chiave partendo dal sito “casa.it”.
+34
+Corso Google Ads - Modulo 3
+
+## Page 35
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+Anche qui, analizzando il sito web fornito, la piattaforma ci restituirà i dati relativi al periodo di tempo da
+noi impostato in relazione a località, lingua e rete di ricerca utilizzata (con o senza partner).
+Ci fornisce le solite informazioni importantissime come:
+● il grafico della media di ricerche, che utilizzeremo per evidenziare eventuali stagionalità;
+● la forbice dell’offerta, utile per evidenziare una media minima ed una media massima del CPC per la
+parte superiore della prima pagina.
+35
+Corso Google Ads - Modulo 3
+
+## Page 36
+
+Il Google Keyword Planner: impariamo ad utilizzarlo
+Le colonne che vediamo hanno i seguenti significati:
+● Parole chiave, ordinate per pertinenza;
+● Media delle ricerche mensili;
+● Concorrenza, identificata in tre valori: bassa, media, alta;
+● Quota impressioni annuncio, ovvero la quantità espressa in percentuale delle impressioni che
+i nostri annunci hanno ottenuto per quella precisa parola chiave;
+● Offerta per la parte superiore della pagina (gamma bassa), valore medio minimo del CPC per
+quella parola chiave nel periodo preso in esame;
+● Offerta per la parte superiore della pagina (gamma alta), valore medio massimo del CPC per
+quella parola chiave nel periodo preso in esame;
+● Stato account, indica se quella parola chiave è presente o meno all’interno del tuo account,
+sia come parola chiave “attivante” che come esclusa;
+Oltre ad ottenere tutta questa serie di informazioni, abbiamo la possibilità di poter salvare le parole
+chiave che riteniamo interessanti e aggiungerle ad un ipotetico piano di valutazione che stiamo
+eseguendo per un cliente.
+36
+Corso Google Ads - Modulo 3
+
+## Page 37
+
+Il Google Keyword Planner: il piano delle parole chiave
+Una volta analizzate e selezionate le parole chiave utili per promuovere il nostro
+prodotto/servizio, possiamo procedere creando un piano.
+37
+Corso Google Ads - Modulo 3
+
+## Page 38
+
+Il Google Keyword Planner: il piano delle parole chiave
+Il piano ci consente di ricevere alcune previsioni, con la possibilità di segmentare le parole chiave in diversi gruppi
+di annunci e partire con la creazione di una campagna.
+Lo strumento andrà a creare una previsione di spesa e risultato basandosi sui dati storici raccolti nel tempo. Ci
+proporrà un’offerta per clic consigliata, ma potremmo andare a modificarla sia per tutto il piano che per singola
+keyword. Oltre a quello potremmo modificare le nostre previsioni anche per segmenti di tempo diversi, come
+“settimana prossima”, “prossimo trimestre” o “dall’inizio”.
+38
+Corso Google Ads - Modulo 3
+
+## Page 39
+
+Il Google Keyword Planner: alcuni ragionamenti
+Finché non spenderemo almeno un centesimo in Google Ads, i dati del Keyword Planner
+assumeranno valori meno precisi e nel range da 10 a 100, 100 a 1000, 1000 a 10000.
+Pare infatti che Google stia limitando l’uso del Keyword Planner per coloro che non hanno
+almeno una campagna attiva.
+Potremmo sopperire a questa mancanza di dati precisi utilizzando SeoZoom o altri
+strumenti simili.
+Conoscere questi dati è molto importante e ci aiuterà ad avere un idea di campagna, valutare
+la performance che una singola parola chiave può avere e capire i margini di movimento che
+abbiamo in un determinato settore per una determinata zona.
+39
+Corso Google Ads - Modulo 3
+
+## Page 40
+
+Il Google Keyword Planner: ampliare la lista di keyword
+In alcuni casi potremmo trovarci davanti ad alcune keyword suggerite dal cliente, ma spesso e
+volentieri risulteranno troppo poche o non pertinenti.
+Come trovarne delle altre? Vediamo insieme alcuni strumenti.
+● SeoZoom: partendo dal sito del cliente potremmo studiare le parole chiave per la quale è
+posizionato o si sta posizionando ed aggiungerle alla nostra lista.
+● Semrush: alternativa a SeoZoom.
+● keywordtool.io: permette la creazione di grossi elenchi di parole chiave che poi andremo a
+raﬃnare.
+● fastkeyword.com: utile per creare degli intrecci automatizzati di parole chiave, secondo ogni
+tipologia di corrispondenza.
+● answerthepublic.com: molto utilizzato lato seo, può essere interessante per ricavarne
+qualche keyword aggiuntiva.
+● Ubersuggest: un tool utilizzato soprattutto in chiave seo che può rivelarsi utile in fase di
+Ricerca su tutto il suolo italiano.
+40
+Corso Google Ads - Modulo 3
+
+## Page 41
+
+Riguardo alla Keywords Research…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 42
+
+Esercitazione #4
+Impariamo a riflettere sulle liste di parole chiave che generiamo.
+Data la seguente lista di parole chiave, segnate quali prendereste in
+considerazione per la promozione di un B&B a Villorba di Treviso, quali valutereste
+e quali invece escludereste a priori.
+42
+Corso Google Ads - Modulo 3
+
+## Page 43
+
+Esercitazione #4
+Bed and breakfast
+Treviso Bed and breakfast
+B&B Treviso
+Bed breakfast Treviso
+B& breakfast Treviso
+Treviso bb
+dormire a Treviso
+dove dormire a Treviso
+Home Festival
+biglietti home festival Treviso
+eventi Treviso
+Treviso
+bed and breakfast Treviso
+bb Treviso
+ostello Treviso
+agriturismo Treviso
+B&B Treviso in centro
+B&B Treviso in centro storico
+B&B duomo di Treviso
+B&B Treviso e provincia
+bed and breakfast veneto
+dormire a Treviso e dintorni
+pensioni Treviso e dintorni
+B&B concerti Treviso
+B&B Treviso economici
+B&B hotel Treviso
+43
+Corso Google Ads - Modulo 3
+
+## Page 44
+
+Esercitazione #4
+Bed and breakfast
+Treviso Bed and breakfast
+B&B Treviso
+Bed breakfast Treviso
+B& breakfast Treviso
+Treviso bb
+dormire a Treviso
+dove dormire a Treviso
+Home Festival
+biglietti home festival Treviso
+eventi Treviso
+Treviso
+bed and breakfast Treviso
+bb Treviso
+ostello Treviso
+agriturismo Treviso
+B&B Treviso in centro
+B&B Treviso in centro storico
+B&B duomo di Treviso
+B&B Treviso e provincia
+bed and breakfast veneto
+dormire a Treviso e dintorni
+pensioni Treviso e dintorni
+B&B concerti Treviso
+B&B Treviso economici
+B&B hotel Treviso
+44
+Corso Google Ads - Modulo 3
+
+## Page 45
+
+Esercitazione #4
+Bed and breakfast
+Treviso Bed and breakfast
+B&B Treviso
+Bed breakfast Treviso
+B& breakfast Treviso
+Treviso bb
+dormire a Treviso
+dove dormire a Treviso
+Home Festival
+biglietti home festival Treviso
+eventi Treviso
+Treviso
+bed and breakfast Treviso
+bb Treviso
+ostello Treviso
+agriturismo Treviso
+B&B Treviso in centro
+B&B Treviso in centro storico
+B&B duomo di Treviso
+B&B Treviso e provincia
+bed and breakfast veneto
+dormire a Treviso e dintorni
+pensioni Treviso e dintorni
+B&B concerti Treviso
+B&B Treviso economici
+B&B hotel Treviso
+45
+Corso Google Ads - Modulo 3
+
+## Page 46
+
+Esercitazione #4
+Bed and breakfast
+Treviso Bed and breakfast
+B&B Treviso
+Bed breakfast Treviso
+B& breakfast Treviso
+Treviso bb
+dormire a Treviso -> costo kw?
+dove dormire a Treviso -> costo kw?
+Home Festival
+biglietti home festival Treviso
+eventi Treviso
+Treviso
+bed and breakfast Treviso
+bb Treviso
+ostello Treviso
+agriturismo Treviso
+B&B Treviso in centro -> in target?
+B&B Treviso in centro storico
+B&B duomo di Treviso
+B&B Treviso e provincia -> costo kw?
+bed and breakfast veneto
+dormire a Treviso e dintorni -> in target?
+pensioni Treviso e dintorni
+B&B concerti Treviso
+B&B Treviso economici -> costo kw?
+B&B hotel Treviso
+46
+Corso Google Ads - Modulo 3
+
+## Page 47
+
+Definizione del Budget
+Corso Google Ads - Modulo 3
+
+## Page 48
+
+Definizione del Budget
+Quanto budget devo destinare ad una campagna su rete di Ricerca?
+Questa è senza dubbio una delle domande più ricorrenti, e allo stesso tempo più diﬃcile, per
+un consulente Google Ads.
+Non esiste una risposta corretta a priori, ma abbiamo vari modi per stimare il budget
+necessario per una campagna su rete di Ricerca:
+● Possiamo tenere in considerazione il cpc per la gamma alta, se non abbiamo problemi di
+spesa o se la keyword è fondamentale;
+● Possiamo calcolare il nostro CPCmax attraverso la media aritmetica tra cpc per la gamma
+alta e gamma bassa: (CPC gamma alta + CPC gamma bassa)/2
+● Storico e conoscenza del settore;
+48
+Corso Google Ads - Modulo 3
+
+## Page 49
+
+Definizione del Budget
+Ora che abbiamo visto come ipotizzare il nostro CPCmax di partenza possiamo di
+conseguenza stimare il budget giornaliero e mensile:
+1. 2. 3. faccio la media dei CPCmax delle mie kw;
+moltiplico la media per il minimo di clic che vorrei ottenere al giorno (ipotizziamo 10) ed
+ottengo il budget giornaliero;
+per conoscere il budget mensile moltiplico il budget giornaliero per 30,4 (media dei
+giorni mensili);
+Esempio:
+Le mie kw hanno un CPCmax rispettivamente di: 2€, 1,5€ e 3€
+La media dei CPCmax è: 2€+1,5€+3€ = 6,5€/3 = 1,5€
+Il mio budget giornaliero sarà di: 1,5€*10 = 15€
+Il mio budget mensile sarà di: 15€*30,4 = 456€ -> BUDGET MINIMO che consiglio al cliente.
+49
+Corso Google Ads - Modulo 3
+
+## Page 50
+
+Definizione del Budget
+BONUS: template in Google Sheet per la definizione del budget.
+50
+Corso Google Ads - Modulo 3
+
+## Page 51
+
+Riguardo alla Definizione del Budget…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 52
+
+Esercitazione #5
+Mettiamo in pratica i concetti appena visti.
+Provate a fare una keyword research e stimare il budget mensile per promuovere il
+solito Dentista di Treviso.
+52
+Corso Google Ads - Modulo 3
+
+## Page 53
+
+Esercitazione per casa
+1. 2. Rileggere gli appunti e cercare di fissare i concetti teorici espressi, prestando
+particolare attenzione alla parte inerente le parole chiave;
+Provate a fare un po’ di keyword research su argomenti a piacere:
+- scegliete 3/6 keywords (con relativo url di atterraggio);
+- ipotizzate un budget giornaliero (e mensile);
+- utilizzeremo questa keyword research per costruire la nostra prima campagna durante
+la prossima lezione;
+Per qualsiasi dubbio o domanda scrivetemi alla mail matteo.mancin@venetoformazione.it
+53
+Corso Google Ads - Modulo 3
+
+## Page 54
+
+Fine Lezione 3 :)
+Corso Google Ads - Modulo 3
+

@@ -1,0 +1,502 @@
+# Google Ads - Lezione 6.pdf
+# Pages: 43
+
+## Page 1
+
+CORSO GOOGLE ADS
+Lezione 6
+
+## Page 2
+
+Argomenti trattati nella scorsa lezione
+Cosa abbiamo vista nella scorsa lezione:
+● Strategie per le campagne su rete di Ricerca;
+● Le Landing Page;
+● Creazione di una campagna Display;
+● Il Remarketing e il collegamento di Google Ads con Analytics;
+● Strategie per le campagne Display;
+2
+Corso Google Ads - Modulo 6
+
+## Page 3
+
+Riguardo agli aspetti trattati nella scorsa lezione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 4
+
+Benvenuti nella sesta parte del corso di Google Ads
+Cosa vedremo in questa lezione:
+● Le Conversioni: definizione e modalità di tracciamento;
+● Creazione delle Azioni di Conversione;
+● Importazione delle Conversioni da Google Analytics;
+● I Modelli di Attribuzione;
+4
+Corso Google Ads - Modulo 6
+
+## Page 5
+
+Prima di procedere però…
+Diamo un’occhiata alle campagne Display che avete creato a casa.
+5
+Corso Google Ads - Modulo 6
+
+## Page 6
+
+Le Conversioni: definizione e modalità di
+tracciamento
+Corso Google Ads - Modulo 6
+
+## Page 7
+
+Le Conversioni: definizione
+“Azione che viene conteggiata quando un utente interagisce con
+l’annuncio, ad esempio quando fa clic su
+un annuncio di testo o vede un annuncio video e, in seguito, esegue
+un'azione che è stata definita come
+importante per l’attività, come un acquisto online, una chiamata o un
+completamento di un form.“
+dalla guida uﬃciale di Google.
+7
+Corso Google Ads - Modulo 6
+
+## Page 8
+
+Le Conversioni: come si tracciano
+Se vi ricordate, nel modulo 4, durante la creazione della nostra prima campagna Search
+abbiamo saltato un passaggio: la scelta delle azioni di conversioni per l’ottimizzazione della
+campagna.
+Nelle prossime slide vedremo come possiamo effettuare il tracciamento delle nostre azioni
+di conversione.
+8
+Corso Google Ads - Modulo 6
+
+## Page 9
+
+Le Conversioni: come si tracciano
+Le conversioni possono essere tracciate tramite 2 diversi sistemi:
+● Attraverso l’importazione
+dall’account Analytics collegato a
+Google Ads (rivedi modulo 5);
+● Importazione più veloce;
+● Raccolta dati meno precisa;
+● Attraverso l’installazione del
+Global Site Tag;
+● Raccolta dati molto più precisa;
+● Implementazione più
+complessa che richiede
+competenze di Digital Analytics;
+9
+Corso Google Ads - Modulo 6
+
+## Page 10
+
+Riguardo alle Conversioni…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 11
+
+Creazione delle Azioni di Conversione
+Corso Google Ads - Modulo 6
+
+## Page 12
+
+Creazione delle Azioni di Conversione
+All’interno del nostro account Google Ads clicchiamo “Conversioni” sotto alla voce Misurazione.
+Nella schermata che si apre clicchiamo il pulsante “+ Nuova azione di conversione”.
+e successivamente su
+12
+Corso Google Ads - Modulo 6
+
+## Page 13
+
+Creazione delle Azioni di Conversione
+Ora ci verrà chiesto quale tipologia di conversione vogliamo monitorare, con la possibilità di
+scegliere tra:
+● Azioni all’interno di un sito web;
+● Azioni all’interno di un app;
+● Telefonate dagli annunci o da un sito web;
+● Importazione da Google Analytics;
+13
+Corso Google Ads - Modulo 6
+
+## Page 14
+
+Creazione delle Azioni di Conversione
+Al momento scegliamo “Sito Web” e inseriamo l’URL del sito che vogliamo monitorare
+all’interno dell’apposito campo.
+14
+Corso Google Ads - Modulo 6
+
+## Page 15
+
+Creazione delle Azioni di Conversione
+Procediamo cliccando “+ Aggiungi un’azione di conversione manualmente”.
+15
+Corso Google Ads - Modulo 6
+
+## Page 16
+
+Creazione delle Azioni di Conversione
+Per creare la nostra azione di conversione, ci verrà chiesto di compilare diversi parametri.
+Ottimizzazione obiettivi e azioni:
+selezioniamo la categoria della
+nostra azione di conversione e la
+sua priorità di ottimizzazione;
+Nome: come sempre diamo
+nomi “parlanti”;
+Valore: Possiamo specificare un
+valore accordato con il cliente
+per un’azione particolare, nel
+caso di
+e-commerce occorrerà inserire il
+valore del carrello in modo
+dinamico;
+16
+Corso Google Ads - Modulo 6
+
+## Page 17
+
+Creazione delle Azioni di Conversione
+Conteggio: selezioniamo
+quante conversioni
+conteggiare per clic o
+interazione;
+Finestra di conversione:
+entro quanti giorni dal click e
+dall’impression vogliamo che
+la conversione sia registrata?
+Modello di attribuzione:
+possiamo selezionarne uno
+tra quelli visti in precedenza;
+17
+Corso Google Ads - Modulo 6
+
+## Page 18
+
+Creazione delle Azioni di Conversione
+Una volta che abbiamo terminato di inserire tutti i parametri richiesti avremo creato la nostra
+azione di conversione.
+Attenzione: a questo punto la nostra conversione non starà ricevendo dati, occorre prima
+installarla all’interno del nostro sito web.
+Per installare la conversione all’interno del sito da monitorare possiamo scegliere fra 3
+diverse possibilità:
+1. Configurare un Google Tag;
+2. Inviare le istruzione via email al nostro webmaster;
+3. Utilizzare Google Tag Manager per l’implementazione;
+18
+Corso Google Ads - Modulo 6
+
+## Page 19
+
+Creazione delle Azioni di Conversione
+Al momento scegliamo “Invia istruzioni via email al webmaster”.
+Le altre soluzioni richiedono skills di Digital Analytics che non rientrano nel programma di questo
+corso. Il mio consiglio è comunque quello di approfondire il funzionamento di Google Tag
+Manager, conoscerne il funzionamento risulta fondamentale per chi opera in ambito Digital
+Marketing. Possiamo trovare infinite guide gratuite nel blog di Google Tag Manager Italia.
+19
+Corso Google Ads - Modulo 6
+
+## Page 20
+
+Riguardo alla Creazione delle Azioni di Conversione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 21
+
+Importazione delle Conversioni da Google
+Analytics
+Corso Google Ads - Modulo 6
+
+## Page 22
+
+Importazione delle Conversioni da Google Analytics
+Creare le azioni di conversione
+tramite il tag nativo di Google Ads
+non è l’unico modo per tracciare
+le performance delle nostre
+campagne.
+Infatti, in alternativa, possiamo
+anche importare le conversioni
+già create all’interno del nostro
+account Google Analytics, previo
+collegamento degli account che
+abbiamo visto nel modulo 5.
+22
+Corso Google Ads - Modulo 6
+
+## Page 23
+
+Importazione delle Conversioni da Google Analytics
+Una volta collegati gli account, non dovremo fare altro che cliccare all’interno del
+nostro account Google Ads e successivamente su “Conversioni” sotto alla voce Misurazione.
+Nella schermata che si apre clicchiamo il pulsante “+ Nuova azione di conversione”.
+23
+Corso Google Ads - Modulo 6
+
+## Page 24
+
+Importazione delle Conversioni da Google Analytics
+Questa volta, invece di cliccare “Sito web” come abbiamo visto prima, occorrerà selezionare
+“Importazione”.
+24
+Corso Google Ads - Modulo 6
+
+## Page 25
+
+Importazione delle Conversioni da Google Analytics
+A questo punto scegliamo l’account Analytics dalla quale vogliamo effettuare l’importazione.
+Attenzione: l’evento di conversione dovrà obbligatoriamente essere già creato all’interno
+dell’account Analytics.
+25
+Corso Google Ads - Modulo 6
+
+## Page 26
+
+Riguardo all’importazione delle Conversioni da Analytics…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 27
+
+Tracciamento delle conversioni: Recap
+Ma quindi, è meglio importare le conversioni da Analytics o tracciarle tramite il tag nativo di
+Google Ads?
+Quando possibile, il mio consiglio è di implementare le conversioni tramite il tag di Google
+Ads perchè risulta essere molto più preciso e raccoglie dati in maniera molto più accurata.
+Il top sarebbe effettuare entrambi i setup in modo da poterli valutare in parallelo, lasciando
+come principale solo la soluzione che ci da maggiori garanzie.
+27
+Corso Google Ads - Modulo 6
+
+## Page 28
+
+I Modelli di Attribuzione
+Corso Google Ads - Modulo 6
+
+## Page 29
+
+I Modelli di Attribuzione: cosa sono
+Nel percorso verso una conversione, i clienti possono effettuare varie ricerche e interagire
+con più annunci pubblicati dallo stesso inserzionista.
+I modelli di attribuzione consentono di stabilire il merito che ogni interazione con l'annuncio
+riceverà per le tue conversioni. In pratica la marketing attribution permette di determinare
+quali sono i canali e touchpoint che concorrono a generare una conversione.
+Come abbiamo visto nelle prime lezioni, dal primo contatto all’azione di conversione il
+potenziale cliente effettua un vero e proprio percorso (customer journey).
+I sistemi di attribuzione ci aiutano a individuare le fasi, e capire la loro importanza all’interno
+del percorso.
+29
+Corso Google Ads - Modulo 6
+
+## Page 30
+
+I Modelli di Attribuzione: tipologie
+30
+Corso Google Ads - Modulo 6
+
+## Page 31
+
+I Modelli di Attribuzione: utilità
+Per capire al meglio l’utilità dei modelli di attribuzione, utilizziamo questo prezioso
+articolo di Enrico Pavan, uno dei principali esperti di Digital Analytics del panorama
+Italiano.
+Pavan per spiegare i modelli di attribuzione prende come esempio il Basket.
+31
+Corso Google Ads - Modulo 6
+
+## Page 32
+
+I Modelli di Attribuzione: tipologie
+La domanda sorge spontanea: cosa c’entra il Basket con i modelli di attribuzione?
+“Fintanto che Stockton passava la palla a Malone, quest’ultimo ha generato uno dei
+migliori record di punti della storia NBA; quando il centro passò ai Lakers, non trovò più la
+stessa continuità di “assist” fornita dal compagno e la media punti calò drasticamente.”
+Nel marketing, perdere l’assisted conversion può comportare una importante
+contrazione delle entrate o conversioni, come successo con la mancanza di assist per
+Malone.
+Nelle prossime slide applicheremo questo esempio ai vari modelli di attribuzione.
+32
+Corso Google Ads - Modulo 6
+
+## Page 33
+
+I Modelli di Attribuzione: Primo Clic
+Questo modello fornisce il 100% del credito per la conversione al primo touchpoint che ha
+portato un utente al sito.
+PR
+PRO
+● Di facile implementazione e analisi;
+● Fornisce un dato preciso su quali
+sono i canali che attirano in prima
+battuta l’interesse dell’utente;
+CONTRO
+● L’analisi è giocoforza poco
+approfondita, perché
+convenzionalmente attribuiamo il
+merito della conversione solo al
+touchpoint iniziale;
+33
+Corso Google Ads - Modulo 6
+
+## Page 34
+
+I Modelli di Attribuzione: Ultimo Clic
+Questo modello fornisce il 100% del merito all’ultima interazione o touchpoint che ha fatto
+convertire l’utente.
+PR
+PRO
+● Di facile implementazione e analisi;
+● Identifica con precisione l’ultima
+fonte che ha portato alla conversione;
+CONTRO
+● Non si ha una cognizione precisa di
+quello che è stato il percorso
+dell’utente fino alla conversione, e
+quindi si rischia di sottovalutare
+alcune leve che sono in realtà
+importanti;
+34
+Corso Google Ads - Modulo 6
+
+## Page 35
+
+I Modelli di Attribuzione: Lineare
+Con questo modello il credito per la conversione viene suddiviso equamente tra tutte le
+interazioni generate dall’utente.
+PR
+PRO
+● Di facile implementazione e analisi;
+● Modello più equilibrato rispetto ai
+precedenti;
+CONTRO
+● Non mette suﬃcientemente in
+evidenza quali sono i canali di
+marketing che “pesano
+maggiormente” per la nostra
+strategia;
+35
+Corso Google Ads - Modulo 6
+
+## Page 36
+
+I Modelli di Attribuzione: Decadimento Temporale
+L’attribuzione a decadimento temporale è molto simile a quanto abbiamo visto con il precedente
+modello però, in questo caso, oltre a distribuire la conversione sui vari touchpoint intercorsi viene
+preso in considerazione anche il momento in cui si è verificato il punto di contatto.
+PR
+PRO
+● Utile quando la conversione è
+rappresentata dalla raccolta di Lead;
+CONTRO
+● Non vengono analizzati in maniera
+corretta quelle che sono le azioni
+messe in atto all’inizio del nostro
+funnel;
+36
+Corso Google Ads - Modulo 6
+
+## Page 37
+
+I Modelli di Attribuzione: In base alla Posizione
+Questo modello suddivide il credito per una conversione tra la prima interazione di un
+potenziale cliente e il momento in cui si converte in lead.
+PR
+PRO
+● Utile quando il business in oggetto
+richiede strategie semplici:
+conoscere il brand e convertire.
+CONTRO
+● Su business più complessi l’analisi
+rischia di essere troppo sommaria e
+andando a lavorare solo sui due
+touchpoint principali non si avranno
+risultati apprezzabili su lungo
+termine;
+37
+Corso Google Ads - Modulo 6
+
+## Page 38
+
+I Modelli di Attribuzione: Basato sui Dati
+In questo modello viene distribuito il credito per la conversione in base ai dati passati per
+una specifica conversione.
+PR
+PRO
+● E un modello basato sui dati del
+proprio account e sottintende
+un’attività di machine learning molto
+potente;
+CONTRO
+● L’implementazione non è semplice
+e per account con meno traﬃco non
+è possibile avere tutti i dati richiesti
+dal machine learning;
+38
+Corso Google Ads - Modulo 6
+
+## Page 39
+
+I Modelli di Attribuzione: vantaggi
+La maggior parte degli inserzionisti misura l'eﬃcacia della propria pubblicità online con il modello
+"ultimo clic". In altri termini, una conversione viene attribuita interamente all'annuncio su cui è stato
+effettuato l'ultimo clic e alla parola chiave corrispondente.
+Tuttavia, vengono ignorate le altre interazioni con gli annunci che i clienti potrebbero avere in
+corso.
+I modelli di attribuzione offrono un maggior controllo sulla porzione di merito che ogni interazione
+con l'annuncio riceve per le conversioni.
+In questo modo, possiamo:
+● Raggiungere i clienti nelle prime fasi del ciclo di acquisto: trovare opportunità di influenzare
+gli utenti nel loro percorso verso la conversione;
+● Migliorare le offerte: ottimizzare le offerte analizzando in modo più preciso il rendimento
+degli annunci;
+39
+Corso Google Ads - Modulo 6
+
+## Page 40
+
+Riguardo ai Modelli di Attribuzione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 41
+
+Esercitazione #10
+Mettiamo in pratica quanto appreso nelle ultime slide ed esercitiamoci nella
+creazione delle azioni di conversione di Google Ads per il nostro cliente
+www.dentistamed.it.
+I punti importanti che verranno corretti sono:
+1. 2. 3. Corretta creazione delle seguenti azioni di conversione: invio form contatti,
+click numero di telefono, click mail e tempo di permanenza sul sito;
+Corretta scelta del modello di attribuzione;
+Corretta prioritarizzazione delle diverse azioni di conversione;
+41
+Corso Google Ads - Modulo 6
+
+## Page 42
+
+Esercitazione per casa
+Ripassare in modo approfondito il tracciamento delle conversioni e i modelli di
+attribuzione.
+Creazione delle azioni di conversione di Google Ads per un cliente e-commerce,
+per la quale dobbiamo monitorare: visualizzazione prodotti, aggiunte al carrello,
+inizio checkout e acquisto.
+Per qualsiasi dubbio o domanda scrivetemi alla mail
+matteo.mancin@venetoformazione.it
+42
+Corso Google Ads - Modulo 6
+
+## Page 43
+
+Fine Lezione 6 :)
+Corso Google Ads - Modulo 6
+

@@ -1,0 +1,764 @@
+# Google Ads - Lezione 4.pdf
+# Pages: 59
+
+## Page 1
+
+CORSO GOOGLE ADS
+Lezione 4
+
+## Page 2
+
+Argomenti trattati nella scorsa lezione
+Cosa abbiamo vista nella scorsa lezione:
+● Le Parole Chiave e le tipologie di Corrispondenza;
+● La Keywords Research;
+● Definizione del Budget;
+2
+Corso Google Ads - Modulo 4
+
+## Page 3
+
+Riguardo agli aspetti trattati nella scorsa lezione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 4
+
+Benvenuti nella quarta parte del corso di Google Ads
+Cosa vedremo in questa lezione:
+● Creazione di una campagna su rete di Ricerca;
+● Gli annunci e le estensioni;
+● Norme redazionali e contenuti vietati;
+● Ottimizzazione di una campagna su rete di Ricerca: il Quality Score, il sistema
+d’Asta e l’AdRank;
+4
+Corso Google Ads - Modulo 4
+
+## Page 5
+
+Creazione di una campagna su rete di
+Ricerca
+Corso Google Ads - Modulo 4
+
+## Page 6
+
+Creazione di una campagna su rete di Ricerca
+Iniziamo cliccando il pulsante “+ Nuova campagna” all’interno del nostro account.
+6
+Corso Google Ads - Modulo 4
+
+## Page 7
+
+Creazione di una campagna su rete di Ricerca
+A questo punto ci viene chiesto quale sia lo scopo della nostra campagna. Ciò che inseriamo
+in questa sezione non avrà nessun tipo di ripercussione sulle performance della campagna
+ma si limiterà a rimuovere determinate opzioni di personalizzazione nei passaggi successivi.
+Il mio consiglio è quindi di procedere sempre con “Crea una campagna senza obiettivo” in
+modo da mantenere tutte le opzioni di personalizzazione possibile.
+7
+Corso Google Ads - Modulo 4
+
+## Page 8
+
+Creazione di una campagna su rete di Ricerca
+Selezioniamo ora la tipologia di campagna che vogliamo creare. Nel nostro caso
+selezioneremo quindi “Cerca”.
+8
+Corso Google Ads - Modulo 4
+
+## Page 9
+
+Creazione di una campagna su rete di Ricerca
+Ci verrà poi chiesto per quali obiettivi di conversione vogliamo ottimizzare il rendimento
+della nostra campagna. Per il momento ignoriamo e passiamo oltre, lo vedremo al modulo 6.
+9
+Corso Google Ads - Modulo 4
+
+## Page 10
+
+Creazione di una campagna su rete di Ricerca
+Concludiamo l’ultimo passaggio inserendo l’url del nostro sito web (facoltativo) e
+specificando il nome da assegnare alla campagna.
+10
+Corso Google Ads - Modulo 4
+
+## Page 11
+
+Creazione di una campagna su rete di Ricerca
+Scegliete con cura il naming delle vostre campagne, fate in modo che sia parlante.
+Sono fermamente convinto che l’ordine e la chiarezza all’interno dell’account sia alla base
+per eseguire un buon lavoro.
+Vi sembrerà scontato ma nominare le vostre campagne con una regola chiara e precisa
+facilita la vita a voi e a chi magari è chiamato a collaborare con voi.
+Personalmente uso una formula simile a questa:
+Tipolo di campagna - Mese e anno di lancio - Servizio/prodotto - Target geografico
+Esempio: SN - 0122 - Impianto Fotovoltaico - Padova
+11
+Corso Google Ads - Modulo 4
+
+## Page 12
+
+Creazione di una campagna su rete di Ricerca
+Inseriamo la strategia di offerta che vogliamo assegnare alla nostra campagna.
+12
+Corso Google Ads - Modulo 4
+
+## Page 13
+
+Creazione di una campagna su rete di Ricerca
+A questo punto possiamo selezionare le reti, il
+targeting geografico, la lingua e molte altre
+impostazioni di pubblicazione.
+Per quanto riguarda le reti, salvo casi
+eccezionali, il mio consiglio è di rimuovere
+sempre le spunte sia dai partner di Ricerca che
+dall’espansione alla rete Display, in modo da
+permettere la pubblicazione solo ed
+esclusivamente in Search.
+13
+Corso Google Ads - Modulo 4
+
+## Page 14
+
+Creazione di una campagna su rete di Ricerca
+Ora creiamo i nostri gruppi di
+annunci e inseriamo le nostre parole
+chiave.
+Tenete d’occhio le stime giornaliere
+e valutate i consigli di Google.
+14
+Corso Google Ads - Modulo 4
+
+## Page 15
+
+Creazione di una campagna su rete di Ricerca
+Terminiamo questa sezione con la creazione dei nostri
+annunci di testo, inserendo:
+● URL finale;
+● Percorso visualizzato (facoltativo);
+● 15 titoli di max 30 caratteri;
+● 4 descrizioni di max 90 caratteri;
+15
+Corso Google Ads - Modulo 4
+
+## Page 16
+
+Creazione di una campagna su rete di Ricerca
+Linee Guida Uﬃciali Google per la creazione degli annunci:
+Aggiungi il maggior numero possibile di titoli e descrizioni pertinenti e unici.
+La presenza di troppi titoli e descrizioni ridondanti limita le capacità del sistema di creare combinazioni di annunci.
+Per aumentare le probabilità che il tuo annuncio venga pubblicato, concentrati su queste importanti linee guida per ogni
+annuncio adattabile della rete di Ricerca:
+● Fornisci almeno da otto a dieci titoli: con un maggior numero di titoli aumentano anche le combinazioni di messaggi per
+formare annunci pertinenti che, a loro volta, possono migliorare il rendimento.
+- Fornisci almeno cinque titoli unici che non contengono frasi uguali o simili ripetute;
+- Assicurati di includere una parola chiave in due titoli;
+- Assicurati di avere almeno altri tre titoli che NON includano le parole chiave. Prova a mettere in evidenza aspetti e
+vantaggi di prodotti o servizi aggiuntivi, un problema per cui offri una soluzione o informazioni su spedizioni e resi;
+● Fornisci almeno due descrizioni uniche.
+- Prova a mettere in evidenza ulteriori informazioni sul tuo prodotto o servizio non menzionate nei titoli;
+● La funzione di blocco riduce il numero complessivo di titoli o descrizioni che possono essere visualizzati. Se sblocchi o
+blocchi più titoli o descrizioni in ogni posizione, il numero di titoli o descrizioni visualizzabili sarà maggiore.
+16
+Corso Google Ads - Modulo 4
+
+## Page 17
+
+Creazione di una campagna su rete di Ricerca
+Come ultimo passaggio inseriamo il budget da destinare alla nostra campagna.
+17
+Corso Google Ads - Modulo 4
+
+## Page 18
+
+Creazione di una campagna su rete di Ricerca
+Rivediamo tutti i vari passaggi e clicchiamo su
+“Pubblica campagna”.
+18
+Corso Google Ads - Modulo 4
+
+## Page 19
+
+Creazione di una campagna su rete di Ricerca
+Recap delle varie impostazioni:
+● Livello di campagna: Budget - Località - Lingua - Offerte;
+● Livello di gruppo di annunci: Landing Page - Keywords - Annuncio - Estensioni
+di annuncio (Asset);
+19
+Corso Google Ads - Modulo 4
+
+## Page 20
+
+Riguardo alla creazione di una campagna…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 21
+
+Le Estensioni di annuncio (Asset)
+Corso Google Ads - Modulo 4
+
+## Page 22
+
+Estensioni di annuncio (Asset)
+Le estensioni di annuncio, da poco rinominate Asset, sono elementi di testo (cliccabili e non) ed
+elementi grafici che possiamo aggiungere ai nostri annunci al fine di fornire maggiori
+informazioni. Non sono governabili e sarà la piattaforma a gestire la loro pubblicazione sulla base
+della posizione dell’annuncio e quality score.
+Anche se non abbiamo controllo sulla loro effettiva pubblicazione sarà bene fornire alla
+piattaforma tutte le informazioni necessarie per poterle pubblicare poiché permettono notevoli
+vantaggi:
+● sono gratis, e questo è già un vantaggio;
+● forniscono maggiori informazioni di varia natura;
+● forniscono ulteriori opzioni a livello di annuncio (es. chiamata direttamente dall’annuncio,
+apertura di Google Maps cliccando sull’indirizzo, ecc.);
+● sono uno scalino tra professionisti e neofiti: spesso molti inserzionisti infatti non le usano
+affatto o le utilizzano malamente;
+Andremo ora ad elencare le varie tipologie di estensioni, soffermandoci maggiormente su quelle
+più utilizzate.
+22
+Corso Google Ads - Modulo 4
+
+## Page 23
+
+Estensioni di annuncio: Sitelink
+Composte da collegamenti strutturati in 25 caratteri + 2 eventuali righe da 35 caratteri ciascuna.
+Sono tra le più utilizzate poiché permettono di catturare intenti di Ricerca leggermenti diversi e di
+occupare una parte più ampia dei risultati di Ricerca.
+Conviene cercare di rimandare a sezioni del sito inerenti al prodotto che stiamo promuovendo o
+che comunque seguono un filo logico con l’intento di Ricerca che l’utente può avere.
+23
+Corso Google Ads - Modulo 4
+
+## Page 24
+
+Estensioni di annuncio: Callout
+Estensioni composte da piccole parti di testo non cliccabili di massimo 25 caratteri ciascuna. Appaiono
+sotto l’annuncio a gruppi di 4-5.
+Dato un elenco di 10-15 Callout, Google andrà a scegliere quali pubblicare ruotando prima vari mix, per poi
+consolidarsi mostrando la combinazione più performante. Solitamente andremo ad inserire informazioni
+aggiuntive e “plus” che il nostro prodotto o la nostra azienda offre.
+Esempi: “Spedizione in 48 ore”, “Spedizione Gratuita”, “30 anni di esperienza”, “Assistenza 24/7”, “Reso
+Gratuito” ecc.
+24
+Corso Google Ads - Modulo 4
+
+## Page 25
+
+Estensioni di annuncio: Snippet strutturati
+Costituite da elenchi personalizzati che arricchiscono gli annunci di informazioni. Al loro
+interno hanno al massimo 10 voci da massimo 25 caratteri l’una.
+Esistono soltanto categorie di elenchi ben precise che rendono queste estensioni limitate nel
+loro utilizzo. Oltre a questo se Google reputerà che uno o più termini che abbiamo inserito
+nell’elenco non sia idoneo con esso, bloccherà tutta l’estensione senza notificare quale
+termine è “di troppo”.
+25
+Corso Google Ads - Modulo 4
+
+## Page 26
+
+Estensioni di annuncio: Snippet strutturati
+Le categorie degli snippet strutturati sono:
+● Coperture assicurative;
+● Corsi di formazione e corsi di laurea;
+● Brand;
+● Hotel consigliati in relazione alla località di un convegno/evento;
+● Servizi;
+● Stili, inteso nell’ambito della moda, arte, architettura, ecc.;
+● Programmi TV;
+● Destinazioni;
+● Quartieri;
+● Tipi di prodotti e servizi;
+● Modelli di prodotti;
+26
+Corso Google Ads - Modulo 4
+
+## Page 27
+
+Estensioni di annuncio: Chiamata
+Estensione che permette di aggiungere all’annuncio un numero di telefono, cliccabile da
+smartphone, che attiva una chiamata.
+Consiglio di programmare questa estensione
+in modo da essere pubblicata in orari in cui
+siamo sicuri che qualcuno possa
+effettivamente rispondere al telefono. E’
+molto importante che il numero di telefono
+sia ripreso all’interno della pagina di
+atterraggio altrimenti l’estensione non verrà
+approvata.
+Ulteriore opzione interessante è l’utilizzo del monitoraggio delle chiamate tramite il numero
+di inoltro di Google. Grazie a questa risorsa gratuita saremo in grado non solo di tracciare il
+clic alla chiamata, ma anche l’effettiva durata.
+27
+Corso Google Ads - Modulo 4
+
+## Page 28
+
+Estensioni di annuncio: Località
+Estensioni che arricchiscono gli annunci con dati inerenti l’indirizzo del punto
+vendita più vicino all’utente. Per poterle attivare occorre che l’account Google Ads
+sia collegato alla pagina Google My Business dell’attività.
+Sono estensioni molto utili quando per noi è un vantaggio portare un utente nella
+nostra sede.
+28
+Corso Google Ads - Modulo 4
+
+## Page 29
+
+Estensioni di annuncio: Prezzo
+Utilizzate quando vogliamo dare informazioni di prezzo su campagne a risposta
+diretta. E’ possibile inserire fino ad un massimo di 8 prezzi fissi o importi a partire
+da un valore prefissato.
+Solitamente si sfrutta la classica tattica dei prezzi “..a partire da”.
+Queste estensioni devono
+obbligatoriamente rimandare a
+sezioni interne al dominio e non
+a siti esterni.
+29
+Corso Google Ads - Modulo 4
+
+## Page 30
+
+Estensioni di annuncio: Modulo per i lead
+Utilizzate per raccogliere rapide richieste di contatto che si auto-completeranno se
+l’utente è loggato con la propria Gmail.
+Sono state implementate ad Ottobre 2019,
+e richiedono il collegamento ad un CRM
+per la raccolta dei dati ottenuti.
+30
+Corso Google Ads - Modulo 4
+
+## Page 31
+
+Estensioni di annuncio: Promozione
+Servono a comunicare all’utente offerte speciali temporanee o permanenti con l’indicazione
+di uno sconto percentuale, assoluto, fisso o variabile. Oltre al valore dello sconto è possibile
+inserire un'etichetta per descriverlo in 20 caratteri e un URL di destinazione specifico.
+Molto sfruttata negli e-commerce, ha un grosso limite:
+le promozioni devono sempre essere riferite ad un
+valore di prezzo o sconto sul prezzo totale.
+Promo come ad esempio “spedizione gratuita da 39€”,
+oppure “prendi 2 paghi 1” purtroppo non potranno
+essere sfruttate.
+Stando ad alcuni case history, determinano buoni
+aumenti del CTR.
+31
+Corso Google Ads - Modulo 4
+
+## Page 32
+
+Estensioni di annuncio: Per App
+Si usano per promuovere applicazioni relative al nostro annuncio. Il limite dei
+caratteri per poterla descrivere è di 25.
+A livello di campi richiesti sarà necessario
+specificare l’OS dell’applicazione, la destinazione
+del pacchetto (posizione dell’app nello store), il
+testo dell’app (utilizzare una chiara CTA), il link
+diretto all’app nello store e le preferenze di
+pubblicazione dell’annuncio (solo mobile o no).
+32
+Corso Google Ads - Modulo 4
+
+## Page 33
+
+Estensioni di annuncio: Valutazioni del venditore
+Per far comparire questa estensione occorre aver aderito al programma “Recensioni dei
+clienti su Google” tramite il Merchant Center, o sfruttare una delle piattaforme che Google
+riconosce come “aﬃdabili” per le proprie recensioni (es. Trustpilot, Feefo, eKomi,
+PowerReviews, Feedaty e molte altre).
+Occorre aver soddisfatto diversi requisiti di qualità e quantità delle recensioni per poter far
+comparire questa estensione. Si tratta comunque di una recensione che viene attivata
+automaticamente da Google.
+33
+Corso Google Ads - Modulo 4
+
+## Page 34
+
+Estensioni di annuncio: sono così eﬃcaci?
+SITELINK
+CTR
+30%
+LOCALITÀ
+CTR
+10%
+In questo particolare grafico è riportato qualche
+dato sull’eﬃcacia che hanno le estensioni nel
+migliorare il CTR dei nostri annunci.
+A mio parere, le linee guida da adottare per
+l’utilizzo delle estensioni sono piuttosto semplici.
+Sarà sempre necessario valutare se utilizzare
+un'estensione, o meno, in base alla funzionalità
+che può avere per i miei annunci ma anche al
+costo/beneficio che può portarmi.
+CHIAMATA
+fonte dei dati: www.searchenginejournal.com
+CTR
+6-8%
+34
+Corso Google Ads - Modulo 4
+
+## Page 35
+
+Riguardo alle Estensioni di annuncio…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 36
+
+Esercitazione #6
+Create in autonomia la vostra prima campagna su rete di Ricerca, partendo dalla
+keyword research che avete svolto per casa.
+I punti importanti che verranno corretti sono:
+● Corretta impostazione della campagna in termini di località, reti, budget e
+strategie di offerta;
+● Corretta scelta delle parole chiave con le giuste corrispondenze;
+● Corretta organizzazione in gruppi di annunci;
+● Sarà apprezzato il copy degli annunci e delle estensioni;
+36
+Corso Google Ads - Modulo 4
+
+## Page 37
+
+Diamo un’occhiata alle nostre campagne
+Proviamo insieme a commentare qualche lavoro svolto in classe!
+37
+Corso Google Ads - Modulo 4
+
+## Page 38
+
+Le Norme Redazionali
+Corso Google Ads - Modulo 4
+
+## Page 39
+
+Norme redazionali
+Conoscere le norme redazionali ci permette di lavorare sempre alla luce del sole, ma
+soprattutto ci evita di prendere in carico lavori che non possono essere portati a termine su
+Google Ads.
+Google è molto geloso del suo sistema pubblicitario e lo tutelerà al fine di proseguire
+nell’alto standard qualitativo alla quale ha abituato i suoi utenti.
+Analizziamo insieme le varie tipologie di norme redazionali vigenti in Google Ads.
+39
+Corso Google Ads - Modulo 4
+
+## Page 40
+
+Norme redazionali: contenuti vietati
+Su Google Ads non è possibili promuovere:
+● Articoli contraffatti;
+● Prodotti o servizi pericolosi, come droghe, esplosivi, armi, o prodotti
+stupefacenti;
+● Prodotti o servizi per invogliare comportamenti disonesti, come siti per il
+download di materiale pirata, creazione di documenti falsi, ecc.;
+● Prodotti o servizi che promuovono odio, intolleranza, violenza e
+discriminazione;
+40
+Corso Google Ads - Modulo 4
+
+## Page 41
+
+Norme redazionali: pratiche vietati
+Sono inoltre vietate le seguenti pratiche:
+● Abuso della rete pubblicitaria con pratiche di cloaking, gateway e sistemi per
+aggirare la verifica delle norme pubblicitarie;
+● Raccolta e utilizzo di dati senza le dovute precauzioni o il consenso esplicito;
+● False dichiarazioni e omissione di dettagli;
+41
+Corso Google Ads - Modulo 4
+
+## Page 42
+
+Norme redazionali: contenuti limitati
+Di seguito invece l’elenco di contenuti limitati su Google Ads:
+● Contenuti per adulti, nei limiti prestabiliti dalla piattaforma;
+● Alcol, secondo le normative locali e su target solo maggiorenne;
+● Copyright;
+● Scommesse e giochi a distanza, che possono essere promossi solo se gli
+inserzionisti hanno la certificazione Google Ads appropriata e se sono in
+regola con le normative vigenti;
+● Sanità e farmaci, secondo le leggi implicate agli standard di settore.
+● Contenuti politici, secondo le normative locali.
+● Servizi finanziari, che dovranno essere accompagnati da informazioni
+adeguate e il più trasparenti possibili.
+● Marchi;
+● Requisiti legali;
+42
+Corso Google Ads - Modulo 4
+
+## Page 43
+
+Norme redazionali: requisiti
+Gli annunci in Google Ads devono rispettare degli standard professionali.
+Sono quindi ammessi soltanto annunci chiari e scritti in modo leggibile, senza l’uso
+ripetitivo di parole, simboli, numeri e caratteri maiuscoli.
+Le destinazioni degli annunci (URL) devono essere
+funzionanti, utili e di facile navigazioni. I siti target delle
+nostre campagne dovranno quindi essere funzionanti e
+visualizzabili.
+Oltre a questi due requisiti, gli annunci stessi devono
+garantire un’esperienza utente positiva e quindi non è
+possibile utilizzare linguaggi non adatti ai minori, andranno
+sempre rispettati il limite dei caratteri e la grandezza delle
+immagini.
+43
+Corso Google Ads - Modulo 4
+
+## Page 44
+
+Riguardo alle Norme Redazionali…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 45
+
+Ottimizzazione di una campagna su rete di
+Ricerca: Il Quality Score, il sistema d’Asta
+e l’AdRank
+Corso Google Ads - Modulo 4
+
+## Page 46
+
+Il Quality Score: cos’è?
+Lo abbiamo nominato più e più volte nel corso ma ora è arrivato il momento di
+approfondire.
+Il Quality Score non è altro che un valore da 1 a 10 che Google attribuisce alle nostre
+parole chiave.
+Grazie a questo valore, la piattaforma deciderà in modo meritocratico il CPC di ogni
+inserzionista e la posizione del relativo annuncio.
+Prima di introdurre il funzionamento delle aste in Google Ads, andiamo a comprendere
+bene:
+1. Dove possiamo monitorarlo;
+2. Cosa influenza il QS;
+3. Come ottimizzarlo;
+4. Perchè è utile farlo;
+46
+Corso Google Ads - Modulo 4
+
+## Page 47
+
+Il Quality Score: dove trovarlo?
+Per visualizzare il punteggio di qualità occorrerà spostarsi nella scheda “parole chiave”.
+Da qui, cliccando il simbolo per la modifica delle colonne ( ) apriremo il menù di
+personalizzazione dei campi che vogliamo tenere monitorati. Da li andremo a trovare il punteggio
+di qualità nella sua sezione dedicata. Una volta selezionato, se la piattaforma ha ottenuto
+abbastanza dati ci restituirà il valore nelle colonne delle metriche dedicate alla parole chiave.
+Volendo potremmo voler inserire ulteriori metriche relative al quality score:
+CTR Previsto: calcolato
+attraverso la percentuale
+media del CTR dei nostri
+annunci.
+Pertinenza degli annunci:
+misura il grado di
+corrispondenza tra parole
+chiave, testo degli annunci
+e pagina di destinazione.
+Esperienza della pagina
+di destinazione: valuta la
+pertinenza dei contenuti
+della pagina in base alle
+ricerche che conducono
+ad essa e la sua fruibilità
+da parte degli utenti.
+47
+Corso Google Ads - Modulo 4
+
+## Page 48
+
+Il Quality Score: dove trovarlo?
+In questa schermata vediamo il punteggio di qualità con le sue tre componenti.
+48
+Corso Google Ads - Modulo 4
+
+## Page 49
+
+Il Quality Score: i fattori che lo influenzano
+Il Quality Score per la rete di Ricerca è influenzato dai seguenti fattori:
+● CTR storico;
+● Qualità dell’account;
+● Qualità della pagina di destinazione, intesa come fruibilità da parte dell’utente
+(tempi di caricamento, versione responsive, navigabilità, ecc.);
+● Pertinenza parola chiave > pagina di destinazione;
+● Pertinenza parola chiave > annunci;
+● Pertinenza parola chiave > termine di Ricerca;
+● Bounce rate (tasso di rimbalzo sulla pagina);
+49
+Corso Google Ads - Modulo 4
+
+## Page 50
+
+Il Quality Score: quindi?
+Abbiamo capito come il punteggio di qualità ci aiuti a valutare le performance delle nostre
+campagne in termini di pertinenza e usabilità della pagina per i nostri utenti.
+Sorge spontanea però una domanda: se ho una o più parole chiave con punteggio di qualità
+molto basso, cosa devo fare? Gli scenari sono molteplici:
+Lascio tutto com’è: il
+punteggio si degraderà
+sino a raggiungere
+valori talmente bassi da
+impedire la
+pubblicazione dei nostri
+annunci con la giusta
+frequenza. Questa
+situazione ci verrà
+notificata da Google.
+Rimuovo la parola
+chiave: Google ha più
+volte ripetuto che è più
+felice se un annuncio
+non viene mostrato
+piuttosto che mostrarlo
+per ricerche poco
+rilevanti. Scartare una
+parola chiave non è uno
+scenario irreale, anzi.
+Miglioriamo il nostro
+Quality Score per quelle
+parole chiave: questo
+scenario merita una
+slide dedicata, che
+andremo a vedere ora.
+50
+Corso Google Ads - Modulo 4
+
+## Page 51
+
+Il Quality Score: come ottimizzarlo
+Abbiamo capito come la pertinenza sia un fattore fondamentale che ruota attorno al punteggio di qualità.
+Ci sarà facile dedurre quindi che per ottimizzare il nostro Quality Score occorrerà lavorare principalmente
+su questo fattore.
+Ecco alcuni spunti su come è possibile farlo:
+1. 2. 3. 4. Creare gruppi di annunci dedicati per quella keyword: se capiamo l’importanza di una parola chiave
+e ci troviamo a ragionare così tanto sul suo QS, evidentemente merita un gruppo di annunci
+dedicato;
+Creiamo annunci ad hoc: riprendiamo la parola chiave nel testo dell’annuncio e nel suo URL, in
+modo da migliorarne la pertinenza;
+Creiamo pagine di atterraggio rilevanti e performanti: rilevanti dal punto di vista dei contenuti,
+performanti dal punto di vista della velocità, fruibilità e navigabilità per i diversi device.
+Lavoriamo sulle estensioni di annuncio: aggiungiamo tutte quelle che possono fare al caso nostro;
+51
+Corso Google Ads - Modulo 4
+
+## Page 52
+
+Il Quality Score: perchè ottimizzarlo
+Il Quality Score non fa parte delle vanity metrics… ha un impatto notevole sulla nostra campagna,
+soprattutto in termini economici.
+Prima di introdurre come esso influenza il sistema d’asta di Google Ads vediamo insieme questa tabella
+sull’impatto che esso ha nei confronti del CPC medio:
+Quality Score:
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+CPC:
+Sconto 50%
+Sconto 44,4%
+Sconto 37,5%
+Sconto 28,6%
+Sconto 16,7%
+Prezzo pieno
+Aumento del 25%
+Aumento del 67%
+Aumento del 150%
+Aumento del 400%
+Lo scopo di questa tabella è farvi capire quanto
+negativamente o positivamente il CPC è influenzato
+dal Quality Score.
+NB: non dovete assolutamente prendere questi dati
+come per certi in quanto possono variare a causa di
+molteplici altri fattori.
+fonte del grafico: wordstream.com
+52
+Corso Google Ads - Modulo 4
+
+## Page 53
+
+Il Sistema d’Asta e l’AdRank
+Ogni volta che un utente effettua una Ricerca su Google, la piattaforma esegue un’asta
+istantanea per stabilire le posizioni ma soprattutto i CPC che avranno gli annunci dei vari
+inserzionisti.
+Nel decidere questi due valori Google si aﬃda al cosiddetto AdRank.
+L’AdRank è costituito dal prodotto del Quality Score per il CPCmax che l’inserzionista (o la
+piattaforma) ha inserito.
+AdRank = Quality Score x CPCmax
+Proviamo ora a fare un esempio pratico ipotizzando un’asta tra 4 inserzionisti.
+53
+Corso Google Ads - Modulo 4
+
+## Page 54
+
+Il Sistema d’Asta e l’AdRank
+In questo esempio notiamo come, nonostante Angela abbia impostato un’offerta massima di
+3,00€ e quindi inferiore a tutte le altre, si trovi in prima posizione.
+Posizione Inserzionista CPC Max Quality Score Ad Rank
+1 Angela 3,00€ 10 30
+2 Bernardo 4,00€ 7 28
+3 Chiara 5,00€ 5 25
+4 Damiano 10,00€ 2 20
+54
+Corso Google Ads - Modulo 4
+
+## Page 55
+
+Il Sistema d’Asta e l’AdRank: il CPC effettivo
+La domanda che però ora sorge spontanea è: quanto spenderà Angela?
+Iniziamo ora ad apprendere il concetto di CPC effettivo, con questa formula:
+CPC effettivo = AdRank di chi si è posizionato dietro / nostro Quality Score
+Dato l’esempio di prima, avremmo i seguenti CPC effettivi:
+Posizione Inserzionista CPC Max Quality Score Ad Rank CPC Effettivo
+1 Angela 3,00€ 10 30 2,80€
+2 Bernardo 4,00€ ÷
+7 28 3,42€
+3 Chiara 5,00€ 5 25 4€
+4 Damiano 10,00€ 2 20 CPC Max, se è
+l’ultimo inserzionista
+55
+Corso Google Ads - Modulo 4
+
+## Page 56
+
+Il Sistema d’Asta e l’AdRank: conclusioni
+Lavorare per migliorare il Quality Score risulta quindi fondamentale per
+l’ottimizzazione di una campagna su rete di Ricerca, contribuendo a:
+1. Migliorare l’AdRank dell’annuncio;
+2. Ridurre il CPC effettivo;
+56
+Corso Google Ads - Modulo 4
+
+## Page 57
+
+Riguardo al Quality Score e l’AdRank…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 58
+
+Esercitazione per casa
+1) Rivedere quanto visto in classe focalizzandosi sui nuovi argomenti.
+2) Creare una campagna su rete di Ricerca su un argomento a piacere. I punti
+importanti che verranno corretti sono:
+- Corretta impostazione della campagna in termini di località e strategie di offerta;
+- Corretta scelta delle parole chiave con le giuste corrispondenze;
+- Corretta organizzazione in gruppi di annunci;
+- Sarà apprezzato il copy degli annunci;
+- Presenza delle principali estensioni di annuncio;
+Per qualsiasi dubbio o domanda scrivetemi alla mail matteo.mancin@venetoformazione.it
+58
+Corso Google Ads - Modulo 4
+
+## Page 59
+
+Fine Lezione 4 :)
+Corso Google Ads - Modulo 4
+

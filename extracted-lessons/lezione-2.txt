@@ -1,0 +1,1097 @@
+# Google Ads - Lezione 2.pdf
+# Pages: 85
+
+## Page 1
+
+CORSO GOOGLE ADS
+Lezione 2
+
+## Page 2
+
+Argomenti trattati nella scorsa lezione
+Cosa abbiamo vista nella scorsa lezione:
+● Cos’è Google Ads e come funziona;
+● Le Tipologie di Campagne;
+● Gli aspetti strategici e il Funnel;
+● Gli account Google Ads e il Centro Clienti;
+2
+Corso Google Ads - Modulo 2
+
+## Page 3
+
+Riguardo agli aspetti trattati nella scorsa lezione…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 4
+
+Benvenuti nella seconda parte del corso di Google Ads
+Cosa vedremo in questa lezione:
+● I Termini e le metriche di Google Ads;
+● La Struttura di un account Google Ads;
+● Le Strategie di Offerta;
+4
+Corso Google Ads - Modulo 2
+
+## Page 5
+
+I termini e le metriche di Google Ads
+Corso Google Ads - Modulo 2
+
+## Page 6
+
+I Termini di Google Ads
+Nelle prossime slide andremo ad analizzare le varie
+terminologie di Google Ads in modo da avere una base
+teorica tale da affrontare tutta la parte pratica parlando la
+stessa lingua.
+Inoltre, queste terminologie sono oggetto d’esame da parte di
+Google nel processo di Certificazione.
+6
+Corso Google Ads - Modulo 2
+
+## Page 7
+
+I Termini di Google Ads: Campagne
+In Google Ads, chiamasi campagna un insieme di gruppi di annunci che condividono diverse
+impostazioni, tra cui budget e targeting per località.
+Dentro lo stesso account possono coesistere molteplici campagne segmentate per diversi
+fattori come area geografica, lingua, tipologia di campagna e rete, budget differente.
+Campagna 1 Campagna 3
+Campagna 2
+7
+Corso Google Ads - Modulo 2
+
+## Page 8
+
+I Termini di Google Ads: Gruppi di annunci
+Utilizziamo i gruppi di annunci per raggruppare annunci con caratteristiche comuni.
+Sono i “mattoni” delle nostre campagne e sono fondamentali a livello strategico poiché
+permettono di organizzare la campagna in modi diversi.
+Campagna 1
+Gruppo di Annunci 1
+Gruppo di Annunci 2 Gruppo di Annunci 3
+Potremmo per esempio avere una campagna che vende case in provincia di Treviso e volerla
+segmentare per annunci dedicati alle singole località in cui sono ubicate le case.
+Altro esempio potrebbe essere una campagna di un negozio di computer che creerà diversi
+gruppi di annunci a seconda delle varie marche.
+8
+Corso Google Ads - Modulo 2
+
+## Page 9
+
+I Termini di Google Ads: Annunci
+Terminale finale delle nostre campagne, sono contenuti all’interno dei gruppi di annunci.
+Analizzeremo approfonditamente quelli di tipo testuale ma, come abbiamo visto, ne esistono
+di vario genere a seconda della tipologia di campagna.
+Soffermandoci sugli annunci di tipo testuale, protagonisti delle campagne sulla rete di
+Ricerca, essi sono composti da tre stringhe: Titolo, URL di visualizzazione e Descrizione.
+Gruppo di Annunci 2
+Campagna 1 Annuncio 1
+Annuncio 2
+Annuncio 3
+9
+Corso Google Ads - Modulo 2
+
+## Page 10
+
+I Termini di Google Ads: Annunci
+Il titolo è composto a sua volta dal titolo 1, dal titolo 2 e dal titolo 3.
+Tutti e 3 i titoli hanno a disposizione 30 caratteri e sono separati da un trattino “-”
+.
+La descrizione invece ci permette di dettagliare il nostro annuncio con dati, magari una
+chiara CTA (call to action) ed informazioni aggiuntive.
+10
+Corso Google Ads - Modulo 2
+
+## Page 11
+
+I Termini di Google Ads: Annunci
+La sezione dedicata all’URL di visualizzazione, invece, ci permette di inserire una preview di
+indirizzo finale, per far capire all’utente su che sito atterrerà.
+Possiamo inserire semplicemente il dominio senza per forza dover mettere il vero url di
+destinazione, a patto che quest’ultimo sia comunque all’interno del dominio oggetto di
+promozione.
+Esempio:
+Se la nostra pagina di atterraggio ha come indirizzo:
+www.venetoformazione.it/landing-corso-digital-marketing
+Nessuno ci vieta di inserire come URL di visualizzazione solo:
+www.venetoformazione.it
+Ora proviamo ad analizzare insieme alcuni esempi di annunci su ricerche in diretta.
+11
+Corso Google Ads - Modulo 2
+
+## Page 12
+
+Esercitazione #2
+Cerchiamo di assimilare bene il concetto di segmentazione delle campagne in
+gruppi di annunci, portando almeno un esempio a testa. Di seguito un esempio,
+ma cercate di essere fantasiosi:
+Depilazione
+Centro estetico
+Massaggi
+Pinco Pallo Cervicale
+Annuncio 1
+Drenante
+Annuncio 2
+Anticellulite
+Annuncio 3
+12
+Corso Google Ads - Modulo 2
+
+## Page 13
+
+Esercitazione #2
+Felpe
+Account:
+Parti superiori
+Abbigliamento T-shirt
+Cardigan
+Gilet
+13
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 14
+
+Esercitazione #2
+Antinfortunistica
+Account: Edilizia Fontane
+Arredo giardino
+Statue
+Ciottoli
+14
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 15
+
+Esercitazione #2
+Box doccia
+Account:
+Specchi
+Arredobagno Quadrati
+Tondi
+Rettangolari
+15
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 16
+
+Esercitazione #2
+Equitazione
+Account: Articoli
+sportivi
+Jogging
+Scarpe da
+corsa
+Abbigliamen
+to
+Oggettistica
+16
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 17
+
+Esercitazione #2
+Corpo
+Account: Prodotti
+Capelli
+bio cosmesi Ricci
+Mossi
+Lisci
+17
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 18
+
+Esercitazione #2
+Hair care
+Account: Sephora Palette
+Makeup
+Mascara
+Eyeliner
+18
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 19
+
+Esercitazione #2
+Colonnine ricarica
+Account:
+Pannelli solari
+Fotovoltaico Costo
+Preventivo
+Installazion
+e
+19
+Annuncio 1
+Annuncio 2
+Annuncio 3
+Corso Google Ads - Modulo 2
+
+## Page 20
+
+I Termini di Google Ads: Costo
+Rappresenta l’importo speso da una a più campagne Google
+Ads.
+Possiamo analizzare il dato scegliendo diverse fasce
+temporali, come ad esempio:
+- oggi;
+- ieri;
+- ultimi 7gg;
+- ultimi 30gg;
+20
+Corso Google Ads - Modulo 2
+
+## Page 21
+
+I Termini di Google Ads: Impression
+Le impressioni (impressions in inglese) sono il numero di
+visualizzazioni che l’annuncio riceve.
+Vengono conteggiate quando l’annuncio viene pubblicato a
+seguito di una ricerca.
+E’ un dato utile per capire se effettivamente il nostro annuncio
+viene mostrato o meno agli utenti e se le parole chiave che
+abbiamo inserito sbloccano ricerche o meno.
+21
+Corso Google Ads - Modulo 2
+
+## Page 22
+
+I Termini di Google Ads: CPM (costo per mille impression)
+CPM = (Costo / impression totali) x 1000
+Dato molto importante in quanto indica il costo per mille impression, ci aiuta a
+capire il costo dell’erogazione della nostra campagna, di conseguenza quanto
+costa la nostra esposizione.
+Facciamo un piccolo esempio: Ho speso 150€ e ho 3.000 impression, il mio CPM
+sarà di 50€.
+22
+Corso Google Ads - Modulo 2
+
+## Page 23
+
+I Termini di Google Ads: Clic
+Come si evince dal nome, per clic si intendono gli effettivi
+clic sugli annunci da parte di un utente.
+Non importa se esso arriverà o meno alla pagina collegata
+all’annuncio, il clic sarà conteggiato comunque.
+Questo dato è importante perché sta alla base di altre
+metriche come il CTR, CPC e il CPCm, che vedremo tra
+poco.
+23
+Corso Google Ads - Modulo 2
+
+## Page 24
+
+I Termini di Google Ads: CTR (click-through rate)
+CTR = (Clic totali / impression totali) x 100
+Dato molto importante in quanto indica il rapporto tra le persone che cliccano i
+nostri annunci dopo averli visualizzati. E’ un dato che viene espresso in
+percentuale.
+Facciamo un piccolo esempio: ho 50 clic e 5000 impressioni, ho un CTR del 1%.
+24
+Corso Google Ads - Modulo 2
+
+## Page 25
+
+I Termini di Google Ads: CTR (click-through rate)
+Su annunci con buona pertinenza rispetto alla ricerca dell’utente il CTR può variare a
+seconda della corrispondenza della parola chiave, argomento che analizzeremo più avanti
+nel corso.
+Lo introduciamo in poche parole come un sistema che comunica a Google Ads quanto
+vogliamo essere precisi nei termini di ricerca.
+Ricordiamoci che il CTR è una metrica “sistemica” e non solo legata alla nostra campagna.
+I fattori che possono determinare il CTR includono:
+● Tipo di corrispondenza;
+● Qualità dell’annuncio;
+● Performance dei competitor;
+● Presenza o meno di estensioni d’annuncio;
+● Percezione URL;
+25
+Corso Google Ads - Modulo 2
+
+## Page 26
+
+I Termini di Google Ads: CTR (click-through rate)
+Come professionisti, o comunque esperti della piattaforma, dobbiamo sempre
+puntare ad alti valori di CTR senza cadere nell’idea che esistano dei valori
+standard ed assoluti.
+È un buon KPI per valutare le campagne e i nostri annunci, a patto che siano nello
+stesso contesto.
+Risulta molto importante, infatti, non confrontare CTR di campagne appartenenti a prodotti differenti o che presentino dei contesti troppo differenti (es. confronto la campagna che vende cover con quella che vende smartphone).
+26
+Corso Google Ads - Modulo 2
+
+## Page 27
+
+I Termini di Google Ads: CPC (costo per clic)
+Google Ads è un circuito PPC.
+Come si può facilmente dedurre quindi pagheremo soltanto quando i nostri annunci vengono
+cliccati.
+Qui entra in gioco il costo per clic, ovvero quanto paghiamo per ogni clic su un nostro
+annuncio.
+Ci serve soprattutto per valutare i costi delle nostre campagne ma anche per darci un limite
+massimo di spesa.
+Quando creeremo le nostre campagne andremo ad impostare il CPCmax, ovvero il massimo
+che siamo disposti a pagare per un singolo clic. Tuttavia, quello che andremo a pagare diﬃcilmente sarà il CPCmax, ma bensì il CPC effettivo
+(lo vedremo in seguito).
+Oltre a questo, è bene capire che il dato singolo di un CPC lascia il tempo che trova, è
+sempre meglio parlare di CPCmedio.
+27
+Corso Google Ads - Modulo 2
+
+## Page 28
+
+I Termini di Google Ads: CPC medio
+CPC medio= CPC totale / clic totali
+Il CPC medio è un dato molto importante per capire quanto stiamo spendendo e
+come stiamo spendendo in una campagna.
+Abbassare il CPC (senza diminuire il numero di clic) significa ottimizzare una
+campagna in relazione ad un budget che ci siamo prefissati.
+28
+Corso Google Ads - Modulo 2
+
+## Page 29
+
+I Termini di Google Ads: Quota impressioni
+Quota impressioni = Impressioni / impressioni idonee totali
+La quota impressioni (spesso abbreviata in QI) è la percentuale di impressioni che
+i nostri annunci ricevono sul valore potenziale di impressioni ottenibili.
+Essa ci aiuta a capire se il bid (cpc max) e il budget che abbiamo impostato sono
+idonei a concorrere per le parole chiave che utilizziamo.
+Nella piattaforma è distinta in Quota impressioni sulla rete di Ricerca e Quota
+impressioni sulla rete Display, anche su questo torneremo in seguito.
+29
+Corso Google Ads - Modulo 2
+
+## Page 30
+
+I Termini di Google Ads: % impr. superiore e superiore assoluta
+A seguito della dismissione della posizione media avvenuta nel 7
+Ottobre del 2019, per valutare la posizione di un nostro annuncio
+esistono due metriche:
+● % impr. superiore: percentuale delle volte in cui il mio
+annuncio era tra le prime quattro posizioni;
+● % impr. superiore assoluta: percentuale delle volte in cui il mio
+annuncio era primo assoluto;
+In base all’AdRank, che introdurremo nelle prossime lezioni, la
+posizione dei nostri annunci può variare, e la % impressioni ci aiuta a
+capire come stiamo performando rispetto a chi gareggia con noi
+nelle aste.
+30
+Corso Google Ads - Modulo 2
+
+## Page 31
+
+I Termini di Google Ads: Conversione
+Per conversione intendiamo una qualsiasi azione che noi
+vogliamo l’utente effettui e che ci porta un guadagno diretto
+o potenziale, o che comunque lo disponga positivamente
+verso la nostra attività.
+Proviamo insieme a fare qualche esempio di conversione
+contestualizzandola in un’attività.
+31
+Corso Google Ads - Modulo 2
+
+## Page 32
+
+I Termini di Google Ads: Tasso di conversione
+Tasso di conversione = (N° di conversioni / n° clic totali) x 100
+Il tasso viene dunque calcolato rapportando i clic ricevuti con quelli che effettivamente
+fanno registrare almeno un’azione di conversione.
+Proviamo a fare un esempio:
+- Campagna prodotto A: 50 conversioni su 1000 clic, tasso di conversione del 5%;
+- Campagna prodotto B: 5 conversioni su 5000 clic, tasso di conversione del 0,1%;
+Qual è la campagna migliore meglio secondo voi? La conversione fissata è la vendita di un
+prodotto in mono quantità (ogni conversione si rifà quindi alla vendita di un singolo
+prodotto).
+32
+Corso Google Ads - Modulo 2
+
+## Page 33
+
+I Termini di Google Ads: Tasso di conversione
+Al quesito precedente forniamo ulteriori dati: la prima campagna vendeva capsule
+per caffè mentre la seconda cellulari samsung di ultima generazione.
+vs
+Siete ancora sicuri della risposta che avete dato?
+Questo esempio ci è utile per introdurre, prossimamente, due concetti chiave: il
+ROI ed il ROAS.
+Prima però andiamo a vedere che cos’è il costo per conversione medio.
+33
+Corso Google Ads - Modulo 2
+
+## Page 34
+
+I Termini di Google Ads: Costo per conversione
+Costo Per Conversione (€) = Spesa Pubblicitaria (€) /
+Numero di Conversioni
+Media di quanto spendiamo per ottenere una conversione.
+Molto utile come dato perché ci aiuta ad avere velocemente un’idea
+delle performance di un gruppo di annunci o di un annuncio.
+Spesso viene utilizzato con l’acronimo CPL (Cost per Lead) o CPA
+(Cost per Action/Acquisition).
+34
+Corso Google Ads - Modulo 2
+
+## Page 35
+
+I Termini di Google Ads: ROI
+ROI % = (Profitti netti) / (Investimento) x 100
+Per ROI (acronimo di “return on investment”) si intende il ritorno
+economico netto che abbiamo avuto a fronte delle spese sostenute.
+E’ dato dunque dal rapporto tra ricavi e costi che l’azienda sostiene.
+35
+Corso Google Ads - Modulo 2
+
+## Page 36
+
+I Termini di Google Ads: ROI
+Volendo essere precisi la formula completa del ROI è la seguente:
+ROI % = [entrate - (costi di produzione + costi di pubblicità)] / (costi
+di produzione + costi di pubblicità) x 100
+Facciamo un esempio pratico: abbiamo venduto prodotti per 10.000€ che hanno
+costi di produzione pari al 40% del loro valore. La spesa in ads è stata di 1000€.
+Sostituiamo i seguenti dati alla formula sopra scritta ottenendo:
+ROI = [10.000-(4000+1000)] / (4000+1000) x 100 = 100%
+Ogni euro speso avremo quindi un profitto del 100% e quindi di 1€.
+36
+Corso Google Ads - Modulo 2
+
+## Page 37
+
+I Termini di Google Ads: ROI
+Se il ROI è pari a 0, significa che i ricavi hanno eguagliato le spese (male).
+0
+Se il ROI è negativo, significa che i ricavi non hanno coperto nemmeno le spese
+(molto male).
+0
+37
+Corso Google Ads - Modulo 2
+
+## Page 38
+
+I Termini di Google Ads: ROI
+Sulla carta il ROI risulta essere un buon KPI (Key Performance Indicator) ma
+presenta grossi limiti che ne riducono l’eﬃcacia comparativa.
+Come calcoliamo il ROI su un cliente che è stato attratto da noi ma porterà a termine
+l’azione di conversione tra un bel po’ di tempo o addirittura oﬄine?
+Come tengo conto del ROI di ripetute conversioni dilazionate nel tempo?
+Come valuto il ROI in una campagna di brand awareness?
+Purtroppo non c’è una risposta precisa a queste domande, evidenziando così i vari
+limiti del ROI.
+38
+Corso Google Ads - Modulo 2
+
+## Page 39
+
+I Termini di Google Ads: ROAS
+ROAS = (Entrate provenienti dalle campagne Google Ads) / Costo
+Campagna Google Ads x 100
+Il ROAS (Return of Ad Spend) è una variante del ROI che tiene conto
+solamente delle spese della campagna pubblicitaria.
+Rispetto al ROI è una metrica più imprecisa ma sicuramente più
+immediata per farci capire se le nostre campagne sono in profitto o
+meno.
+39
+Corso Google Ads - Modulo 2
+
+## Page 40
+
+Riguardo ai termini di Google Ads…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 41
+
+Struttura di un account Google Ads
+Corso Google Ads - Modulo 2
+
+## Page 42
+
+Dentro Google Ads
+Prima di procedere all’effettiva creazione della nostra prima campagna, vediamo
+di fissare alcuni concetti fondamentali come:
+● la Struttura di un Account;
+● le Strategie di Offerta;
+● le Parole Chiave;
+42
+Corso Google Ads - Modulo 2
+
+## Page 43
+
+Dentro Google Ads: Account “neonato”
+Completati i passaggi di registrazione, la schermata che ci troveremo davanti sarà
+la seguente:
+43
+Corso Google Ads - Modulo 2
+
+## Page 44
+
+Dentro Google Ads: Account “navigato”
+Dopo che le nostre campagne inizieranno a macinare e a raccogliere dati, la
+schermata diventerà più o meno così:
+44
+Corso Google Ads - Modulo 2
+
+## Page 45
+
+Dentro Google Ads: le schede di un account
+Un account Google Ads è diviso in differenti schede, vediamo insieme cosa contengono e a
+cosa servono.
+Le schede che appariranno, per una campagna su rete di Ricerca, sono le seguenti:
+- Panoramica; - Contenuti;
+- Consigli; - Impostazioni;
+- Approfondimenti; - Cronologia modifiche;
+- Campagne; - Pianificazione annunci;
+- Gruppi di annunci; - Località;
+- Annunci ed estensioni; - Dispositivi;
+- Pagine di destinazione; - Aggiustamento di offerte avanzato;
+- Parole chiave; - Bozze;
+- Segmenti di pubblico; - Esperimenti;
+45
+Corso Google Ads - Modulo 2
+
+## Page 46
+
+Dentro Google Ads: Campagne
+Come è facilmente intuibile dal nome, nella scheda campagne monitoreremo lo stato delle
+nostre campagne. Attraverso questa scheda sarà possibile:
+Monitorare lo stato delle nostre
+campagne ed avere un quadro
+generale.
+Terminarle o metterle in pausa.
+Verificare quanto budget hanno
+dedicato.
+Verificare la tipologia di offerta
+ed eventuali strategie di offerta
+attive.
+Verificare il rendimento delle aste
+sulle varie reti.
+46
+Corso Google Ads - Modulo 2
+
+## Page 47
+
+Dentro Google Ads: Campagne
+47
+Corso Google Ads - Modulo 2
+
+## Page 48
+
+Dentro Google Ads: Informazioni Aste
+Oltre alla quota impressioni che abbiamo già visto in precedenza, nella scheda informazioni aste
+troviamo i seguenti campi:
+- Quota impressioni: già discussa precedentemente.
+- Percentuale di sovrapposizione: indica con quale frequenza l’annuncio di un competitors è
+apparso in concomitanza al mio.
+- Tasso di posizionamento superiore: indica con quale frequenza un inserzionista che ha
+partecipato ad una stessa asta ha ottenuto una posizione migliore della mia.
+- Tasso parte superiore della pagina: indica la frequenza con la quale un nostro annuncio è
+stato pubblicato nella parte superiore (primi 4 risultati) della prima pagina nei risultati di una
+ricerca.
+- Tasso assoluto parte superiore della pagina: indica la frequenza con la quale un nostro
+annuncio è stato pubblicato come primo risultato assoluto della prima pagina nei risultati di
+una ricerca.
+- Quota superamento target: indica la frequenza con la quale un nostro annuncio ha ottenuto
+un ranking migliore nell’asta rispetto a quello di un competitor.
+48
+Corso Google Ads - Modulo 2
+
+## Page 49
+
+Dentro Google Ads: Informazioni Aste
+49
+Corso Google Ads - Modulo 2
+
+## Page 50
+
+Dentro Google Ads: Gruppi di annunci
+Sezione dedicata alla gestione dei nostri gruppi di annunci, simile per
+funzionamento alla scheda campagne.
+Le principali modifiche che potremo apportare attraverso questa
+scheda, sono inerenti al nome dei gruppi di annunci e al CPCmax.
+E’ comoda per scovare velocemente eventuali problematiche in merito
+a gruppi di annunci poco performanti.
+50
+Corso Google Ads - Modulo 2
+
+## Page 51
+
+Dentro Google Ads: Gruppi di annunci
+51
+Corso Google Ads - Modulo 2
+
+## Page 52
+
+Dentro Google Ads: Annunci ed estensioni (asset)
+Scheda dedicata alle modifiche che potremmo apportare ai nostri
+annunci e alle estensioni d’annuncio (chiamate anche asset).
+Comoda per modificare “al volo” un annuncio che risulta poco
+performante rispetto a tutti gli altri o per metterlo in pausa.
+Oltre alla parte inerente gli annunci, qui andremo a modificare e a
+gestire le estensioni di annuncio, che verranno trattate in una parte del
+corso dedicata.
+52
+Corso Google Ads - Modulo 2
+
+## Page 53
+
+Dentro Google Ads: Annunci ed estensioni
+53
+Corso Google Ads - Modulo 2
+
+## Page 54
+
+Dentro Google Ads: Pagine di destinazione
+Questa scheda è utile quando si sta lavorando su diverse Landing con differenti URL.
+Grazie a questa sezione è possibile visualizzare in un’unica vista i dati inerenti alle
+performance che stanno avendo le diverse pagine.
+I motivi per la quale potremmo avere interesse ad entrare qui sono:
+● Avere un’idea in percentuale della suddivisione dei clic tra le pagine;
+● Capire lato responsive quanto le nostre pagine sono performanti agli occhi di Google;
+Rimane comunque una sezione abbastanza di nicchia, che diﬃcilmente visiteremo spesso.
+54
+Corso Google Ads - Modulo 2
+
+## Page 55
+
+Dentro Google Ads: Pagine di destinazione
+55
+Corso Google Ads - Modulo 2
+
+## Page 56
+
+Dentro Google Ads: Parole chiave
+Una delle sezioni più utilizzata da un professionista Google Ads.
+Qui troviamo un quadro completo sulla situazione delle nostre parole
+chiave, utile per valutare performance, decidere azioni mirate o
+collettive, aumenti di offerte e molto altro.
+È qui che troveremo metriche fondamentali come il quality score.
+In questa sezione possiamo anche valutare i termini di ricerca che
+hanno sbloccato i nostri annunci.
+56
+Corso Google Ads - Modulo 2
+
+## Page 57
+
+Dentro Google Ads: Parole chiave
+57
+Corso Google Ads - Modulo 2
+
+## Page 58
+
+Dentro Google Ads: Segmenti di pubblico
+Scheda dedicata al targeting sui segmenti di pubblico: insiemi di
+persone comuni per caratteristiche di vario genere (interessi, aﬃnità,
+comportamento sul sito).
+Attenzione: i pubblici saranno disponibili come
+targeting/osservazione con i requisiti di 100 utenti unici su 30gg per
+rete Display, e 1000 per rete di Ricerca.
+58
+Corso Google Ads - Modulo 2
+
+## Page 59
+
+Dentro Google Ads: Segmenti di pubblico
+59
+Corso Google Ads - Modulo 2
+
+## Page 60
+
+Dentro Google Ads: Dati demografici
+Scheda utile per delineare quelle che sono le nostre buyer personas a
+livello demografico.
+Potremmo dunque capire chi clicca sui nostri annunci a livello di età,
+sesso, stasxto parentale e reddito del nucleo familiare.
+Google estrapola questi dati dagli account Gmail degli utenti o da
+persone loggate su Chrome. Quando non ha la possibilità di avere
+questi dati, etichetterà l’utente con un generico “sconosciuto”.
+Tramite l’applicazione Rewards, presente nel Play Store, Google crea
+sondaggi al fine di ottenere maggiori informazioni sui vari account
+ricompensando gli utenti che rispondono alle domande con crediti da
+spendere nel proprio app store.
+60
+Corso Google Ads - Modulo 2
+
+## Page 61
+
+Dentro Google Ads: Impostazioni
+Sezione dedicata alle modifiche di impostazioni a livello di campagne
+e di account.
+Serve a modificare impostazioni selezionate in fase di creazione di
+una campagna, come ad esempio la data di fine della stessa,
+modificarne la geolocalizzazione e molto altro.
+Questa scheda comprende anche le impostazioni account, in cui sono
+inserite opzioni inerenti a modelli di monitoraggio, codifiche
+automatiche ed esclusione di contenuti dei miei annunci Display (es.
+dire a Google che non voglio i miei annunci in una pagina inneggiante
+la guerra).
+61
+Corso Google Ads - Modulo 2
+
+## Page 62
+
+Dentro Google Ads: Località
+Nella scheda località analizzeremo le performance a livello
+geografico delle nostre campagne.
+Utile nel caso volessimo adottare strategie specifiche in merito a
+diverse zone geografiche, come ad esempio offrire di più per clic in
+una zona dove stiamo andando bene.
+Oltre a questo è presente una parte dedicata alle località escluse ed
+una dove possiamo andare a circoscrivere ulteriormente la
+provenienza dei clic, fino a isolarli per paese.
+62
+Corso Google Ads - Modulo 2
+
+## Page 63
+
+Dentro Google Ads: Pianificazione annunci
+Scheda utile per tracciare curve orarie di performance dei nostri
+annunci.
+Ci permette di capire quando effettivamente ci sono ricerche o meno,
+e quindi modificare l’offerta o addirittura la pubblicazione dei nostri
+annunci in relazione a questi dati.
+Le metriche sono segmentate per:
+● giorno e ora;
+● solo per giorno;
+● solo per ora;
+63
+Corso Google Ads - Modulo 2
+
+## Page 64
+
+Dentro Google Ads: Dispositivi
+Ulteriore scheda dedicata alla profilazione di chi clicca sui nostri
+annunci.
+In questa scheda gli utenti vengono profilati in base al che device
+utilizzato.
+Viene sfruttata per modificare il budget in relazione a quale
+dispositivo (desktop, smartphone, tablet e TV) sta utilizzando l’utente
+che vede i nostri annunci.
+64
+Corso Google Ads - Modulo 2
+
+## Page 65
+
+Dentro Google Ads: Aggiustamento offerte avanzato
+Nelle slide precedenti abbiamo accennato le estensioni di annuncio.
+Qui possiamo aggiustare l’offerta in relazione a queste estensioni, ed
+averne ulteriore controllo.
+65
+Corso Google Ads - Modulo 2
+
+## Page 66
+
+Dentro Google Ads: Cronologia modifiche
+Come si evince dal nome, Google Ads dispone di una cronologia delle
+modifiche per poter capire cosa è stato cambiato, quando e da chi.
+La sezione è interessante perché ci permette di filtrare le modifiche in
+base a vari aspetti, come la tipologia di campagna, l’utente che ha
+effettuato la modifica e molto altro.
+La sezione risulta ottima quando si lavora con più persone, o quando
+si prende in gestione account gestiti da altri e si è interessati a
+conoscere le modifiche e le linee di pensiero.
+66
+Corso Google Ads - Modulo 2
+
+## Page 67
+
+Dentro Google Ads: Bozze ed esperimenti
+Con questa sezione Google ha voluto dare uno strumento a tutti
+quegli inserzionisti che amano “sperimentare”.
+Grazie ad essa infatti, è possibile testare nuove idee ed approcci
+senza deturpare il budget totale. Oltre a questo ci permette di creare
+esperimenti basati su uno storico di campagna e che non partano da
+zero, come invece accadrebbe se creassimo semplicemente una
+nuova campagna.
+Personalmente mi capita spesso di sfruttare questa sezione,
+apprezzandone soprattutto la capacità di paragonare tra di loro i vari
+esperimenti al fine di individuare con certezza quello che può essere il
+più performante.
+67
+Corso Google Ads - Modulo 2
+
+## Page 68
+
+Riguardo alla struttura di un account Google Ads…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 69
+
+Le Strategie di Offerta
+Corso Google Ads - Modulo 2
+
+## Page 70
+
+L’asta di Google Ads
+Cos’è un’asta?
+Si tratta della procedura, che ha luogo in ogni ricerca su Google, per decidere quali
+annunci verranno pubblicati per tale ricerca e in quale ordine compariranno sulla
+pagina.
+Ogni volta che un annuncio è idoneo a generare un impression, l’annuncio partecipa
+all'asta.
+Funzionamento dell’asta spiegato direttamente da Google:
+1. Quando un utente effettua una ricerca, il sistema Google Ads trova tutti gli annunci
+le cui parole chiave corrispondono a tale ricerca.
+2. Tra questi annunci, il sistema ignora quelli che non sono idonei, ad esempio gli
+annunci indirizzati ad un altro paese o non approvati in base a una violazione delle
+norme.
+3. Tra gli annunci rimanenti, possono essere pubblicati solo quelli con un ranking
+dell'annuncio suﬃcientemente alto. Il ranking dell'annuncio è una combinazione tra
+offerta, qualità dell'annuncio, soglie del ranking dell'annuncio, contesto della ricerca
+dell'utente e impatto previsto delle estensioni e degli altri formati dell'annuncio.
+70
+Corso Google Ads - Modulo 2
+
+## Page 71
+
+Le Strategie di Offerta
+Quali sono le tipologie di offerta disponibili?
+Abbiamo svariati modi per comunicare a Google quali sono i nostri
+obiettivi e cosa vogliamo ricavare dai clic degli utenti, uno dei metodi
+migliori è scegliere la tipologia di offerta che vogliamo utilizzare per ogni
+asta.
+Tramite le tipologie di offerte abbiamo modo di comunicare a Google
+quali sono i nostri obiettivi.
+Ogni strategia di offerta ha diversi pro e contro: certe possono sembrare
+potentissime e altre inutilizzabili, ma vanno tutte contestualizzate e
+comunque testate.
+Tornando a parlare della scheda Bozze ed Esperimenti, una delle modifiche
+per la quale potremmo pensare di fare un A/B test a livello di campagna è
+proprio secondo diverse strategie di offerta.
+71
+Corso Google Ads - Modulo 2
+
+## Page 72
+
+Le Strategie di Offerta
+Uno dei primissimi ostacoli può essere quindi la scelta delle Strategie di Offerta.
+Esse sono sostanzialmente opzioni utili a stabilire come Google Ads utilizzerà e spenderà il
+budget assegnato.
+72
+Corso Google Ads - Modulo 2
+
+## Page 73
+
+Le Strategie di Offerta: CPC manuale
+Permette il massimo controllo sul CPC senza lasciare attivi pericolosi automatismi.
+E’ una strategia attuabile sia in piccoli account che in account più grandi, e che richiederà
+sicuramente più manodopera.
+Non voglio denigrare il Machine Learning di Google e lo Smart Bidding, sia chiaro, ma penso
+che il richiedere grandi numeri per far funzionare questi algoritmi sia già un primo ostacolo.
+Cominciare a prendere confidenza con lo strumento prevede una inevitabile gavetta con
+questo tipo di strategia di offerta.
+73
+Corso Google Ads - Modulo 2
+
+## Page 74
+
+Le Strategie di Offerta: CPC ottimizzato
+Una specie di evoluzione del CPC manuale che permette al sistema di calibrare l’offerta
+impostata manualmente al fine di migliorare le performance a livello di conversioni.
+Il CPC prenderà quindi il nome di CPCo (costo per clic ottimizzato) e avrà valori in linea con il
+CPC medio, anche se potrebbe andare a superarlo per brevi periodi di tempo.
+Google Ads andrà a tarare l’offerta cercando di spendere meno su clic che secondo lui
+portano meno conversioni in media, a favore di clic che invece potenzialmente generano più
+conversioni.
+Per fare questa operazione sfrutterà sempre il Machine Learning e valuterà diversi fattori
+come località, dispositivo, giorno e ora, parola chiave ecc.
+Per funzionare richiede il monitoraggio delle conversioni e averne avute almeno 30 negli
+ultimi 30 giorni.
+74
+Corso Google Ads - Modulo 2
+
+## Page 75
+
+Le Strategie di Offerta: Massimizza i clic
+Strategia utilizzata nel caso in cui il nostro obiettivo sia portare a casa, quanto prima, il
+massimo dei clic possibili in relazione al budget che abbiamo impostato.
+Rischia di portare a snaturamenti del CPC al solo fine di portare più clic.
+Ricordate sempre che “più clic” non è necessariamente una cosa buona se questi clic sono
+off target.
+75
+Corso Google Ads - Modulo 2
+
+## Page 76
+
+Le Strategie di Offerta: Massimizza le conversioni
+Con questa strategia comunichiamo a Google Ads la volontà di utilizzare tutto il nostro
+budget al fine di ottenere il maggior numero possibile di conversioni. Risulta quindi essere
+mediamente dispendiosa come strategia.
+Grazie al Machine Learning, la piattaforma correggerà l’offerta in modo da partecipare ad
+aste che reputa idonee per l‘ottenimento di conversioni.
+Uno dei pericoli maggiori nella quale si può incorrere con questa strategia è quello di aver
+configurato male le conversioni (es. conteggi sbagliati e obiettivi poco “importanti”) o di non
+averle proprio configurate.
+76
+Corso Google Ads - Modulo 2
+
+## Page 77
+
+Le Strategie di Offerta: Massimizza il valore delle conversioni
+Strategia che consiste nello spingere la piattaforma verso la ricerca di conversioni dal
+maggior valore possibile.
+Si tratta di una strategia di offerta che viene molto utilizzata per gli eCommerce.
+È molto simile alla strategia massimizza le conversioni ma risulta essere più incentrata
+verso il valore delle conversioni e non verso il numero delle stesse.
+Si tratta comunque di una strategia con richieste di spesa importanti, che tenderà a
+consumare tutto il budget giornaliero.
+77
+Corso Google Ads - Modulo 2
+
+## Page 78
+
+Le Strategie di Offerta: Quota impressioni target
+Grazie a questa strategia di offerta possiamo comunicare a Google Ads la volontà di voler
+raggiungere una determinata Quota Impressioni.
+La piattaforma ci domanderà quindi:
+1. che Q.I. vogliamo avere;
+2. in quale posizione vogliamo essere;
+3. se vogliamo impostare un CPCmax;
+Sicuramente posizionarsi bene è un fattore determinante per le performance di una
+campagna, ma non dimentichiamo che dobbiamo sempre lavorare per CPC sostenibili a
+livello economico.
+Tende ad essere comunque una strategia molto dispendiosa.
+78
+Corso Google Ads - Modulo 2
+
+## Page 79
+
+Le Strategie di Offerta: CPA target
+Prendendo in esame i dati ricavati da almeno 30 conversioni in 30 giorni ed impostando un
+costo per acquisizione (CPA) che siamo disposti a sostenere, Google Ads andrà ad
+ottimizzare le offerte cercando di ottenere la maggior quantità possibile di conversioni al
+CPA Target impostato.
+Il rischio di impostare un valore di CPA troppo basso è che Google Ads non generi alcuna
+conversione: in questo caso sarà la stessa piattaforma a suggerirci un valore di CPA Target
+idoneo.
+Va usato con coscienza quando ci troviamo di fronte a conversioni con diverso valore
+economico, infatti conversioni con valore diverso potrebbero necessitare di CPA Target
+diversi.
+79
+Corso Google Ads - Modulo 2
+
+## Page 80
+
+Le Strategie di Offerta: ROAS target
+Ulteriore offerta basata sul Machine Learning che richiede almeno 50 conversioni con valore
+monetario in una finestra di 30 giorni per poter funzionare bene.
+Agisce calibrando l’offerta in base ad un obiettivo prefissato di ritorno sulle spese.
+Sulla carta risulta essere una buona strategia ma purtroppo pecca di un grosso problema:
+funziona soltanto se la piattaforma trova opportunità.
+Esempio: comunichiamo a Google Ads un ROAS desiderato di 1000%, Google Ads ci fa
+spendere 10€ e ne otteniamo 100, nonostante il budget giornaliero della campagna fosse
+1000€.
+80
+Corso Google Ads - Modulo 2
+
+## Page 81
+
+Le Strategie di Offerta: le offerte “smart bidding” a confronto
+Sicuramente avrete notato come le strategie CPC Ottimizzato, CPA Target, Massimizza le
+conversioni, Massimizza valore conversioni e ROAS Target siano abbastanza simili o
+comunque seguano una linea comune: quella di agire secondo degli automatismi
+intelligenti.
+Al fine di evidenziare le differenze tra queste offerte, inserisco nelle slide una tabella
+comparativa presa dal blog di Matteo Giovanelli.
+81
+Corso Google Ads - Modulo 2
+
+## Page 82
+
+Richiede monitoraggio conversioni Conversioni minime richieste Richiede tasso di conversione simile
+per tot. giorni Previsione di un tasso di conversione
+per asta Indicatori analizzati Aggiustamento CPC Max per ottenere
+l'obiettivo Tipo di strategia CPA Funzionamento con sistemi di terze
+parti Limiti al CPC Massimo Aggiustamenti offerte per dispositivo Budget esclusivo e non condiviso CPC Ottimizzato SI 30 negli ultimi 30 giorni NO SI Dispositivo, browser, località,
+orario.
+SI Manuale e Smart Flessibile SI SI SI Non richiesto come requisito CPA Target SI 30 negli ultimi 30 giorni SI SI Dispositivo, browser, località, ora del
+giorno, elenchi remarketing.
+SI Solo Smart Fisso NO Sconsigliati Sconsigliati Non richiesto come requisito Massimizza Conversioni
+SI
+Non indicate.
+NO
+SI
+Dispositivo, browser, località, ora del
+giorno, elenchi remarketing.
+SI
+Solo Smart
+Flessibile
+SI
+Esclusi
+Sconsigliati
+Richiesto.
+
+## Page 83
+
+Le Strategie di Offerta: esempi di utilizzo
+MOMENTO DI CREAZIONE
+DELLA CAMPAGNA Torno alle offerte iniziali
+Ho ancora poche
+conversioni?
+CPC Manuale
+(Se conosco il costo delle mie
+parole chiave)
+NO
+Ho abbastanza conversioni?
+Massimizza le Conversioni
+(Da utilizzare se non ho
+abbastanza dati)
+Massimizza i Clic
+(Quando non conosco il costo
+delle mie parole chiave o
+quando sono tante )
+SI
+Ne ho registrate
+a suﬃcienza?
+CPA Target
+(Strategia conservativa,
+cerca di mantenere il costo
+per acquisizione)
+CPC Ottimizzato
+(Mix tra strategia
+conservativa ed aggressiva,
+mantiene i CPC Massimi in
+linea con l’asta)
+ROAS Target
+(Strategia conservativa,
+cerca di mantenere il ritorno
+sull’investimento, il ROAS
+appunto)
+83
+Corso Google Ads - Modulo 2
+
+## Page 84
+
+Riguardo alle Strategie di Offerta…
+Ci sono dubbi,
+incertezze o
+perplessità?
+
+## Page 85
+
+Fine Lezione 2 :)
+Corso Google Ads - Modulo 2
+

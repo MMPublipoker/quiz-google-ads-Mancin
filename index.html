@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Simulatore Quiz Google Ads</title>
+    <meta
+      name="description"
+      content="Simulatore quiz Google Ads con 20 domande, punteggio finale e riepilogo risposte."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero-card">
+        <p class="eyebrow">Quiz Interattivo</p>
+        <h1>Simulatore Google Ads</h1>
+        <p class="hero-copy">
+          Completa il quiz per valutare il tuo livello di preparazione su Google
+          Ads. Al termine troverai il dettaglio di ogni risposta con una breve
+          spiegazione utile per ripassare i concetti chiave.
+        </p>
+
+        <div class="hero-actions">
+          <button id="start-quiz" class="primary-button" type="button">
+            Inizia il test
+          </button>
+          <button id="reset-progress" class="ghost-button" type="button">
+            Azzera progressi
+          </button>
+        </div>
+
+        <p class="hero-note">
+          Alla fine del test potrai rivedere ogni domanda, confrontare la tua
+          risposta con quella corretta e ripassare piu' facilmente gli
+          argomenti da migliorare.
+        </p>
+      </section>
+
+      <section class="quiz-card" aria-live="polite">
+        <div id="quiz-screen" class="screen">
+          <div class="quiz-topbar">
+            <div>
+              <p id="question-counter" class="counter">Domanda 1 di 20</p>
+              <h2 id="question-title">Titolo domanda</h2>
+            </div>
+            <div class="score-chip">
+              <span>Risposte date</span>
+              <strong id="answered-count">0/20</strong>
+            </div>
+          </div>
+
+          <div class="progress-wrap" aria-hidden="true">
+            <div id="progress-bar" class="progress-bar"></div>
+          </div>
+
+          <p id="question-text" class="question-text"></p>
+
+          <form id="answers-form" class="answers-list"></form>
+
+          <div class="quiz-actions">
+            <button id="prev-button" class="ghost-button" type="button">
+              Indietro
+            </button>
+            <button id="next-button" class="primary-button" type="button">
+              Avanti
+            </button>
+          </div>
+        </div>
+
+        <div id="result-screen" class="screen hidden">
+          <p class="eyebrow">Risultato Finale</p>
+          <h2>Test completato</h2>
+          <p id="result-summary" class="result-summary"></p>
+
+          <div class="result-grid">
+            <article class="result-box">
+              <span>Corrette</span>
+              <strong id="correct-count">0/20</strong>
+            </article>
+            <article class="result-box">
+              <span>Punteggio</span>
+              <strong id="final-score">1/20</strong>
+            </article>
+            <article class="result-box">
+              <span>Percentuale</span>
+              <strong id="final-percent">0%</strong>
+            </article>
+          </div>
+
+          <div class="result-actions">
+            <button id="restart-quiz" class="primary-button" type="button">
+              Rifai il quiz
+            </button>
+          </div>
+
+          <div>
+            <h3 class="review-title">Riepilogo risposte</h3>
+            <div id="review-list" class="review-list"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./questions.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
