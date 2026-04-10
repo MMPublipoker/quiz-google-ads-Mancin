@@ -348,6 +348,11 @@ h2 {
   margin-top: 6px;
 }
 
+.review-module {
+  font-weight: 700;
+  color: var(--accent-dark);
+}
+
 .review-status {
   display: inline-block;
   margin-bottom: 10px;

@@ -291,10 +291,24 @@ function renderReview(sessionQuestions) {
     const correctAnswer = document.createElement("p");
     correctAnswer.textContent = `Risposta corretta: ${question.options[question.correctAnswer]}`;
 
+    const moduleReference = document.createElement("p");
+    moduleReference.className = "review-module";
+    moduleReference.textContent = getModuleReviewLabel(question.module);
+
     const explanation = document.createElement("p");
     explanation.textContent = question.explanation;
 
-    card.append(status, title, userAnswer, correctAnswer, explanation);
+    card.append(status, title, userAnswer, correctAnswer, moduleReference, explanation);
     dom.reviewList.append(card);
   });
+}
+
+function getModuleReviewLabel(moduleLabel) {
+  const match = typeof moduleLabel === "string" ? moduleLabel.match(/(\d+)/) : null;
+
+  if (match) {
+    return `Ripassa questo concetto nel Modulo ${match[1]} del corso.`;
+  }
+
+  return "Ripassa questo concetto nel modulo dedicato del corso.";
 }
