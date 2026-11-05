@@ -1,4 +1,5 @@
-const STORAGE_KEY = "google-ads-quiz-tool-state";
+// La banca v2 cambia contenuti e indici: non riutilizzare i tentativi della banca precedente.
+const STORAGE_KEY = "google-ads-quiz-tool-state-v2";
 const QUIZ_SIZE = 20;
 const questionBank = Array.isArray(window.questionBank) ? window.questionBank : [];
 
@@ -293,7 +294,7 @@ function renderReview(sessionQuestions) {
 
     const moduleReference = document.createElement("p");
     moduleReference.className = "review-module";
-    moduleReference.textContent = getModuleReviewLabel(question.module);
+    moduleReference.textContent = getModuleReviewLabel(question.module, question.sourceSlides);
 
     const explanation = document.createElement("p");
     explanation.textContent = question.explanation;
@@ -303,11 +304,14 @@ function renderReview(sessionQuestions) {
   });
 }
 
-function getModuleReviewLabel(moduleLabel) {
+function getModuleReviewLabel(moduleLabel, sourceSlides) {
   const match = typeof moduleLabel === "string" ? moduleLabel.match(/(\d+)/) : null;
 
   if (match) {
-    return `Ripassa questo concetto nel Modulo ${match[1]} del corso.`;
+    const slideReference = Array.isArray(sourceSlides) && sourceSlides.length > 0
+      ? ` (slide ${sourceSlides.join(", ")})`
+      : "";
+    return `Ripassa questo concetto nel Modulo ${match[1]} del corso${slideReference}.`;
   }
 
   return "Ripassa questo concetto nel modulo dedicato del corso.";
