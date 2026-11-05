@@ -1,5 +1,5 @@
-// La banca v2 cambia contenuti e indici: non riutilizzare i tentativi della banca precedente.
-const STORAGE_KEY = "google-ads-quiz-tool-state-v2";
+// La banca v3 usa selezioni multiple e ordini delle opzioni salvati per tentativo.
+const STORAGE_KEY = "google-ads-quiz-tool-state-v3";
 const QUIZ_SIZE = 20;
 const questionBank = Array.isArray(window.questionBank) ? window.questionBank : [];
 
@@ -42,74 +42,73 @@ function bootstrap() {
   render();
 }
 
+function shuffleIndices(length) {
+  const indices = Array.from({ length }, (_, index) => index);
+  for (let index = length - 1; index > 0; index -= 1) {
+    // Rejection sampling avoids bias when reducing random integers to a range.
+    const range = index + 1;
+    const limit = 2 ** 32 - (2 ** 32 % range);
+    const random = new Uint32Array(1);
+    do { window.crypto.getRandomValues(random); } while (random[0] >= limit);
+    const swapIndex = random[0] % range;
+    [indices[index], indices[swapIndex]] = [indices[swapIndex], indices[index]];
+  }
+  return indices;
+}
+
 function createDefaultState(started = false) {
+  const questionOrder = shuffleIndices(questionBank.length).slice(0, QUIZ_SIZE);
   return {
     currentQuestionIndex: 0,
-    answers: new Array(QUIZ_SIZE).fill(null),
-    questionOrder: createQuestionOrder(),
+    answers: Array.from({ length: QUIZ_SIZE }, () => []),
+    questionOrder,
+    optionOrders: questionOrder.map((index) => shuffleIndices(questionBank[index].options.length)),
     started,
     finished: false,
   };
 }
 
-function createQuestionOrder() {
-  const indices = questionBank.map((_, index) => index);
-
-  for (let index = indices.length - 1; index > 0; index -= 1) {
-    const swapIndex = Math.floor(Math.random() * (index + 1));
-    [indices[index], indices[swapIndex]] = [indices[swapIndex], indices[index]];
-  }
-
-  return indices.slice(0, QUIZ_SIZE);
-}
-
-function isValidQuestionOrder(order) {
-  if (!Array.isArray(order) || order.length !== QUIZ_SIZE) {
-    return false;
-  }
-
-  const uniqueValues = new Set(order);
-  if (uniqueValues.size !== QUIZ_SIZE) {
-    return false;
-  }
-
-  return order.every((value) => Number.isInteger(value) && value >= 0 && value < questionBank.length);
+function isPermutation(order, length) {
+  return Array.isArray(order) && order.length === length &&
+    new Set(order).size === length &&
+    order.every((index) => Number.isInteger(index) && index >= 0 && index < length);
 }
 
 function hydrateState() {
   try {
     const stored = JSON.parse(localStorage.getItem(STORAGE_KEY));
-    if (!stored) {
+    if (!stored || !Array.isArray(stored.questionOrder) ||
+        stored.questionOrder.length !== QUIZ_SIZE ||
+        new Set(stored.questionOrder).size !== QUIZ_SIZE ||
+        !stored.questionOrder.every((index) => Number.isInteger(index) && index >= 0 && index < questionBank.length) ||
+        !Array.isArray(stored.optionOrders) || stored.optionOrders.length !== QUIZ_SIZE ||
+        !stored.optionOrders.every((order, index) => isPermutation(order, questionBank[stored.questionOrder[index]].options.length)) ||
+        !Array.isArray(stored.answers) || stored.answers.length !== QUIZ_SIZE ||
+        !stored.answers.every((answers, index) => {
+          const question = questionBank[stored.questionOrder[index]];
+          return Array.isArray(answers) && new Set(answers).size === answers.length &&
+            (question.correctAnswers.length > 1 || answers.length <= 1) &&
+            answers.every((answer) => Number.isInteger(answer) && answer >= 0 && answer < question.options.length);
+        }) || !Number.isInteger(stored.currentQuestionIndex) ||
+        stored.currentQuestionIndex < 0 || stored.currentQuestionIndex >= QUIZ_SIZE) {
       return createDefaultState(false);
     }
-
-    const answers = Array.isArray(stored.answers)
-      ? stored.answers.slice(0, QUIZ_SIZE).map((value) => {
-          return Number.isInteger(value) ? value : null;
-        })
-      : [];
-
-    while (answers.length < QUIZ_SIZE) {
-      answers.push(null);
-    }
-
     return {
-      currentQuestionIndex:
-        typeof stored.currentQuestionIndex === "number" &&
-        stored.currentQuestionIndex >= 0 &&
-        stored.currentQuestionIndex < QUIZ_SIZE
-          ? stored.currentQuestionIndex
-          : 0,
-      answers,
-      questionOrder: isValidQuestionOrder(stored.questionOrder)
-        ? stored.questionOrder.slice(0, QUIZ_SIZE)
-        : createQuestionOrder(),
+      currentQuestionIndex: stored.currentQuestionIndex,
+      answers: stored.answers,
+      questionOrder: stored.questionOrder,
+      optionOrders: stored.optionOrders,
       started: Boolean(stored.started),
       finished: Boolean(stored.finished),
     };
   } catch (error) {
     return createDefaultState(false);
   }
+}
+
+function isCorrectSelection(question, answers) {
+  return answers.length === question.correctAnswers.length &&
+    question.correctAnswers.every((answer) => answers.includes(answer));
 }
 
 function persistState() {
@@ -170,10 +169,19 @@ function handleNextButton() {
   render();
 }
 
-function setAnswer(questionIndex, answerIndex) {
-  state.answers[questionIndex] = answerIndex;
+function setAnswer(questionIndex, answerIndex, checked) {
+  const question = questionBank[state.questionOrder[questionIndex]];
+  if (question.correctAnswers.length > 1) {
+    const answers = new Set(state.answers[questionIndex]);
+    if (checked) answers.add(answerIndex);
+    else answers.delete(answerIndex);
+    state.answers[questionIndex] = [...answers];
+  } else {
+    state.answers[questionIndex] = [answerIndex];
+  }
   persistState();
-  renderQuestion();
+  // Keep the focused input mounted for keyboard and screen reader users.
+  dom.answeredCount.textContent = `${state.answers.filter((answers) => answers.length > 0).length}/${QUIZ_SIZE}`;
 }
 
 function render() {
@@ -193,7 +201,7 @@ function renderIntroState() {
   dom.questionCounter.textContent = "Quiz pronto";
   dom.questionTitle.textContent = "Pronto a iniziare?";
   dom.questionText.textContent =
-    "Completa il quiz per valutare la tua preparazione. Al termine troverai il riepilogo delle risposte, una spiegazione per ogni domanda e il punteggio finale.";
+    "Ogni domanda indica se selezionare una o più risposte. Vale un punto solo se selezioni tutte le risposte corrette e nessuna errata. Al termine troverai spiegazioni e riferimenti alle slide.";
   dom.answeredCount.textContent = `0/${QUIZ_SIZE}`;
   dom.progressBar.style.width = "0%";
   dom.answersForm.innerHTML = "";
@@ -205,25 +213,29 @@ function renderQuestion() {
   const sessionQuestions = getSessionQuestions();
   const currentQuestion = sessionQuestions[state.currentQuestionIndex];
   const selectedAnswer = state.answers[state.currentQuestionIndex];
-  const answeredQuestions = state.answers.filter((answer) => answer !== null).length;
+  const answeredQuestions = state.answers.filter((answers) => answers.length > 0).length;
   const progressPercent = ((state.currentQuestionIndex + 1) / QUIZ_SIZE) * 100;
 
   dom.questionCounter.textContent = `Domanda ${state.currentQuestionIndex + 1} di ${QUIZ_SIZE}`;
-  dom.questionTitle.textContent = "Seleziona la risposta corretta";
+  const multiple = currentQuestion.correctAnswers.length > 1;
+  dom.questionTitle.textContent = multiple
+    ? "Seleziona tutte le risposte corrette"
+    : "Seleziona una sola risposta";
   dom.questionText.textContent = currentQuestion.question;
   dom.answeredCount.textContent = `${answeredQuestions}/${QUIZ_SIZE}`;
   dom.progressBar.style.width = `${progressPercent}%`;
   dom.answersForm.innerHTML = "";
 
-  currentQuestion.options.forEach((option, index) => {
+  state.optionOrders[state.currentQuestionIndex].forEach((optionIndex, index) => {
+    const option = currentQuestion.options[optionIndex];
     const label = document.createElement("label");
     label.className = "answer-option";
 
     const input = document.createElement("input");
-    input.type = "radio";
+    input.type = multiple ? "checkbox" : "radio";
     input.name = `question-${state.currentQuestionIndex}`;
-    input.checked = selectedAnswer === index;
-    input.addEventListener("change", () => setAnswer(state.currentQuestionIndex, index));
+    input.checked = selectedAnswer.includes(optionIndex);
+    input.addEventListener("change", () => setAnswer(state.currentQuestionIndex, optionIndex, input.checked));
 
     const card = document.createElement("span");
     card.className = "answer-card";
@@ -248,7 +260,7 @@ function renderQuestion() {
 function renderResults() {
   const sessionQuestions = getSessionQuestions();
   const correctAnswers = sessionQuestions.reduce((total, question, index) => {
-    return total + (state.answers[index] === question.correctAnswer ? 1 : 0);
+    return total + (isCorrectSelection(question, state.answers[index]) ? 1 : 0);
   }, 0);
   const finalScore = Math.max(1, correctAnswers);
   const percentage = Math.round((correctAnswers / QUIZ_SIZE) * 100);
@@ -270,8 +282,8 @@ function renderReview(sessionQuestions) {
   dom.reviewList.innerHTML = "";
 
   sessionQuestions.forEach((question, index) => {
-    const userAnswerIndex = state.answers[index];
-    const isCorrect = userAnswerIndex === question.correctAnswer;
+    const selectedAnswers = state.answers[index];
+    const isCorrect = isCorrectSelection(question, selectedAnswers);
 
     const card = document.createElement("article");
     card.className = `review-card ${isCorrect ? "is-correct" : "is-wrong"}`;
@@ -285,12 +297,12 @@ function renderReview(sessionQuestions) {
 
     const userAnswer = document.createElement("p");
     userAnswer.textContent =
-      userAnswerIndex === null
+      selectedAnswers.length === 0
         ? "La domanda non ha ricevuto risposta."
-        : `La tua risposta: ${question.options[userAnswerIndex]}`;
+        : `Le tue risposte: ${state.optionOrders[index].filter((option) => selectedAnswers.includes(option)).map((option) => question.options[option]).join("; ")}`;
 
     const correctAnswer = document.createElement("p");
-    correctAnswer.textContent = `Risposta corretta: ${question.options[question.correctAnswer]}`;
+    correctAnswer.textContent = `Risposte corrette: ${state.optionOrders[index].filter((option) => question.correctAnswers.includes(option)).map((option) => question.options[option]).join("; ")}`;
 
     const moduleReference = document.createElement("p");
     moduleReference.className = "review-module";

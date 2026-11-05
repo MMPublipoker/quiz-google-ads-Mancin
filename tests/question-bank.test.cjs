@@ -29,8 +29,9 @@ test("ogni domanda ha quattro opzioni distinte, risposta valida e spiegazione", 
     assert.equal(question.options.length, 4, label);
     assert.ok(question.options.every((option) => typeof option === "string" && option.trim()), label);
     assert.equal(new Set(question.options.map(normalize)).size, 4, label);
-    assert.ok(Number.isInteger(question.correctAnswer), label);
-    assert.ok(question.correctAnswer >= 0 && question.correctAnswer < 4, label);
+    assert.ok(Array.isArray(question.correctAnswers) && question.correctAnswers.length > 0, label);
+    assert.equal(new Set(question.correctAnswers).size, question.correctAnswers.length, label);
+    assert.ok(question.correctAnswers.every((index) => Number.isInteger(index) && index >= 0 && index < 4), label);
   }
 });
 
@@ -50,10 +51,49 @@ test("i riferimenti rimandano a slide esistenti nella lezione indicata", () => {
   }
 });
 
-test("ogni lezione distribuisce equamente le risposte corrette tra A, B, C e D", () => {
+test("ogni lezione contiene domande a selezione singola e multipla", () => {
   for (let module = 1; module <= 6; module += 1) {
-    const counts = [0, 0, 0, 0];
-    bank.filter((q) => q.module === `Lezione ${module}`).forEach((q) => counts[q.correctAnswer] += 1);
-    assert.deepEqual(counts, [5, 5, 5, 5]);
+    const questions = bank.filter((q) => q.module === `Lezione ${module}`);
+    assert.ok(questions.some((q) => q.correctAnswers.length === 1));
+    assert.ok(questions.some((q) => q.correctAnswers.length > 1));
   }
+});
+
+const { webcrypto } = require("node:crypto");
+const appSource = readFileSync(resolve(__dirname, "../app.js"), "utf8");
+const logic = appSource.slice(appSource.indexOf("function shuffleIndices"), appSource.indexOf("function persistState"));
+const appContext = { window: { crypto: webcrypto }, questionBank: bank, QUIZ_SIZE: 20,
+  STORAGE_KEY: "test", localStorage: { getItem: () => null } };
+runInNewContext(logic, appContext);
+
+test("le opzioni sono permutazioni valide e assumono tutte le posizioni", () => {
+  const orders = new Set();
+  const positions = new Set();
+  for (let i = 0; i < 100; i++) {
+    const order = appContext.shuffleIndices(4);
+    assert.deepEqual(Array.from(order).sort(), [0, 1, 2, 3]);
+    orders.add(order.join(","));
+    positions.add(order.indexOf(0));
+  }
+  assert.ok(orders.size > 1);
+  assert.equal(positions.size, 4);
+});
+
+test("il punteggio richiede tutte e soltanto le risposte corrette", () => {
+  const question = { correctAnswers: [1, 3] };
+  assert.equal(appContext.isCorrectSelection(question, [3, 1]), true);
+  for (const selection of [[], [1], [3], [0, 1], [0, 1, 3], [0, 1, 2, 3]]) {
+    assert.equal(appContext.isCorrectSelection(question, selection), false);
+  }
+});
+
+test("il salvataggio conserva ordini e selezioni e scarta permutazioni corrotte", () => {
+  const saved = JSON.parse(JSON.stringify(appContext.createDefaultState(true)));
+  saved.answers[0] = [0];
+  appContext.localStorage.getItem = () => JSON.stringify(saved);
+  assert.equal(JSON.stringify(appContext.hydrateState()), JSON.stringify(saved));
+  saved.optionOrders[0] = [0, 0, 2, 3];
+  assert.equal(appContext.hydrateState().started, false);
+  saved.currentQuestionIndex = 0.5;
+  assert.equal(appContext.hydrateState().started, false);
 });

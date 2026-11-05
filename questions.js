@@ -2,17 +2,20 @@
 window.questionBank = [
   {
     "module": "Lezione 1",
-    "question": "A cosa serve Google Ads per un'attività?",
+    "question": "Quali obiettivi può supportare Google Ads?",
     "options": [
-      "A garantire vendite a ogni visita del sito",
-      "A promuovere prodotti o servizi attraverso annunci online",
-      "A migliorare automaticamente il posizionamento organico del sito",
-      "A sostituire il sito con una scheda di fatturazione"
+      "Promuovere prodotti e servizi con annunci online",
+      "Far conoscere un brand a potenziali clienti",
+      "Garantire una vendita per ogni clic",
+      "Migliorare automaticamente il posizionamento organico"
     ],
-    "correctAnswer": 1,
-    "explanation": "Google Ads permette di promuovere un'attività con annunci a pagamento. Non garantisce vendite né un miglior posizionamento organico.",
+    "explanation": "Google Ads può supportare promozione e notorietà. Non garantisce vendite o miglioramenti del posizionamento organico.",
     "sourceSlides": [
       8
+    ],
+    "correctAnswers": [
+      0,
+      1
     ]
   },
   {
@@ -24,10 +27,12 @@ window.questionBank = [
       "Ogni visualizzazione dell'annuncio",
       "Ogni acquisto concluso sul sito"
     ],
-    "correctAnswer": 0,
     "explanation": "CPC significa costo per clic: l'evento di addebito è il clic valido, non necessariamente una vendita. Il caricamento della pagina e la conversione sono passaggi distinti.",
     "sourceSlides": [
       11
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -39,11 +44,13 @@ window.questionBank = [
       "«Idraulico urgente a Treviso»",
       "La visione di un video di intrattenimento"
     ],
-    "correctAnswer": 2,
     "explanation": "La domanda consapevole nasce da un bisogno riconosciuto: la ricerca di un idraulico urgente esprime una necessità e una località precise.",
     "sourceSlides": [
       56,
       61
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -55,12 +62,14 @@ window.questionBank = [
       "Ottimizzare subito per le ricerche del numero d'ordine",
       "Mostrare annunci soltanto ai clienti che hanno già acquistato"
     ],
-    "correctAnswer": 0,
     "explanation": "Quando la domanda non è ancora espressa, occorre lavorare sulla conoscenza del prodotto e stimolare l'interesse, come discusso per la domanda latente.",
     "sourceSlides": [
       56,
       62,
       63
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -72,11 +81,13 @@ window.questionBank = [
       "La pubblicazione esclusiva sopra i risultati organici",
       "La sostituzione automatica di tutti i prodotti nel catalogo"
     ],
-    "correctAnswer": 1,
     "explanation": "Gli annunci Display adattabili combinano materiali forniti dall'inserzionista, come immagini, loghi, titoli e descrizioni, per adattarsi agli spazi pubblicitari.",
     "sourceSlides": [
       25,
       28
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -88,11 +99,13 @@ window.questionBank = [
       "Contenere soltanto il budget giornaliero della campagna",
       "Definire la sequenza dei video da mostrare su YouTube"
     ],
-    "correctAnswer": 0,
     "explanation": "I dati dei prodotti, gestiti in Merchant Center, alimentano gli annunci Shopping. Non si tratta di un elenco di parole chiave Search.",
     "sourceSlides": [
       29,
       31
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -104,10 +117,12 @@ window.questionBank = [
       "Budget giornaliero e strategia di offerta",
       "Solo il punteggio di qualità della keyword"
     ],
-    "correctAnswer": 1,
     "explanation": "Gli annunci Shopping mostrano informazioni sul prodotto e sul venditore che aiutano l'utente a valutare l'offerta prima del clic.",
     "sourceSlides": [
       30
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -119,11 +134,13 @@ window.questionBank = [
       "Lasciare la disponibilità invariata fino al prossimo acquisto",
       "Allineare la disponibilità nei dati prodotto a quella del sito"
     ],
-    "correctAnswer": 3,
     "explanation": "Prezzi e disponibilità devono essere coerenti tra dati prodotto e sito. Una discrepanza non si risolve aumentando il budget o le offerte.",
     "sourceSlides": [
       29,
       32
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -135,11 +152,13 @@ window.questionBank = [
       "Aumentare soltanto le visite al punto vendita fisico",
       "Ottenere installazioni o azioni rilevanti all'interno dell'app"
     ],
-    "correctAnswer": 3,
     "explanation": "Le campagne per app sono pensate per promuovere applicazioni e possono perseguire installazioni o azioni in-app, in base alla configurazione.",
     "sourceSlides": [
       41,
       42
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -151,10 +170,12 @@ window.questionBank = [
       "Una campagna che garantisce la prima posizione in ogni asta",
       "Una campagna automatizzata che può accedere a più canali Google in funzione degli obiettivi"
     ],
-    "correctAnswer": 3,
     "explanation": "Performance Max consente di accedere a più canali da una singola campagna. Automazione e copertura non garantiscono posizioni, conversioni o priorità assoluta sulle altre campagne.",
     "sourceSlides": [
       47
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -166,12 +187,14 @@ window.questionBank = [
       "Il primo contatto che fa conoscere il brand o il prodotto",
       "L'esclusione di chi non ha ancora visitato il sito"
     ],
-    "correctAnswer": 2,
     "explanation": "L'awareness riguarda la conoscenza iniziale dell'offerta. Nell'esempio del corso è l'esposizione al banner degli scarponi.",
     "sourceSlides": [
       52,
       53,
       54
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -183,10 +206,12 @@ window.questionBank = [
       "Consideration",
       "Acquisto concluso"
     ],
-    "correctAnswer": 2,
     "explanation": "Nella consideration l'utente valuta alternative e raccoglie informazioni prima di decidere. Il confronto non equivale ancora all'acquisto.",
     "sourceSlides": [
       54
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -198,10 +223,12 @@ window.questionBank = [
       "Completare l'acquisto degli scarponi",
       "Vedere per la prima volta il banner"
     ],
-    "correctAnswer": 2,
     "explanation": "L'action è l'esecuzione dell'azione obiettivo; nell'esempio degli scarponi coincide con l'acquisto.",
     "sourceSlides": [
       54
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -213,11 +240,13 @@ window.questionBank = [
       "Perché tutti i prodotti costosi si acquistano al primo clic",
       "Perché le campagne possono raggiungere solo chi ha già deciso"
     ],
-    "correctAnswer": 0,
     "explanation": "Il corso confronta acquisti diversi per mostrare che la fase di valutazione cambia con il contesto. Non esiste un percorso identico per tutti i prodotti.",
     "sourceSlides": [
       53,
       55
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -229,11 +258,13 @@ window.questionBank = [
       "Verificare se gli utenti cercano già il bene o servizio offerto",
       "Evitare qualsiasi analisi dell'intento degli utenti"
     ],
-    "correctAnswer": 2,
     "explanation": "La presenza di ricerche pertinenti è un elemento centrale per valutare la Search. La scelta della rete deve seguire la domanda e l'obiettivo.",
     "sourceSlides": [
       61,
       63
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -245,11 +276,13 @@ window.questionBank = [
       "La lunghezza del nome del file delle immagini",
       "L'ordine alfabetico delle parole chiave"
     ],
-    "correctAnswer": 1,
     "explanation": "Il targeting geografico aiuta a concentrare la pubblicazione nell'area rilevante per l'attività. Va configurato in coerenza con il servizio offerto.",
     "sourceSlides": [
       13,
       14
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -261,25 +294,31 @@ window.questionBank = [
       "La rimozione di tutte le conversioni",
       "L'aggiunta di keyword non pertinenti"
     ],
-    "correctAnswer": 1,
     "explanation": "La pianificazione degli annunci permette di impostare giorni e orari di pubblicazione coerenti con il servizio e la strategia.",
     "sourceSlides": [
       14
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
     "module": "Lezione 1",
-    "question": "Quali attività diventano possibili analizzando i dati delle campagne?",
+    "question": "Quali attività sono supportate dall'analisi dei dati delle campagne?",
     "options": [
-      "Applicare la stessa offerta a qualsiasi settore senza verifica",
-      "Garantire che tutte le visite diventino vendite",
-      "Eliminare la necessità di scegliere un obiettivo",
-      "Elaborare previsioni, ottimizzare le campagne e preparare report"
+      "Preparare report sui risultati",
+      "Ottimizzare campagne attive",
+      "Garantire conversioni per ogni visita",
+      "Elaborare stime per la pianificazione"
     ],
-    "correctAnswer": 3,
-    "explanation": "Il monitoraggio supporta pianificazione, ottimizzazione e rendicontazione. I dati aiutano a prendere decisioni, senza garantire risultati.",
+    "explanation": "I dati supportano report, ottimizzazione e previsioni, senza garantire risultati futuri.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      3
     ]
   },
   {
@@ -291,10 +330,12 @@ window.questionBank = [
       "Trasformare tutti gli account clienti in una sola campagna",
       "Gestire più account Google Ads da un unico ambiente"
     ],
-    "correctAnswer": 3,
     "explanation": "Il Centro Clienti permette la gestione di più account mantenendo distinti gli account collegati. È utile per professionisti e agenzie.",
     "sourceSlides": [
       74
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -306,11 +347,13 @@ window.questionBank = [
       "Perché le metriche sono sempre uguali tra settori",
       "Perché una campagna efficace non richiede più controlli"
     ],
-    "correctAnswer": 0,
     "explanation": "La gestione richiede un'analisi del contesto e ottimizzazioni continue. Il corso sottolinea che non esiste una strategia sempre valida per tutti.",
     "sourceSlides": [
       18,
       64
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -322,12 +365,14 @@ window.questionBank = [
       "Campagna, account, annuncio, gruppo di annunci",
       "Gruppo di annunci, account, campagna, annuncio"
     ],
-    "correctAnswer": 1,
     "explanation": "In una struttura Search, l'account contiene campagne; le campagne contengono gruppi di annunci, nei quali sono organizzati annunci e parole chiave pertinenti.",
     "sourceSlides": [
       7,
       8,
       9
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -339,11 +384,13 @@ window.questionBank = [
       "In gruppi tematici distinti, con annunci pertinenti a ciascuna categoria",
       "Creando una nuova valuta per ogni categoria"
     ],
-    "correctAnswer": 2,
     "explanation": "Gruppi tematici aiutano a mantenere coerenti ricerche, parole chiave e annunci. Non serve un account separato per ogni prodotto.",
     "sourceSlides": [
       8,
       16
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -355,10 +402,12 @@ window.questionBank = [
       "Un'impressione",
       "Una conversione"
     ],
-    "correctAnswer": 2,
     "explanation": "L'impressione misura la pubblicazione dell'annuncio. Un clic o una conversione sono eventi diversi.",
     "sourceSlides": [
       21
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -370,10 +419,12 @@ window.questionBank = [
       "Spesa divisa per clic, moltiplicata per 100",
       "Clic divisi per impressioni, moltiplicati per 100"
     ],
-    "correctAnswer": 3,
     "explanation": "Il CTR misura la quota di impressioni che produce un clic: clic / impressioni × 100.",
     "sourceSlides": [
       24
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -385,10 +436,12 @@ window.questionBank = [
       "2%",
       "0,2%"
     ],
-    "correctAnswer": 2,
     "explanation": "80 / 4.000 × 100 = 2%. Il denominatore del CTR è il numero di impressioni, non la spesa.",
     "sourceSlides": [
       24
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -400,11 +453,13 @@ window.questionBank = [
       "60 €",
       "1,50 €"
     ],
-    "correctAnswer": 3,
     "explanation": "Il CPC medio si calcola dividendo la spesa per i clic: 180 / 120 = 1,50 €.",
     "sourceSlides": [
       27,
       28
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -416,10 +471,12 @@ window.questionBank = [
       "333,33 €",
       "0,003 €"
     ],
-    "correctAnswer": 0,
     "explanation": "CPM = spesa / impressioni × 1.000. In questo caso 90 / 30.000 × 1.000 = 3 €.",
     "sourceSlides": [
       22
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -431,10 +488,12 @@ window.questionBank = [
       "80%",
       "20%"
     ],
-    "correctAnswer": 3,
     "explanation": "La quota impressioni rapporta le impressioni ottenute a quelle idonee stimate: 200 / 1.000 × 100 = 20%.",
     "sourceSlides": [
       29
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -446,10 +505,12 @@ window.questionBank = [
       "20%",
       "5%"
     ],
-    "correctAnswer": 3,
     "explanation": "In questo esempio il tasso è 25 / 500 × 100 = 5%. In generale Google Ads rapporta le conversioni alle interazioni idonee al tracciamento.",
     "sourceSlides": [
       32
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -461,10 +522,12 @@ window.questionBank = [
       "348 €",
       "43,20 €"
     ],
-    "correctAnswer": 1,
     "explanation": "Il costo medio per conversione è spesa / conversioni: 360 / 12 = 30 €. Non va confuso con il valore economico della conversione.",
     "sourceSlides": [
       34
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -476,10 +539,12 @@ window.questionBank = [
       "4%",
       "25%"
     ],
-    "correctAnswer": 1,
     "explanation": "ROAS = ricavi attribuiti / spesa pubblicitaria × 100: 2.400 / 600 × 100 = 400%. Il dato non sottrae i costi di produzione.",
     "sourceSlides": [
       39
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -491,12 +556,14 @@ window.questionBank = [
       "Perché il ROAS include già tutte le spese aziendali",
       "Perché un ROAS elevato indica sempre ricavi inferiori alla spesa pubblicitaria"
     ],
-    "correctAnswer": 1,
     "explanation": "Il ROAS confronta valore o ricavi attribuiti e spesa pubblicitaria. Per valutare il profitto occorre considerare anche margini e altri costi.",
     "sourceSlides": [
       35,
       36,
       39
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -508,11 +575,13 @@ window.questionBank = [
       "Perché un CTR più alto garantisce sempre un profitto maggiore",
       "Perché intento, pubblico e contesto possono rendere i CTR poco confrontabili"
     ],
-    "correctAnswer": 3,
     "explanation": "Il CTR va interpretato nel contesto. Un buon confronto considera anche obiettivi, qualità del traffico e risultati economici.",
     "sourceSlides": [
       25,
       26
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -524,25 +593,30 @@ window.questionBank = [
       "Mostrare l'annuncio al 100% degli utenti di Internet",
       "Garantire il maggior valore totale degli acquisti"
     ],
-    "correctAnswer": 1,
     "explanation": "Massimizza i clic ottimizza per il volume di clic. Questo obiettivo non coincide necessariamente con la qualità dei contatti o il valore delle vendite.",
     "sourceSlides": [
       75
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
     "module": "Lezione 2",
-    "question": "Quale problema può compromettere una strategia che ottimizza per le conversioni?",
+    "question": "Quali problemi possono compromettere l'ottimizzazione automatica per le conversioni?",
     "options": [
-      "Utilizzare come obiettivi eventi errati o non rappresentativi del risultato desiderato",
-      "Scrivere nomi leggibili per le campagne",
-      "Distinguere gli annunci per prodotto",
-      "Controllare periodicamente lo stato del tracciamento"
+      "Eventi di conversione configurati in modo errato",
+      "Obiettivi che misurano azioni poco utili al business",
+      "Nomi delle campagne chiari e leggibili",
+      "Verifiche periodiche del tracciamento"
     ],
-    "correctAnswer": 0,
-    "explanation": "Se le conversioni sono configurate male, l'automazione può ottimizzare per segnali poco utili al business. La qualità del tracciamento è fondamentale.",
+    "explanation": "L'automazione dipende dai segnali ricevuti: eventi errati o poco significativi possono orientare le offerte verso risultati non desiderati.",
     "sourceSlides": [
       76
+    ],
+    "correctAnswers": [
+      0,
+      1
     ]
   },
   {
@@ -554,11 +628,13 @@ window.questionBank = [
       "La prima elimina il budget, la seconda lo raddoppia",
       "La prima ottimizza solo le impressioni, la seconda solo il CTR"
     ],
-    "correctAnswer": 0,
     "explanation": "Il numero di conversioni e il loro valore sono obiettivi diversi. L'ottimizzazione per il valore richiede valori di conversione corretti e significativi.",
     "sourceSlides": [
       76,
       77
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -570,10 +646,12 @@ window.questionBank = [
       "Ridurre le opportunità di traffico e il volume di conversioni",
       "Aumentare automaticamente il valore medio degli ordini"
     ],
-    "correctAnswer": 2,
     "explanation": "Un CPA target troppo restrittivo può limitare l'erogazione e le conversioni. Il target è un obiettivo medio, non una garanzia per ogni acquisizione.",
     "sourceSlides": [
       79
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -585,25 +663,31 @@ window.questionBank = [
       "Un obiettivo di valore delle conversioni in rapporto alla spesa pubblicitaria",
       "Un costo fisso applicato a ciascuna impressione"
     ],
-    "correctAnswer": 2,
     "explanation": "Il ROAS target orienta le offerte verso un rapporto desiderato tra valore delle conversioni e costo. Non garantisce né quel rapporto né un volume minimo.",
     "sourceSlides": [
       80
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
     "module": "Lezione 2",
-    "question": "Dopo un calo di rendimento, vuoi sapere chi ha modificato il budget e quando. Quale strumento consulti?",
+    "question": "Quali informazioni può aiutare a ricostruire la cronologia delle modifiche?",
     "options": [
-      "La cronologia delle modifiche",
-      "Il catalogo dei prodotti in Merchant Center",
-      "L'elenco delle fatture dei fornitori",
-      "L'anteprima delle immagini Display"
+      "Quando è stato modificato il budget",
+      "Chi ha effettuato una modifica registrata",
+      "Il profitto certo di ogni concorrente",
+      "Il contenuto di una modifica registrata"
     ],
-    "correctAnswer": 0,
-    "explanation": "La cronologia delle modifiche aiuta a ricostruire gli interventi sull'account, con date e autori disponibili. È utile per indagare cambiamenti di rendimento.",
+    "explanation": "La cronologia permette di ricostruire modifiche, date e autori disponibili. Non rivela i dati economici dei concorrenti.",
     "sourceSlides": [
       66
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      3
     ]
   },
   {
@@ -615,11 +699,13 @@ window.questionBank = [
       "Sostituire il tracciamento delle conversioni con opinioni personali",
       "Duplicare la spesa senza misurare le differenze"
     ],
-    "correctAnswer": 0,
     "explanation": "Gli esperimenti aiutano a valutare nuove impostazioni con un confronto strutturato. Non dimostrano in anticipo che la variante sarà migliore.",
     "sourceSlides": [
       67,
       71
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -631,11 +717,13 @@ window.questionBank = [
       "La keyword è sempre una sola parola; il termine di ricerca ne contiene sempre almeno tre",
       "I due termini indicano sempre testi identici"
     ],
-    "correctAnswer": 1,
     "explanation": "Le parole chiave aiutano a selezionare le ricerche pertinenti. I termini di ricerca sono le query effettive degli utenti e possono differire dalle keyword.",
     "sourceSlides": [
       6,
       24
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -647,10 +735,12 @@ window.questionBank = [
       "Sì, per esempio «dentista aperto sabato Treviso»",
       "No, le frasi possono essere inserite soltanto nei titoli"
     ],
-    "correctAnswer": 2,
     "explanation": "Una keyword non coincide necessariamente con una singola parola: può essere una combinazione di termini che esprime un bisogno specifico.",
     "sourceSlides": [
       6
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -662,10 +752,12 @@ window.questionBank = [
       "Esatta, visiva e stagionale",
       "Generica, a frase ed esatta"
     ],
-    "correctAnswer": 3,
     "explanation": "I tre tipi di corrispondenza delle keyword positive sono generica, a frase ed esatta. Le parole chiave escluse svolgono invece una funzione di filtro.",
     "sourceSlides": [
       8
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -677,10 +769,12 @@ window.questionBank = [
       "Senza virgolette o parentesi quadre",
       "Tra virgolette doppie"
     ],
-    "correctAnswer": 2,
     "explanation": "La corrispondenza generica non richiede simboli: per esempio dentista Treviso. Virgolette e parentesi quadre identificano altri tipi di corrispondenza.",
     "sourceSlides": [
       9
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -692,10 +786,12 @@ window.questionBank = [
       "Racchiudendola tra parentesi quadre",
       "Racchiudendola tra virgolette doppie"
     ],
-    "correctAnswer": 3,
     "explanation": "La sintassi della corrispondenza a frase utilizza le virgolette, per esempio \"dentista Treviso\". La corrispondenza tiene conto del significato della ricerca.",
     "sourceSlides": [
       13
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -707,10 +803,12 @@ window.questionBank = [
       "Racchiudendola tra parentesi tonde",
       "Separando i termini con punti e virgola"
     ],
-    "correctAnswer": 1,
     "explanation": "Le parentesi quadre indicano la corrispondenza esatta, per esempio [dentista Treviso]. Non implicano però che la query debba essere identica carattere per carattere.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -722,11 +820,13 @@ window.questionBank = [
       "Garantisce sempre il CTR più alto dell'account",
       "Può coprire ricerche con lo stesso significato o intento della keyword"
     ],
-    "correctAnswer": 3,
     "explanation": "La corrispondenza esatta considera anche varianti vicine e ricerche con lo stesso significato o intento. Non garantisce un determinato rendimento.",
     "sourceSlides": [
       16,
       17
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -738,10 +838,12 @@ window.questionBank = [
       "L'impossibilità di usare keyword brevi in Google Ads",
       "Il divieto di usare nomi comuni nelle keyword"
     ],
-    "correctAnswer": 0,
     "explanation": "Il corso usa questo esempio per mostrare che una parola può intercettare bisogni diversi. La pertinenza conta più della sola presenza di volume.",
     "sourceSlides": [
       7
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -753,11 +855,13 @@ window.questionBank = [
       "Aumentare l'offerta per tutte le ricerche informative",
       "Eliminare il tracciamento dei contatti ricevuti"
     ],
-    "correctAnswer": 1,
     "explanation": "Le parole chiave escluse aiutano a filtrare ricerche non coerenti con l'offerta. Prima di applicarle occorre valutarne l'effetto anche sulle ricerche utili.",
     "sourceSlides": [
       21,
       22
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -769,25 +873,30 @@ window.questionBank = [
       "Può trasformare i clic a pagamento in visite organiche",
       "Può obbligare Google a usare un budget più alto"
     ],
-    "correctAnswer": 0,
     "explanation": "Le esclusioni funzionano come filtri. Un filtro eccessivamente ampio può bloccare traffico utile, quindi va scelto e controllato con attenzione.",
     "sourceSlides": [
       21
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
     "module": "Lezione 3",
-    "question": "Quale uso del rapporto sui termini di ricerca aiuta a migliorare la pertinenza?",
+    "question": "Quali opportunità offre l'analisi dei termini di ricerca?",
     "options": [
-      "Considerare pertinente ogni query che ha ottenuto un clic",
-      "Sostituire le query degli utenti con i titoli degli annunci",
-      "Aumentare sempre l'offerta per la query con più impressioni",
-      "Individuare query fuori target da valutare per le esclusioni"
+      "Individuare query fuori target da valutare per le esclusioni",
+      "Scoprire nuove query pertinenti da valutare come keyword",
+      "Garantire che ogni query con molti clic sia redditizia",
+      "Conoscere con certezza il budget dei concorrenti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Il rapporto permette di analizzare le query e riconoscere possibili sprechi. Il volume di clic, da solo, non dimostra la pertinenza.",
+    "explanation": "Il rapporto può evidenziare sprechi e nuove opportunità. Pertinenza e rendimento vanno valutati rispetto agli obiettivi.",
     "sourceSlides": [
       24
+    ],
+    "correctAnswers": [
+      0,
+      1
     ]
   },
   {
@@ -799,10 +908,12 @@ window.questionBank = [
       "Escluderla perché non era nella lista iniziale",
       "Aggiungerla come negativa a tutte le campagne"
     ],
-    "correctAnswer": 0,
     "explanation": "I termini di ricerca non servono solo a trovare sprechi: possono rivelare nuove opportunità da integrare nella strategia.",
     "sourceSlides": [
       24
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -814,27 +925,33 @@ window.questionBank = [
       "Soltanto importando fatture di Google Ads",
       "Soltanto caricando un video su YouTube"
     ],
-    "correctAnswer": 0,
     "explanation": "Il planner permette di ricavare suggerimenti da keyword iniziali o dall'analisi di un sito o di una pagina. Le idee vanno poi selezionate.",
     "sourceSlides": [
       30,
       31
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
     "module": "Lezione 3",
-    "question": "Perché località e periodo analizzato sono importanti nella keyword research?",
+    "question": "Quali elementi di contesto vanno considerati nella keyword research?",
     "options": [
-      "Perché rendono identici i volumi in tutti i paesi",
-      "Perché domanda e volumi possono cambiare tra zone e stagioni",
-      "Perché trasformano le stime in vendite garantite",
-      "Perché eliminano la necessità di valutare l'intento"
+      "Località a cui si rivolge l'offerta",
+      "Periodo e possibili stagionalità",
+      "Coerenza tra intento della ricerca e offerta",
+      "Solo la lunghezza del nome della campagna"
     ],
-    "correctAnswer": 1,
-    "explanation": "I dati vanno letti nel contesto geografico e temporale corretto. Una media generale può nascondere differenze locali o stagionali.",
+    "explanation": "Le idee vanno valutate per pertinenza, area geografica e periodo. I volumi non sono uguali in tutti i contesti.",
     "sourceSlides": [
       33,
       35
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
     ]
   },
   {
@@ -846,11 +963,13 @@ window.questionBank = [
       "Tutte le ricerche estive produrranno acquisti",
       "Il prodotto venderà certamente tutto l'anno allo stesso ritmo"
     ],
-    "correctAnswer": 0,
     "explanation": "L'andamento storico può evidenziare stagionalità e orientare tempi e budget. Non garantisce però risultati futuri o costi invariati.",
     "sourceSlides": [
       33,
       35
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -862,11 +981,13 @@ window.questionBank = [
       "Come dati che non dipendono dal periodo considerato",
       "Come prezzi fissi validi per ogni account"
     ],
-    "correctAnswer": 1,
     "explanation": "Le previsioni dipendono da dati storici, impostazioni e ipotesi. Sono utili alla pianificazione, ma non sono una promessa di rendimento.",
     "sourceSlides": [
       37,
       38
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -878,12 +999,14 @@ window.questionBank = [
       "La coerenza tra ciò che cerca l'utente e la posizione reale della struttura",
       "Il maggior volume disponibile, anche se l'offerta non corrisponde"
     ],
-    "correctAnswer": 2,
     "explanation": "Nell'esercitazione sul B&B, la pertinenza dell'offerta è essenziale. Promettere una posizione diversa da quella reale può portare traffico poco utile.",
     "sourceSlides": [
       42,
       43,
       46
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -895,12 +1018,14 @@ window.questionBank = [
       "Perché Google Ads accetta soltanto keyword scritte dal cliente",
       "Per eliminare idee non pertinenti e organizzare quelle utili in base all'intento"
     ],
-    "correctAnswer": 3,
     "explanation": "Gli strumenti ampliano le possibilità, ma la scelta richiede un'analisi del prodotto, dell'intento e della sostenibilità economica.",
     "sourceSlides": [
       40,
       42,
       46
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -912,11 +1037,13 @@ window.questionBank = [
       "30 €",
       "17 €"
     ],
-    "correctAnswer": 2,
     "explanation": "Nel metodo di stima del corso, CPC ipotizzato × clic desiderati = budget giornaliero: 2 × 15 = 30 €. È una stima, non un minimo obbligatorio né una garanzia.",
     "sourceSlides": [
       48,
       49
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -928,10 +1055,12 @@ window.questionBank = [
       "760 € al mese",
       "175 € al mese"
     ],
-    "correctAnswer": 2,
     "explanation": "La stima mensile è 25 × 30,4 = 760 €. È una conversione di pianificazione; non significa che la spesa effettiva debba essere identica ogni giorno.",
     "sourceSlides": [
       49
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -943,29 +1072,35 @@ window.questionBank = [
       "Per riconoscere rapidamente prodotto, area o finalità e facilitare la collaborazione",
       "Per evitare la verifica delle norme pubblicitarie"
     ],
-    "correctAnswer": 2,
     "explanation": "Un naming leggibile facilita la gestione e il lavoro di squadra. Il nome non migliora da solo qualità, offerte o approvazione degli annunci.",
     "sourceSlides": [
       11
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
     "module": "Lezione 4",
-    "question": "Prima di pubblicare una campagna Search locale, quale insieme di impostazioni è importante ricontrollare?",
+    "question": "Quali impostazioni vanno ricontrollate prima di pubblicare una campagna Search locale?",
     "options": [
-      "Località, lingua, reti, budget e strategia di offerta",
-      "Soltanto il nome dell'account e il colore del logo",
-      "Solo l'ordine dei titoli nell'editor",
-      "Soltanto il numero complessivo di keyword"
+      "Località e lingua",
+      "Reti di pubblicazione",
+      "Budget e strategia di offerta",
+      "Il colore del file usato per gli appunti"
     ],
-    "correctAnswer": 0,
-    "explanation": "La revisione finale deve verificare che targeting, reti, spesa e offerte siano coerenti con gli obiettivi. La configurazione va valutata nel suo insieme.",
+    "explanation": "La revisione deve verificare targeting, reti, budget e offerte in coerenza con gli obiettivi della campagna.",
     "sourceSlides": [
       12,
       13,
       17,
       18,
       36
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
     ]
   },
   {
@@ -977,10 +1112,12 @@ window.questionBank = [
       "Indicare obbligatoriamente la homepage del concorrente",
       "Indicare la pagina di destinazione del clic sull'annuncio principale"
     ],
-    "correctAnswer": 3,
     "explanation": "L'URL finale identifica la pagina di destinazione. Va scelto in coerenza con la promessa dell'annuncio e l'intento della ricerca.",
     "sourceSlides": [
       15
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -992,10 +1129,12 @@ window.questionBank = [
       "La posizione numerica garantita nella pagina dei risultati",
       "Il codice di tracciamento delle conversioni"
     ],
-    "correctAnswer": 1,
     "explanation": "Il percorso visualizzato rende più comprensibile l'indirizzo mostrato. La destinazione del clic dipende dall'URL finale, che deve rispettare le norme sul dominio.",
     "sourceSlides": [
       15
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1007,10 +1146,12 @@ window.questionBank = [
       "3 titoli e 1 descrizione",
       "5 titoli e 5 descrizioni"
     ],
-    "correctAnswer": 1,
     "explanation": "L'annuncio adattabile Search permette di inserire fino a 15 titoli e 4 descrizioni. Si tratta dei materiali disponibili, non di elementi mostrati tutti insieme.",
     "sourceSlides": [
       15
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1022,10 +1163,12 @@ window.questionBank = [
       "120 caratteri per entrambi",
       "25 caratteri per entrambi"
     ],
-    "correctAnswer": 0,
     "explanation": "Per gli annunci adattabili Search i limiti sono 30 caratteri per titolo e 90 per descrizione. Occorre rispettarli per ciascun elemento inserito.",
     "sourceSlides": [
       15
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1037,10 +1180,12 @@ window.questionBank = [
       "Per garantire che tutti i titoli appaiano in ogni impressione",
       "Per sostituire le descrizioni con keyword ripetute"
     ],
-    "correctAnswer": 1,
     "explanation": "Titoli ridondanti riducono la varietà dei messaggi. Titoli distinti permettono di presentare vantaggi, informazioni e inviti all'azione differenti.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1052,10 +1197,12 @@ window.questionBank = [
       "Limita le combinazioni disponibili per quella posizione",
       "Aumenta il numero massimo di titoli inseribili"
     ],
-    "correctAnswer": 2,
     "explanation": "Il blocco di un titolo ne vincola la posizione e riduce la flessibilità delle combinazioni. Va usato quando il vincolo è realmente necessario.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1067,10 +1214,12 @@ window.questionBank = [
       "Mostrare brevi vantaggi non cliccabili",
       "Calcolare il tasso di conversione della pagina"
     ],
-    "correctAnswer": 1,
     "explanation": "I sitelink sono collegamenti aggiuntivi utili a raggiungere contenuti specifici e coerenti con il bisogno dell'utente.",
     "sourceSlides": [
       23
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1082,10 +1231,12 @@ window.questionBank = [
       "Un elenco di URL finali diversi per ogni keyword",
       "Un vantaggio sintetico come «Assistenza 24 ore su 24», se realmente offerto"
     ],
-    "correctAnswer": 3,
     "explanation": "I callout evidenziano brevi informazioni aggiuntive e vantaggi dell'offerta. Non sono collegamenti autonomi e le affermazioni devono essere veritiere.",
     "sourceSlides": [
       24
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1097,11 +1248,13 @@ window.questionBank = [
       "Un elenco di servizi effettivamente offerti dall'attività",
       "Un invito generico come «Clicca subito!!!» ripetuto più volte"
     ],
-    "correctAnswer": 2,
     "explanation": "Gli snippet strutturati presentano elenchi di caratteristiche, prodotti o servizi sotto un'intestazione appropriata. Non sono spazi per claim promozionali generici.",
     "sourceSlides": [
       25,
       26
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1113,10 +1266,12 @@ window.questionBank = [
       "Quando si vuole rendere invisibile il numero sul sito",
       "Quando le chiamate possono essere gestite soltanto in determinati orari"
     ],
-    "correctAnswer": 3,
     "explanation": "La pianificazione aiuta a mostrare l'opzione di chiamata quando l'attività può rispondere, evitando contatti che non riesce a gestire.",
     "sourceSlides": [
       27
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1128,10 +1283,12 @@ window.questionBank = [
       "Importando la cronologia delle fatture dell'account",
       "Collegando il profilo pertinente a Google Ads"
     ],
-    "correctAnswer": 3,
     "explanation": "Il collegamento al Profilo dell'attività su Google, già chiamato Google My Business, permette di utilizzare i dati della sede negli asset di località.",
     "sourceSlides": [
       28
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1143,10 +1300,12 @@ window.questionBank = [
       "Aggiungerli non comporta un costo di attivazione, ma le interazioni possono essere addebitate secondo le regole applicabili",
       "Il loro utilizzo rende gratuiti anche i clic sull'annuncio"
     ],
-    "correctAnswer": 2,
     "explanation": "L'aggiunta degli asset non richiede un costo di attivazione. Non significa che i clic o le altre interazioni pubblicitarie siano tutti gratuiti.",
     "sourceSlides": [
       22
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1158,11 +1317,13 @@ window.questionBank = [
       "Simboli ripetuti, promesse non verificabili e pagina non raggiungibile",
       "Testo chiaro, informazioni veritiere e pagina funzionante"
     ],
-    "correctAnswer": 3,
     "explanation": "Le norme richiedono professionalità, chiarezza e destinazioni utilizzabili. Annuncio e pagina devono comunicare l'offerta senza ingannare l'utente.",
     "sourceSlides": [
       41,
       43
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1174,10 +1335,12 @@ window.questionBank = [
       "Correggere un errore nel testo dell'annuncio",
       "Collegare l'annuncio a una pagina pertinente"
     ],
-    "correctAnswer": 0,
     "explanation": "Il cloaking finalizzato ad aggirare i controlli è una forma di abuso della rete pubblicitaria. Correggere e migliorare gli annunci è invece una normale attività di gestione.",
     "sourceSlides": [
       41
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1189,28 +1352,34 @@ window.questionBank = [
       "Un voto assegnato al budget mensile della campagna",
       "La probabilità percentuale che l'utente acquisti"
     ],
-    "correctAnswer": 1,
     "explanation": "Il punteggio di qualità è uno strumento diagnostico. Non va confuso con la valutazione della qualità effettuata in tempo reale durante l'asta.",
     "sourceSlides": [
       46,
       47,
       48
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
     "module": "Lezione 4",
-    "question": "Quali sono le tre componenti diagnostiche del punteggio di qualità?",
+    "question": "Quali sono componenti diagnostiche del punteggio di qualità?",
     "options": [
-      "CTR previsto, pertinenza dell'annuncio ed esperienza della pagina di destinazione",
-      "ROAS, CPA e ricavi complessivi del sito",
-      "Età dell'account, numero di campagne e frequenza dei pagamenti",
-      "Budget, numero di keyword e valore delle fatture"
+      "CTR previsto",
+      "Pertinenza dell'annuncio",
+      "Esperienza della pagina di destinazione",
+      "Numero di campagne presenti nell'account"
     ],
-    "correctAnswer": 0,
-    "explanation": "Le tre componenti aiutano a distinguere problemi di probabilità di clic, rilevanza del messaggio ed esperienza sulla pagina.",
+    "explanation": "Le tre componenti diagnostiche sono CTR previsto, pertinenza dell'annuncio ed esperienza della pagina di destinazione.",
     "sourceSlides": [
       47,
       48
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
     ]
   },
   {
@@ -1222,11 +1391,13 @@ window.questionBank = [
       "Eliminare il form e mantenere la pagina non pertinente",
       "Aumentare soltanto il numero di keyword generiche"
     ],
-    "correctAnswer": 0,
     "explanation": "La coerenza tra ricerca, messaggio e pagina è centrale per la qualità dell'esperienza. Aumentare il traffico non risolve una destinazione non pertinente.",
     "sourceSlides": [
       47,
       51
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1238,11 +1409,13 @@ window.questionBank = [
       "Dipende da più fattori, tra cui offerta, qualità, contesto, soglie e impatto previsto degli asset",
       "Dipende soltanto dal budget giornaliero della campagna"
     ],
-    "correctAnswer": 2,
     "explanation": "La formula semplificata presente nelle slide non descrive il funzionamento completo dell'asta. Il ranking considera più fattori e non coincide con il prodotto del punteggio diagnostico per l'offerta.",
     "sourceSlides": [
       53,
       54
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1254,10 +1427,12 @@ window.questionBank = [
       "Assicurare un costo per acquisizione identico in tutti i settori",
       "Eliminare la necessità di valutare i risultati organici"
     ],
-    "correctAnswer": 1,
     "explanation": "Le campagne brand permettono di presidiare le ricerche del marchio con messaggi e pagine scelti dall'inserzionista. Vanno comunque valutate nel contesto.",
     "sourceSlides": [
       7
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1269,10 +1444,12 @@ window.questionBank = [
       "Perché le keyword brand sono vietate per attività nuove",
       "Perché un marchio poco cercato può offrire poche opportunità di traffico"
     ],
-    "correctAnswer": 3,
     "explanation": "Una strategia brand dipende anche dalla domanda esistente. Un nome poco conosciuto potrebbe non generare abbastanza ricerche per un volume significativo.",
     "sourceSlides": [
       8
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1284,11 +1461,13 @@ window.questionBank = [
       "Ricevere automaticamente tutte le conversioni del concorrente",
       "Ottenere per definizione una pertinenza superiore alle campagne brand proprie"
     ],
-    "correctAnswer": 0,
     "explanation": "Chi cerca un marchio può avere un intento molto specifico. Deviare questo traffico non garantisce pertinenza o conversioni e richiede un'attenta valutazione.",
     "sourceSlides": [
       9,
       10
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1300,10 +1479,12 @@ window.questionBank = [
       "Soltanto le immagini del profilo social",
       "Il contenuto del sito web"
     ],
-    "correctAnswer": 3,
     "explanation": "I DSA utilizzano il contenuto del sito per collegare le ricerche a pagine e titoli pertinenti e possono integrare la copertura delle campagne basate su keyword.",
     "sourceSlides": [
       11
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1315,10 +1496,12 @@ window.questionBank = [
       "Perché rende superflua la corrispondenza tra prodotto e ricerca",
       "Perché elimina qualsiasi necessità di controllare dove arrivano gli utenti"
     ],
-    "correctAnswer": 1,
     "explanation": "Se titoli e destinazioni dipendono dal sito, la qualità dei suoi contenuti è importante. L'automazione non elimina il controllo sulla pertinenza delle pagine.",
     "sourceSlides": [
       11
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1330,10 +1513,12 @@ window.questionBank = [
       "Ripetere tutte le keyword dell'account indipendentemente dal contenuto",
       "Sostituire le impostazioni di budget della campagna"
     ],
-    "correctAnswer": 0,
     "explanation": "La landing accoglie l'utente dopo il clic e deve accompagnarlo verso l'azione obiettivo, per esempio un acquisto o una richiesta di contatto.",
     "sourceSlides": [
       15
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1345,11 +1530,13 @@ window.questionBank = [
       "Una pagina sul servizio fotovoltaico con informazioni e richiesta di preventivo",
       "Un articolo su un prodotto non collegato al servizio"
     ],
-    "correctAnswer": 2,
     "explanation": "La continuità tra ricerca, annuncio e destinazione riduce la distanza tra aspettativa e contenuto effettivamente trovato.",
     "sourceSlides": [
       17,
       20
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1361,26 +1548,32 @@ window.questionBank = [
       "Avere un testo ambiguo per stimolare curiosità",
       "Essere nascosta in fondo a una pagina non navigabile"
     ],
-    "correctAnswer": 0,
     "explanation": "La CTA deve far capire quale azione può essere compiuta, per esempio richiedere un preventivo. Chiarezza e visibilità aiutano l'utente a procedere.",
     "sourceSlides": [
       17,
       20
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
     "module": "Lezione 5",
-    "question": "Gli utenti da smartphone abbandonano una pagina con form difficile da compilare. Qual è una priorità ragionevole?",
+    "question": "Quali interventi possono migliorare una landing difficile da usare su smartphone?",
     "options": [
-      "Mostrare più annunci con la stessa destinazione difettosa",
-      "Verificare e migliorare l'usabilità del form su mobile",
-      "Confrontare soltanto il numero di impressioni desktop",
-      "Aumentare il budget senza analizzare la pagina"
+      "Rendere leggibili testi e istruzioni",
+      "Semplificare la compilazione del form",
+      "Migliorare i tempi di caricamento",
+      "Aumentare il budget senza intervenire sulla pagina"
     ],
-    "correctAnswer": 1,
-    "explanation": "La fruibilità mobile è un elemento chiave della landing. Un ostacolo nel form può impedire la conversione anche con traffico pertinente.",
+    "explanation": "Leggibilità, facilità di compilazione e velocità riducono gli ostacoli alla conversione. Aumentare il traffico non corregge i problemi della pagina.",
     "sourceSlides": [
       17
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
     ]
   },
   {
@@ -1392,11 +1585,13 @@ window.questionBank = [
       "Controllare tempi di caricamento, leggibilità e facilità di completamento dell'azione",
       "Verificare soltanto che la campagna abbia un nome breve"
     ],
-    "correctAnswer": 2,
     "explanation": "La qualità della pagina riguarda prestazioni, accessibilità pratica dei contenuti e facilità d'uso. Il semplice arrivo di traffico non dimostra che l'esperienza funzioni.",
     "sourceSlides": [
       17,
       20
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1408,11 +1603,13 @@ window.questionBank = [
       "Per individuare come presentano l'offerta e quali azioni chiedono agli utenti",
       "Per copiare promesse e prezzi anche se non corrispondono alla nostra offerta"
     ],
-    "correctAnswer": 2,
     "explanation": "Una pagina pubblica può suggerire scelte di comunicazione e possibili obiettivi. Non rivela da sola risultati, costi o configurazioni interne delle campagne.",
     "sourceSlides": [
       16,
       18
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1424,11 +1621,13 @@ window.questionBank = [
       "La posizione di una keyword nel file di importazione",
       "Il numero di annunci presenti nel gruppo"
     ],
-    "correctAnswer": 1,
     "explanation": "I posizionamenti identificano spazi di pubblicazione. Sono diversi dai segmenti di pubblico, che descrivono le persone da raggiungere.",
     "sourceSlides": [
       33,
       52
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1440,10 +1639,12 @@ window.questionBank = [
       "Il primo riguarda caratteristiche delle persone; il secondo il tema dei contenuti in cui pubblicare",
       "Entrambi identificano esclusivamente le query Search esatte"
     ],
-    "correctAnswer": 2,
     "explanation": "Pubblici e contesto sono dimensioni diverse: chi raggiungere e in quale contenuto comparire. Vanno scelti in funzione dell'obiettivo.",
     "sourceSlides": [
       33
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1455,26 +1656,32 @@ window.questionBank = [
       "Impedisce la pubblicazione a tutti gli altri utenti",
       "Garantisce che il sistema spenda solo sui visitatori del sito"
     ],
-    "correctAnswer": 0,
     "explanation": "Osservazione e Targeting hanno funzioni diverse. L'osservazione, dove disponibile, non restringe da sola la copertura ai segmenti osservati; vanno considerate anche le altre impostazioni della campagna.",
     "sourceSlides": [
       34
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
     "module": "Lezione 5",
-    "question": "Quale insieme di materiali è utile per creare un annuncio Display adattabile?",
+    "question": "Quali materiali possono essere utilizzati per comporre annunci Display adattabili?",
     "options": [
-      "Soltanto le fatture dell'account",
-      "Soltanto un elenco di URL dei concorrenti",
-      "Soltanto una lista di keyword escluse",
-      "Immagini, logo, titoli e descrizioni coerenti con l'offerta"
+      "Immagini pertinenti",
+      "Loghi dell'attività",
+      "Titoli e descrizioni coerenti",
+      "Fatture come requisito creativo obbligatorio"
     ],
-    "correctAnswer": 3,
-    "explanation": "Gli asset creativi permettono al sistema di comporre l'annuncio. Devono comunicare in modo coerente attività, offerta e messaggio.",
+    "explanation": "Immagini, loghi e testi pertinenti forniscono al sistema i materiali per comporre gli annunci Display adattabili.",
     "sourceSlides": [
       35,
       36
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
     ]
   },
   {
@@ -1486,12 +1693,14 @@ window.questionBank = [
       "Il prospecting garantisce vendite, mentre il remarketing garantisce clic",
       "Il prospecting riguarda solo gli acquirenti già registrati, mentre il remarketing solo chi non conosce il brand"
     ],
-    "correctAnswer": 0,
     "explanation": "Le due attività rispondono a relazioni diverse con il pubblico: acquisire nuovi potenziali clienti oppure ricontattare persone che conoscono già l'attività.",
     "sourceSlides": [
       22,
       41,
       51
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1503,11 +1712,13 @@ window.questionBank = [
       "Tutte le persone presenti nel paese, senza condizioni di comportamento",
       "Utenti che hanno aggiunto prodotti al carrello senza completare l'acquisto"
     ],
-    "correctAnswer": 3,
     "explanation": "Un pubblico basato sull'aggiunta al carrello senza acquisto rispecchia l'obiettivo. Per utilizzarlo servono una raccolta dati e una configurazione appropriate.",
     "sourceSlides": [
       41,
       42
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1519,10 +1730,12 @@ window.questionBank = [
       "Perché aggiornano automaticamente i prezzi del sito",
       "Perché potrebbero permettere di raggiungere persone oltre il pubblico inizialmente selezionato"
     ],
-    "correctAnswer": 3,
     "explanation": "Se la strategia richiede un perimetro limitato ai visitatori precedenti, occorre verificare che altre impostazioni non estendano la copertura oltre quel perimetro.",
     "sourceSlides": [
       54
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1534,11 +1747,13 @@ window.questionBank = [
       "Aumentare automaticamente il budget di tutte le campagne",
       "Mantenerlo sempre perché ha generato molte impressioni"
     ],
-    "correctAnswer": 1,
     "explanation": "Il corso sottolinea l'importanza di analizzare e selezionare i posizionamenti. Un'esclusione va motivata dai dati e dagli obiettivi, non dal solo volume.",
     "sourceSlides": [
       51,
       52
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1550,26 +1765,32 @@ window.questionBank = [
       "Confrontare messaggi e materiali diversi rispetto allo stesso obiettivo di campagna",
       "Usare sempre la prima immagine disponibile senza valutarne i risultati"
     ],
-    "correctAnswer": 2,
     "explanation": "Testare creatività e audience aiuta a capire quali combinazioni funzionano meglio. La valutazione deve seguire l'obiettivo, non solo il volume di clic.",
     "sourceSlides": [
       36,
       51
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
     "module": "Lezione 6",
-    "question": "Che cos'è una conversione per un'attività che usa Google Ads?",
+    "question": "Quali azioni possono essere definite conversioni se rilevanti per l'obiettivo dell'attività?",
     "options": [
-      "Ogni modifica del nome di un gruppo di annunci",
-      "Ogni aumento del budget della campagna",
-      "Qualsiasi impressione ricevuta, indipendentemente dagli obiettivi",
-      "Un'azione definita come importante per il business, come un acquisto o una richiesta di contatto"
+      "Un acquisto online",
+      "Una richiesta di contatto inviata con successo",
+      "Una chiamata utile all'attività",
+      "La modifica del nome di una campagna"
     ],
-    "correctAnswer": 3,
-    "explanation": "Una conversione rappresenta un risultato rilevante per l'attività. La sua misurazione richiede una definizione e un tracciamento coerenti con gli obiettivi.",
+    "explanation": "Acquisti, richieste e chiamate possono rappresentare risultati di business. La definizione e la misurazione devono essere coerenti con l'obiettivo.",
     "sourceSlides": [
       7
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
     ]
   },
   {
@@ -1581,11 +1802,13 @@ window.questionBank = [
       "La visualizzazione di un'immagine decorativa",
       "Lo scorrimento iniziale della pagina"
     ],
-    "correctAnswer": 1,
     "explanation": "L'evento scelto dovrebbe avvicinarsi al risultato desiderato. Una richiesta inviata è più indicativa dell'intenzione di contatto di una semplice visualizzazione.",
     "sourceSlides": [
       7,
       41
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1597,12 +1820,14 @@ window.questionBank = [
       "Il clic esprime un'intenzione ma non dimostra che la chiamata sia stata completata o qualificata",
       "Una chiamata non può mai essere misurata"
     ],
-    "correctAnswer": 2,
     "explanation": "Il clic sul numero è un segnale diverso dall'effettiva chiamata e dalla sua qualità. Occorre definire con precisione che cosa misura l'azione di conversione.",
     "sourceSlides": [
       7,
       13,
       41
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1614,10 +1839,12 @@ window.questionBank = [
       "L'acquisto è soltanto un'impressione della pagina",
       "Rappresentano passaggi diversi del percorso, con diverso significato per il business"
     ],
-    "correctAnswer": 3,
     "explanation": "Nell'esercitazione e-commerce vengono distinti vari eventi del percorso. Un segnale di interesse non equivale al completamento di una vendita.",
     "sourceSlides": [
       42
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1629,12 +1856,14 @@ window.questionBank = [
       "Lettura delle fatture e aumento del numero di keyword",
       "Importazione da Search Console e modifica del logo in Merchant Center"
     ],
-    "correctAnswer": 0,
     "explanation": "Il corso presenta il tracciamento Google Ads e il collegamento ad Analytics. La terminologia è aggiornata al tag Google e a Google Analytics 4, evitando le vecchie procedure di Universal Analytics.",
     "sourceSlides": [
       9,
       18,
       22
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1646,11 +1875,13 @@ window.questionBank = [
       "Perché Google Ads e Analytics misurano sempre dati identici",
       "Perché qualsiasi configurazione assegna automaticamente il valore corretto"
     ],
-    "correctAnswer": 1,
     "explanation": "La qualità della misurazione va verificata sul caso concreto. Differenze tra sistemi non dimostrano da sole che uno sia corretto e l'altro sbagliato.",
     "sourceSlides": [
       9,
       27
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1662,10 +1893,12 @@ window.questionBank = [
       "Un nome che descriva chiaramente l'evento, come «Invio richiesta preventivo»",
       "Il nome di una keyword non collegata all'azione"
     ],
-    "correctAnswer": 2,
     "explanation": "Un nome parlante rende riconoscibile l'azione nei report e nelle impostazioni, riducendo il rischio di confondere eventi diversi.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1677,10 +1910,12 @@ window.questionBank = [
       "Lo stesso valore del budget giornaliero",
       "Sempre zero, anche quando si vuole ottimizzare il valore delle vendite"
     ],
-    "correctAnswer": 1,
     "explanation": "Un valore dinamico permette di distinguere ordini di importo diverso. La definizione del valore deve essere coerente tra implementazione e analisi.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1692,10 +1927,12 @@ window.questionBank = [
       "Come una vendita già pagata da ogni contatto",
       "Come una stima concordata del valore del lead, non come un ricavo già incassato"
     ],
-    "correctAnswer": 3,
     "explanation": "Per azioni diverse dall'acquisto si può definire un valore stimato, ma non va confuso con un ricavo realizzato. Le ipotesi devono essere chiare.",
     "sourceSlides": [
       16
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1707,12 +1944,14 @@ window.questionBank = [
       "Per evitare che il sistema privilegi eventi facili da ottenere ma poco utili al business",
       "Per eliminare la necessità di verificare i contatti ricevuti"
     ],
-    "correctAnswer": 2,
     "explanation": "La scelta e la priorità delle conversioni orientano l'ottimizzazione. Eventi di semplice navigazione non dovrebbero essere confusi con risultati commerciali.",
     "sourceSlides": [
       8,
       16,
       41
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1724,10 +1963,12 @@ window.questionBank = [
       "Conteggiare solo le impressioni precedenti all'ordine",
       "Conteggiare sempre un solo ordine in tutta la vita dell'account"
     ],
-    "correctAnswer": 0,
     "explanation": "Per le vendite, ogni ordine distinto può rappresentare valore aggiuntivo. L'impostazione del conteggio va scelta in base al significato dell'azione.",
     "sourceSlides": [
       17
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1739,10 +1980,12 @@ window.questionBank = [
       "Per sommare automaticamente il valore di tutti i futuri acquisti del contatto",
       "Per escludere ogni richiesta proveniente da smartphone"
     ],
-    "correctAnswer": 1,
     "explanation": "Il conteggio «Una» limita le conversioni della stessa azione associate a un'interazione pubblicitaria. Non identifica automaticamente una persona unica su tutti i dispositivi.",
     "sourceSlides": [
       17
+    ],
+    "correctAnswers": [
+      1
     ]
   },
   {
@@ -1754,25 +1997,30 @@ window.questionBank = [
       "Gli orari in cui il sito può essere visitato",
       "Il numero di giorni prima che una keyword venga eliminata"
     ],
-    "correctAnswer": 0,
     "explanation": "La finestra stabilisce l'intervallo temporale rilevante per attribuire una conversione dopo l'interazione. Non coincide con la pianificazione degli annunci.",
     "sourceSlides": [
       17
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
     "module": "Lezione 6",
-    "question": "Hai creato manualmente un'azione di conversione web, ma non ne hai implementato il tracciamento. Che cosa devi fare?",
+    "question": "Dopo aver creato manualmente un'azione di conversione web, quali attività servono per misurarla correttamente?",
     "options": [
-      "Aumentare il CPC per far apparire gli eventi nei report",
-      "Attendere che la creazione dell'azione installi da sola il codice sul sito",
-      "Duplicare la campagna prima di ogni controllo",
-      "Implementare e verificare il tracciamento previsto per quell'azione"
+      "Implementare il tracciamento sul sito",
+      "Verificare che l'evento venga inviato quando l'azione si verifica",
+      "Presumere che il solo nome dell'azione installi il tag",
+      "Aumentare il CPC al posto della verifica tecnica"
     ],
-    "correctAnswer": 3,
-    "explanation": "Creare l'azione nell'interfaccia non basta a implementare il tracciamento sul sito. Occorre configurarlo e verificarne il funzionamento.",
+    "explanation": "La creazione dell'azione nell'interfaccia non installa il tracciamento: occorre implementarlo e verificarne l'attivazione corretta.",
     "sourceSlides": [
       18
+    ],
+    "correctAnswers": [
+      0,
+      1
     ]
   },
   {
@@ -1784,11 +2032,13 @@ window.questionBank = [
       "Sostituire la definizione degli obiettivi commerciali",
       "Gestire l'implementazione dei tag e delle condizioni che ne attivano l'invio"
     ],
-    "correctAnswer": 3,
     "explanation": "Tag Manager aiuta a distribuire e gestire i tag. Servono comunque regole di attivazione corrette e una verifica degli eventi misurati.",
     "sourceSlides": [
       18,
       19
+    ],
+    "correctAnswers": [
+      3
     ]
   },
   {
@@ -1800,11 +2050,13 @@ window.questionBank = [
       "Che sia attiva obbligatoriamente una campagna Video",
       "Che il sito non abbia alcun tag di misurazione"
     ],
-    "correctAnswer": 0,
     "explanation": "Il collegamento degli account e la corretta raccolta dell'evento sono prerequisiti per misurare in Google Ads risultati provenienti da GA4. I vecchi percorsi dell'interfaccia Analytics non sono il riferimento operativo.",
     "sourceSlides": [
       22,
       25
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1816,10 +2068,12 @@ window.questionBank = [
       "Contare due volte lo stesso risultato come se fossero due acquisti distinti",
       "Impedire l'accesso a Merchant Center"
     ],
-    "correctAnswer": 2,
     "explanation": "Se due azioni rappresentano lo stesso acquisto, includerle entrambe senza criterio nell'ottimizzazione può duplicare il risultato. Occorre scegliere e verificare le azioni utilizzate.",
     "sourceSlides": [
       27
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1831,10 +2085,12 @@ window.questionBank = [
       "Come viene assegnato il merito delle conversioni alle interazioni pubblicitarie considerate",
       "Quale colore deve avere la pagina di destinazione"
     ],
-    "correctAnswer": 2,
     "explanation": "L'attribuzione riguarda l'assegnazione del credito alle interazioni nel percorso. Non sostituisce il tracciamento dell'evento di conversione.",
     "sourceSlides": [
       29
+    ],
+    "correctAnswers": [
+      2
     ]
   },
   {
@@ -1846,12 +2102,14 @@ window.questionBank = [
       "Garantisce una misurazione completa di tutti i contatti online e offline",
       "Attribuisce sempre più credito alla prima interazione"
     ],
-    "correctAnswer": 0,
     "explanation": "Concentrarsi sull'ultimo clic rende meno visibili le interazioni che possono aver contribuito prima alla decisione. Il corso lo illustra con l'analogia dell'assist nel basket.",
     "sourceSlides": [
       32,
       34,
       39
+    ],
+    "correctAnswers": [
+      0
     ]
   },
   {
@@ -1863,10 +2121,12 @@ window.questionBank = [
       "Calcola il merito soltanto in base al CPC più alto",
       "Divide sempre il credito in parti uguali indipendentemente dai dati"
     ],
-    "correctAnswer": 1,
     "explanation": "Il modello basato sui dati utilizza i dati disponibili per valutare il contributo delle interazioni. Non applica una suddivisione fissa uguale per ogni percorso.",
     "sourceSlides": [
       38
+    ],
+    "correctAnswers": [
+      1
     ]
   }
 ];

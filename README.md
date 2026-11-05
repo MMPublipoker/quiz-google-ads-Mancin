@@ -44,7 +44,7 @@ Ogni domanda ha questa struttura:
     "Risposta C",
     "Risposta D",
   ],
-  correctAnswer: 1,
+  correctAnswers: [1],
   explanation: "Breve spiegazione finale",
   sourceSlides: [8]
 }
@@ -53,12 +53,15 @@ Ogni domanda ha questa struttura:
 ## Come funziona il quiz
 
 - Il tool contiene una banca da `120 domande`, con `20 domande per ciascuna delle 6 lezioni`.
-- La banca include definizioni, casi pratici e calcoli guidati. Ogni domanda ha quattro opzioni, una risposta corretta, una spiegazione e i numeri delle slide da ripassare, visibili nel riepilogo.
+- La banca include definizioni, casi pratici e calcoli guidati. Ogni domanda ha quattro opzioni, una o più risposte corrette, una spiegazione e i numeri delle slide da ripassare, visibili nel riepilogo.
 - A ogni nuovo tentativo estrae `20 domande casuali` senza ripetizioni nella stessa sessione.
-- `correctAnswer` parte da `0`, quindi `0` = prima risposta, `1` = seconda, e cosi' via.
+- `correctAnswers` contiene gli indici delle opzioni corrette nella banca (da zero). Un indice indica selezione singola; più indici indicano selezione multipla.
+- Le opzioni vengono mescolate con Fisher–Yates e casualità del browser a ogni nuovo tentativo; ordine e selezioni restano stabili durante navigazione e ricaricamento. Nessun bilanciamento forzato delle lettere.
+- Ogni domanda vale un punto soltanto se vengono selezionate tutte le opzioni corrette e nessuna errata. Nessun punteggio parziale.
+- La banca contiene 12 domande a selezione multipla, due per lezione.
 - Il tool mostra numero di risposte corrette, percentuale e riepilogo finale.
 - Il punteggio finale e' impostato con minimo `1/20`, come richiesto.
-- I tentativi della precedente banca da 60 domande non vengono ripresi: la nuova banca usa una chiave di salvataggio distinta per evitare di associare vecchie risposte a domande diverse.
+- I tentativi delle precedenti versioni della banca non vengono ripresi: la nuova banca usa una chiave di salvataggio distinta per evitare di associare vecchie risposte a domande diverse.
 
 ## Verifica della banca domande
 
@@ -68,7 +71,7 @@ Non occorre installare dipendenze. Con Node.js disponibile:
 node --test tests/question-bank.test.cjs
 ```
 
-Il controllo verifica struttura, copertura delle lezioni, riferimenti alle slide, assenza di testi duplicati e distribuzione delle risposte corrette. La correttezza didattica richiede anche revisione editoriale, documentata nella nota sui contenuti.
+Il controllo verifica struttura, copertura delle lezioni, riferimenti alle slide, assenza di testi duplicati e selezione multipla, mescolamento, punteggi e ripristino dei progressi. La correttezza didattica richiede anche revisione editoriale, documentata nella nota sui contenuti.
 
 ## Deploy consigliato
 
@@ -90,7 +93,6 @@ Il progetto non richiede backend ne' build system. Puoi pubblicarlo come sito st
 
 ## Evoluzioni possibili
 
-- shuffle casuale anche delle risposte
 - timer per simulazione esame
 - soglia di superamento
 - esportazione risultato in PDF

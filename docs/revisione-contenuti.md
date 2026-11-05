@@ -19,14 +19,14 @@ I riferimenti identificano il concetto da ripassare: non implicano che tutte le 
 
 ## Criteri editoriali
 
-- Una sola risposta corretta su quattro; distrattori riferiti a errori concettuali o di calcolo.
+- Quattro opzioni con una o più risposte corrette; 12 quesiti a selezione multipla (due per lezione). I distrattori rappresentano errori concettuali o di calcolo.
 - Alternanza di definizioni, applicazioni pratiche e calcoli con tutti i dati necessari.
 - Nessuna promessa di rendimento, posizione, costo o volume garantiti.
 - Nessuna soglia numerica presentata come requisito universale quando dipende da campagna, account o configurazione.
 - Distinzione fra quantità e qualità dei risultati, ricavi e profitto, clic e conversioni.
 - Punteggio di qualità trattato come indicatore diagnostico, distinto dalla valutazione della qualità in asta.
 - Terminologia aggiornata: Profilo dell'attività su Google, tag Google, Google Analytics 4 ed eventi chiave, senza riproporre percorsi operativi di Universal Analytics.
-- Cinque risposte corrette per ciascuna posizione A/B/C/D in ogni lezione, con ordine distribuito nella banca. Non viene introdotto lo shuffle delle opzioni durante il test.
+- Opzioni mescolate a ogni tentativo con Fisher–Yates e casualità crittografica del browser, senza quote fisse tra le lettere. Ordine salvato per navigazione e ricaricamento. Un punto soltanto per la selezione esatta di tutte le risposte corrette.
 
 La numerosità è equilibrata nella banca, non nel singolo tentativo: l'app continua a estrarre 20 domande casuali dall'intero insieme, senza quote obbligatorie per lezione.
 
@@ -67,4 +67,4 @@ In assenza di quella verifica, sono stati esclusi i dettagli dubbi o soggetti a 
 
 ## Compatibilità con i tentativi salvati
 
-La revisione cambia contenuti, opzioni e posizione delle domande. Poiché il salvataggio precedente memorizzava indici e non identificativi stabili, l'app usa ora `google-ads-quiz-tool-state-v2`. I tentativi della vecchia banca non sono ripresi né convertiti; il vecchio salvataggio non viene cancellato. I nuovi tentativi continuano a essere salvati e ripristinati normalmente.
+La revisione cambia contenuti, opzioni e posizione delle domande. Poiché il salvataggio precedente memorizzava indici e non identificativi stabili, l'app usa ora `google-ads-quiz-tool-state-v3`. I tentativi delle precedenti versioni della banca non sono ripresi né convertiti; il vecchio salvataggio non viene cancellato. I nuovi tentativi continuano a essere salvati e ripristinati normalmente.
